@@ -131,25 +131,32 @@ def translate_lists(lists_file:str, french_file:str, target_language:str, prompt
     lists = load_lists(lists_file)
     french_lists = load_lists(french_file)
     if prompt:  info = get_deepl_info()  # needed for first loop
-    for listname, thelist in lists.items():
-        if listname in french_lists:
-            continue
-        try:
+    to_translate = []
+    try:
+        for listname, thelist in lists.items():
+            if listname in french_lists:
+                continue
             if prompt:
                 ans = input(f"Translate {listname} ? ({round(sum(map(len, thelist)) / info.character_limit * 100, 2)}%/{round(info.character_count / info.character_limit * 100, 2)}% deepl usage) [y/N]")
                 if ans.lower() not in {'y', 'yes', 'oui', 'o'}:
                     continue
                 if ans.lower() in {'q', 'quit', 'exit', ':q'}:
                     break
+            to_translate.append(listname)
+    except KeyboardInterrupt:
+        pass
+    try:
+        for listname in to_translate:
             # listname_fr = translated(listname.replace('-', ' '), target_language).replace(' ', '-')
             listname_fr = listname  # don't translate ! This would make as if it doesn't exists…
-            thelist_fr = list(translate_with_progress_bar(thelist, target_language))
-        except KeyboardInterrupt:
-            break
-        french_lists[listname_fr] = thelist_fr
-        info = get_deepl_info()
-        print(f"\rlist {listname} translated ({round(info.character_count / info.character_limit * 100, 2)}% deepl usage).")
-    save_lists(french_file, french_lists)
+            thelist_fr = list(translate_with_progress_bar(lists[listname], target_language))
+            french_lists[listname_fr] = thelist_fr
+            info = get_deepl_info()
+            print(f"\rlist {listname} translated ({round(info.character_count / info.character_limit * 100, 2)}% deepl usage).")
+    except KeyboardInterrupt:
+        pass
+    finally:
+        save_lists(french_file, french_lists)
 
 
 
