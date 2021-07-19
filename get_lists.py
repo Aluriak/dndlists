@@ -19,6 +19,8 @@ def parse_cli():
     parser.add_argument('targets', type=str, nargs='*', help='webpages to extract')
     parser.add_argument('--translate', '-d', action='store_true', help="perform the deepl calls")
     parser.add_argument('--translate-to', type=str, default='FR', help="target language for translations")
+    parser.add_argument('--width', type=int, default=130, help="line width in rendered files")
+
     return parser.parse_args()
 
 
@@ -44,7 +46,11 @@ def translate_with_progress_bar(strings:list[str], target_language:str) -> list[
 def get_deepl_info():
     return deepl_api.DeepL(os.getenv("DEEPL_API_KEY")).usage_information()
 
-MAX_CHAR_DEEPL = get_deepl_info().character_limit
+try:
+    MAX_CHAR_DEEPL = get_deepl_info().character_limit
+except AttributeError:
+    print(f'DeepL is not correctly setupped (DEEPL_API_KEY envar). No translation available.')
+    MAX_CHAR_DEEPL = None
 
 
 def show_lists(list_dir:str, width:int=80):
@@ -71,11 +77,12 @@ def load_lists(lists_file:str) -> dict:
 
 def ok(s:str) -> bool:
     return s.startswith('"') and s.endswith('",')
-def formt(idx:int, s:str) -> str:
+def formt_line_content(idx:int, s:str, w:int) -> str:
     s = s.strip('," \n')
-    s = textwrap.fill(s, 97)
+    s = textwrap.fill(s, w)
     s = textwrap.indent(s, '   ')
-    return f'{idx:02d}' + s[2:]
+    idx = '00' if idx == 100 else f'{idx:2d}'
+    return idx + ' ' + s[3:]
 
 def without_prefix(url:str, prefix:str=URL_PREFIX) -> str:
     "Return the same url, without the given prefix"
@@ -117,9 +124,13 @@ def parse_lists(page_dir:str, lists_file:str):
 
 def get_list_stat(strings:list[str], *, ret=float) -> print or str or float:
     nb_char = sum(map(len, strings))
-    percent_deepl = round(nb_char / MAX_CHAR_DEEPL * 100, 2)
+    if MAX_CHAR_DEEPL:
+        percent_deepl = round(nb_char / MAX_CHAR_DEEPL * 100, 2)
+        percent_deepl = f", {percent_deepl}% of deepl limit"
+    else:
+        percent_deepl = ''
     if ret is str:
-        return f"{nb_char} characters, {percent_deepl}% of deepl limit"
+        return f"{nb_char} characters{percent_deepl}"
     elif ret is print:
         print(get_list_stat(strings, ret=str))
     else:
@@ -159,6 +170,19 @@ def translate_lists(lists_file:str, french_file:str, target_language:str, prompt
         save_lists(french_file, french_lists)
 
 
+def render_lists(lists_file:str, render_dir:str, width:int=80) -> [str]:
+    lists = load_lists(lists_file)
+    for listname, items in lists.items():
+        fname = os.path.join(render_dir, listname + '.txt')
+        yield fname, ''.join((render_list(listname, items, width=width)))
+
+def render_list(title:str, items:list, width:int=80) -> [str]:
+    yield title.replace('-', ' ').center(width) + '\n\n'
+    for idx, item in enumerate(items, start=1):
+        yield formt_line_content(idx, item, width) + '\n'
+
+
+
 
 if __name__ == "__main__":
     args = parse_cli()
@@ -167,19 +191,32 @@ if __name__ == "__main__":
     PAGE_DIR = DATA_DIR + '/pages'
     LIST_FILE = DATA_DIR + '/lists.json'
     FRENCH_LIST_FILE = DATA_DIR + '/lists-fr.json'
+    RENDER_DIR = DATA_DIR + '/render/'
+    RENDER_FR_DIR = DATA_DIR + '/render-fr/'
     os.makedirs(PAGE_DIR, exist_ok=True)  # html pages
+    os.makedirs(RENDER_DIR, exist_ok=True)  # rendered pages
+    os.makedirs(RENDER_FR_DIR, exist_ok=True)  # rendered pages
 
     get_missing_pages(args.targets, PAGE_DIR)
     parse_lists(PAGE_DIR, LIST_FILE)
-    if args.translate:
+    if MAX_CHAR_DEEPL and args.translate:
         translate_lists(LIST_FILE, FRENCH_LIST_FILE, args.translate_to, prompt=True)
-        print('\n')
-        show_lists(FRENCH_LIST_FILE, width=90)
     else:
         show_lists(LIST_FILE, width=90)
+
+    print('\n')
+    for fname, content in render_lists(LIST_FILE, RENDER_DIR, width=args.width):
+        with open(fname, 'w') as fd:
+            fd.write(content)
+        print(f"{fname} rendered")
+
+    print('\n')
+    for fname, content in render_lists(FRENCH_LIST_FILE, RENDER_FR_DIR, width=args.width):
+        with open(fname, 'w') as fd:
+            fd.write(content)
+        print(f"{fname} rendered")
+
+    if MAX_CHAR_DEEPL:
         print('\n')
-        show_lists(FRENCH_LIST_FILE, width=90)
-
-    info = get_deepl_info()
-    print(f"Current Deepl usage information: {round(info.character_count / info.character_limit * 100, 2)}% usage")
-
+        info = get_deepl_info()
+        print(f"Current Deepl usage information: {round(info.character_count / info.character_limit * 100, 2)}% usage")
