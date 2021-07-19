@@ -1,0 +1,176 @@
+                                                      random potion effects                                                       
+
+ 1 Une potion qui, versée sur le sol, fait pousser un hectare d'arbres en une nuit. Si on la boit..... Eh bien, c'est malheureux.
+ 2 Fromage de l'alchimiste : une potion jaune-blanc si épaisse qu'elle doit être chauffée pour être assez visqueuse pour couler. A le
+   goût du fromage normal. Après consommation, le buveur vomira divers produits laitiers tout au long de la journée, notamment du
+   lait, du fromage, de la crème glacée et du yaourt. Le produit provient de l'animal qui a servi à la fabrication de la potion et
+   est entièrement comestible.
+ 3 Une érection qui dure plus de 4 heures.
+ 4 Larmes de Basalisk : Une potion transparente. A un goût d'eau salée. Transforme la pierre en chair lorsqu'elle est utilisée sur un
+   objet ou une personne pétrifiée. Lorsqu'elle est utilisée sur une pierre normale, elle se transforme en une viande au hasard.
+ 5 Potion de chou - Une potion qui transforme son buveur en chou. Lancez un 1d20, c'est le nombre de jours pendant lesquels la
+   personne reste un chou, sur un 20, elle devient définitivement un chou. La potion inclut la télépathie pour le chou.
+ 6 Poison Catharsis : Une potion liquide d'un rouge profond. A un goût de mauvais vin. Après avoir bu, le buveur transpire
+   abondamment, puis il vomit, pleure, urine et a la diarrhée pendant 3d6 minutes. Si le buveur survit, il perd tout attachement
+   émotionnel pendant 2d4 jours.
+ 7 Le personnage ne peut parler qu'en haïkus, chaque haïku doit faire référence à une vision de la nature d'une manière ou d'une
+   autre ("le soleil se couche rapidement, ce donjon respire une odeur nauséabonde, les gobelins nous attendent").
+ 8 Potion d'amour classique.
+ 9 Potion vert foncé : a un goût froid et vous transforme en homme-lézard, de façon permanente.
+10 Elixir de Menthe : Lorsque vous le buvez, vous pouvez exhaler un souffle glacial dans un cône de 15 pieds. Chaque créature dans la
+   zone doit effectuer une sauvegarde de Constitution DC13, ou subir 3d6 dégâts de froid, et la moitié en cas de réussite.
+11 Pendant les 2d6 prochaines minutes, toute surface glissante ou collante est traitée comme un terrain normal pour vous, mais tout
+   terrain normal est traité comme 1d2 : 1) collant 2) glissant.
+12 Obtenir la vue pendant 1d10 heures, puis s'évanouir pendant 1d10 heures.
+13 Se saouler pendant 1d6 heures.
+14 Sirop de Gommi Forrest : Une potion épaisse, rougeoyante et cyan. A un goût de myrtilles et de miel. Lorsqu'il est bu, tous les
+   fluides corporels s'illuminent d'un bleu vif et émettent une lueur feinte pendant 2d6 jours. Cette lueur devient plus forte en cas
+   de saignement.
+15 Faites pousser des plumes pendant 1d8 heures.
+16 Fait pousser une caractéristique hideuse qui dure 1d8 heures (comme des mandibules).
+17 Sang d'Hathopod : Une potion noire avec des taches de vert. A un goût de pomme pourrie. En la buvant, on obtient une immunité
+   contre tous les effets négatifs qui seraient obtenus par une substance pénétrant dans le corps pendant 1d4 jours.
+18 Holtven Panacea : Une potion dorée brillante avec des tourbillons de rose. A un goût de cerises et de sorbet. En la buvant, toutes
+   les conditions négatives sont supprimées, la santé est restaurée à son maximum et toute blessure est instantanément guérie.
+   Extrêmement chère.
+19 Ça change votre sexe.
+20 C'était juste de l'alcool de contrebande ! Désavantage sur les tests de dextérité.
+21 C'est une potion de rage ! Cette potion vous donne de la rage comme un barbare. La bouteille contient assez de liquide pour deux
+   boissons.
+22 C'est un anticoagulant ! Pendant 1 jour, vous vous videz de votre sang après avoir été touché. Prenez la moitié des dégâts
+   infligés lors de votre premier coup et soustrayez-la pour tous les rounds suivants jusqu'à ce que vous soyez guéri.
+23 Il est si amer qu'il vous fait vomir abondamment pendant 1d4 heures. Désavantage sur les tests de furtivité à cause de tout le son
+   et les tests de localisation contre vous ont l'avantage. Peut être utilisé comme arme, traiter comme Acid Splash, 2d6 dégâts
+   d'acide.
+24 Solution de cristal de lotus : Une potion rose pétillante. A un goût de sucre et de bubble gum. En la buvant, toutes les
+   améliorations des scores de capacité sont doublées pendant 1d6 heures. Après la 5e fois que le buveur boit ce genre de potion,
+   tous les bonus de stat sont réduits de moitié lorsqu'il n'est pas sous l'effet de la potion.
+25 La prochaine fois que vous serez touché par une créature morte-vivante ou un sort nécrotique, vous devrez faire une sauvegarde
+   CONS CR 18. En cas d'échec, votre corps se met à trembler, car aucun simple mortel ne peut résister au mal du thriller (Vous
+   commencez à devenir un zombie. La transformation dure 2d6 jours, et peut être dissipée par la magie, avant qu'elle ne soit
+   achevée).
+26 Potion d'équilibre : Pendant les 1d4 heures suivantes, un score de capacité aléatoire est augmenté de 6 (pas de maximum), et un
+   score de capacité aléatoire différent est diminué de 6 (pas de minimum).
+27 Potion de fausse vigueur : Lorsqu'elle est bue, donne 2d4+4 points de vie temporaires.
+28 Potion de guérison (gâchée) : Gagnez 2d4+4 points de vie et obtenez un état choisi au hasard pendant 1d4 heures : soit empoisonné,
+   soit aveuglé, soit assourdi.
+29 Potion de lévitation léthargique : Pendant l'heure qui suit, vous gagnez une vitesse de vol de 3 mètres, mais perdez votre vitesse
+   de marche.
+30 Potion de Vêtements Sentimentaux.
+31 Potion de feu intérieur : Lorsque vous la buvez, vous avez très chaud et vous sentez votre sang bouillir. Pendant les 6 heures
+   suivantes, vous devenez résistant aux dégâts de feu, et lorsque vous êtes touché par une attaque, chaque créature située à 1,5
+   mètre autour de vous doit effectuer un jet de sauvegarde de Dextérité DC12, ou subir 1d6 dégâts de feu, et la moitié en cas de
+   réussite.
+32 Faites un jet sur la table de polymorphisme.
+33 La bouteille contient un poison qui rend dépendant ! Lorsque vous le buvez, il a le goût de la pire chose que vous ayez jamais
+   goûtée, mais vous commencez rapidement à vouloir prendre un autre verre. Chaque verre provoque 1d6 dégâts, et il y a assez sur la
+   fiole pour cinq verres.
+34 Le contenu de la potion est en fait : une âme ! Si vous essayez de la boire, vous devez réussir un jet de sauvegarde de charisme
+   DC 13 ou votre âme sera échangée pendant 1d10 jours.
+35 Le buveur devient extrêmement attirant physiquement pendant 1d4 heures.
+36 Le buveur a un accent écossais pendant 1 heure, et subit 1d4 points de dégâts chaque fois que le joueur dit quelque chose dans son
+   personnage sans tenter d'utiliser cet accent.
+37 Le buveur est téléporté à l'endroit où il a trouvé la potion.
+38 Le buveur est téléporté à la source d'eau douce la plus proche, avec le sentiment qu'il doit remplir sa bouteille avec cette eau.
+39 Le buveur doit danser jusqu'à ce qu'il perde connaissance. Il ne sait pas qu'il doit perdre connaissance et résiste à toutes les
+   tentatives pour l'y obliger.
+40 Le buveur récupère tous ses emplacements de sorts, mais ne peut les utiliser que pour lancer un seul sort jusqu'au prochain repos
+   long.
+41 Le buveur devient d'un vert profond et peut faire de la photosynthèse, mais il doit consommer de la terre et/ou de l'engrais pour
+   y parvenir.
+42 La tête du buveur devient invisible. Il devient sourd-muet et muet pendant 1d4 minutes.
+43 Le nez du buveur est inversé, et s'enfonce dans sa tête.
+44 L'index de votre main dominante se met à briller d'une lumière vive dans un rayon de 20 pieds et d'une lumière tamisée sur 20
+   pieds supplémentaires pendant les 1d8 heures suivantes.
+45 Le liquide de cette fiole apparaît nacré et si vous vous y plongez suffisamment longtemps, vous pouvez voir dans son reflet des
+   formes fantomatiques et familières. Vous oubliez tout ce qui s'est passé depuis votre réveil.
+46 Le liquide est en fait du sang. Vous faites un test CR 10 WIS ou CHA. Si vous échouez, vous vomissez.
+47 Le liquide semble être de l'eau normale. La prochaine fois que vous êtes ciblé par un sort, cependant, son effet est doublé.
+48 La potion contient un fluide transparent hautement inflammable qui peut exploser en cas de mouvement intense, infligeant 1d4
+   points de dégâts par quart de litre autour de 2 mètres (+1 chaque demi-litre). Peut être utilisé pour créer des explosifs à base
+   de feu ou de shrapnel.
+49 La potion contient un acide inconnu qui traverse la chair et les organes sans les endommager, et ne s'arrête pas sur autre chose
+   que le verre. En fait, il passe à travers tout sauf le verre et les os, qu'il dissout assez douloureusement. C'est un jus qui fait
+   mal aux os.
+50 La potion a une forte saveur piquante et vous la sentez traverser votre corps. Quand elle arrive à vos pieds, vos
+   chaussures/bottes fondent.
+51 La potion contient des miettes flottantes de cuivre. En la buvant, vous renforcez votre système immunitaire et vous guérissez des
+   maladies.
+52 La potion est du Coca-Cola. Décrivez le goût sucré et le pétillement, mais n'utilisez pas le nom de la marque. Voyez si le joueur
+   trouve la réponse.
+53 La potion est une brume épaisse. Lorsque vous la consommez, votre peau devient visqueuse et vous respirez dans l'eau pendant 1d4
+   minutes, mais vous perdez la capacité de respirer au-dessus de l'eau.
+54 La potion est un élémentaire d'eau. La boire a le goût de l'eau la plus fraîche que vous ayez jamais bue. Dès que vous participez
+   à une activité vigoureuse, un élémentaire d'eau apparaît dans la même case que vous.
+55 La potion est rouge sang et contient des morceaux de chair, comme si un cerveau avait été passé au mixeur. En la buvant, l'humeur
+   et les pensées du joueur sont communiquées à tous les personnages situés dans un rayon de 30 pieds pendant une heure, comme si le
+   sort Détection des pensées était activé.
+56 La potion est claire, avec des paillettes qui flottent dedans. En la buvant, vous avez une haleine de menthe fraîche et vous
+   n'avez pas besoin de péter ou d'aller aux toilettes pendant 48 heures, car votre corps devient 100 % efficace.
+57 La potion est vide, quelqu'un a repeint le verre avec de la peinture bleue vive et l'a rapidement traité avec un sort d'Illusion
+   majeure. Qui gaspillerait un sort pour quelque chose d'aussi trivial ? Qui le sait ? Pas vous !
+58 La potion crée une forte dépendance (environ 1 aventurier expérimenté sur 4 en est victime), mais n'a aucun autre effet. Elle peut
+   être identifiée comme le défaut du héros par un pharmacien, un marchand expérimenté ou un revendeur local.
+59 La potion est légèrement visqueuse et sent le fer. En la buvant, votre bouche entière se remplit d'une saveur métallique, vous
+   rendant incapable de sentir ou de goûter pendant 1d4 heures, mais pendant cette durée, vous êtes immunisé contre les poisons
+   ingérés.
+60 La potion vous a rendu extrêmement inflammable ! Reste à l'écart du feu ou prépare-toi à ce que les choses s'enflamment !
+61 La potion ressemble à du thé à bulles contenant 1d10 petites boules de tapioca. Si vous mâchez les boules de tapioca, elles se
+   transforment en petits escargots ou en grenouilles dans votre bouche.
+62 La potion restaure un organe ou une partie du corps perdue, à condition qu'elle ne soit pas plus grande que le cœur d'un orc. La
+   partie du corps restaurée sera partiellement transparente et prendra une couleur blanche brumeuse, cependant, et la douleur
+   fantôme sera toujours ressentie le cas échéant.
+63 La potion a le goût du meilleur dessert que vous ayez jamais mangé, même si elle sent le chien mouillé. Boire cette potion vous
+   permet de bénéficier d'une journée complète de rations.
+64 La potion tombe vers le haut, défiant la gravité. Au lieu d'avoir l'effet attendu de lévitation, la potion vous laisse étourdi
+   alors qu'elle s'infiltre dans votre cerveau. -Vous perdez 1 % aux tests de perception et d'intelligence, mais pendant cette durée,
+   vous ne ressentez aucune douleur et gagnez 1 % aux tests d'endurance et de force.
+65 L'épaisse potion jaune se tord et bouge de son propre chef. Le liquide à l'intérieur essaie activement d'éviter d'être bu, en
+   s'accrochant à l'intérieur de la bouteille. Il s'agit en fait d'une minuscule gelée ocre.
+66 La fiole contient de l'eau. De l'eau teintée.
+67 Cette potion se présente sous la forme d'un liquide argenté et translucide qui, lorsqu'il est bu, rend votre corps mou et vous
+   transforme en une apparition fantomatique pendant une heure.
+68 Cette potion a une texture sanglante et bouillonnante. Vous avez une envie soudaine d'aller aux toilettes. Vous avez 10 minutes,
+   après quoi vous êtes frappé d'incapacité pour les 24 heures suivantes, à la fin desquelles vous tombez inconscient et réussissez à
+   pondre un œuf fécondé. L'œuf met un an à éclore alors que le dragon wyrmling s'imprime sur vous.
+69 Deux bras supplémentaires jaillissent de vos côtés et fonctionnent normalement pendant 10 minutes. Vous pouvez utiliser ces bras
+   pour effectuer une action bonus en combat. Après 10 minutes, les bras tombent soudainement, sans vie.
+70 Lorsque vous parlez, vous vous entendez normalement, mais les autres vous entendent comme un chien qui essaie de parler.
+71 Quand vous parlez, c'est du charabia, mais pour vous, cela semble parfaitement normal.
+72 Celui qui boit cette potion fait l'expérience d'un rêve éveillé très vif de son enfance qui le laisse secoué pendant 1d3 heures.
+73 On vous met le feu.
+74 Vous commencez à faire pousser des poils sur tout votre corps. Après 1d4 jours, tous vos cheveux commencent à tomber, à moins que
+   vous ne buviez davantage.
+75 Vous pouvez planer à 2 cm au-dessus du sol. La vitesse de base est maintenant de 40 pieds pendant 1d4 heures.
+76 Vous pouvez sauter quatre fois plus haut pendant 24 heures, et tous les dégâts de chute que vous subissez sont divisés par quatre
+   pendant cette durée.
+77 Vous pouvez parler 3 langues supplémentaires, choisies par le DM, pendant 1d10 jours.
+78 Vous bavez de manière incontrôlable pendant 1d4 heures.
+79 Vous pétez bruyamment toutes les 1d4 minutes (comme une action libre).
+80 Vous ressentez une extraordinaire fluidité et efficacité dans vos paroles et êtes capable d'exprimer des pensées avec une grande
+   clarté pendant 1d6 heures.
+81 Vous sentez votre peau devenir plus dure. Votre CA est augmenté de 3, mais votre vitesse de déplacement est réduite de moitié.
+82 Vous oubliez tout ce qui s'est passé au cours des deux derniers jours.
+83 Vous avez une légère peur des flèches.
+84 Vous obtenez un seul sort de souhait, sauf que ce qui se passe est l'exact opposé de ce que vous avez demandé.
+85 Vous obtenez un seul sort de souhait.
+86 Vous obtenez un mouvement de vol égal à votre mouvement de marche, jusqu'à ce que vous atteigniez une hauteur de 30 mètres.
+87 Vous avez une belle barbe rousse qui vous descend jusqu'aux genoux.
+88 Tu as un troisième œil dans le front qui te donne une perception de +2.
+89 Il vous pousse un orteil supplémentaire sur chaque pied.
+90 Vous planez à 10 cm au-dessus du sol pendant 1d6 heures.
+91 Vous déchaînez immédiatement le souffle de feu d'un dragon wyrmling rouge directement devant vous.
+92 Vous voyez que tout le monde a un léger contour autour de lui, la couleur allant du vert au rouge, mais vous n'en connaissez pas
+   la signification. Cela vous montre depuis combien de temps quelqu'un n'a pas chié, le vert étant récent et le rouge lointain.
+93 Vous subissez les effets extérieurs de l'intoxication, mais votre score d'intelligence est augmenté de 8 ou jusqu'à 20 pendant 1d4
+   heures. Une fois le temps écoulé, vous récupérez de tous les effets et votre intelligence redevient normale.
+94 Votre STR est augmenté en permanence de 1. S'il est déjà de 20, il passe à 19.
+95 Votre WIS augmente de 1d4, et votre INT diminue de 1d4 pendant 2d12 heures.
+96 Votre corps commence lentement à devenir transparent, et vous finissez par devenir complètement invisible. Cela dure jusqu'à ce
+   que vous soyez touché.
+97 Votre haleine est fraîche et mentholée pendant une demi-heure après, mais votre estomac se retourne. Vous avez l'impression que
+   vous n'étiez pas censé l'avaler.
+98 Vos cheveux prennent la couleur de la potion que vous avez bue.
+99 Votre peau devient verte. Réduit votre intelligence et augmente votre force de 1d4 pendant 10 minutes.
+00 Vos veines semblent monter brièvement au sommet de votre corps. Elles laissent sur votre peau des marques violettes et bleues
+   foncées qui resteront sous forme de tatouages.

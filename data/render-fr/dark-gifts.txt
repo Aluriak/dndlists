@@ -1,0 +1,273 @@
+                                                            dark gifts                                                            
+
+ 1 Une carte qui, lorsqu'elle est utilisée (en lisant les mots magiques qui y figurent), porte chance au joueur pendant une heure.
+   Plus tard, cependant, le joueur aura vraiment de la malchance pendant une heure.
+ 2 Un cadeau pour Notre Dame de la Rétribution. Échangez la Justice contre la Miséricorde. Pour les paladins uniquement. Infligez 2d8
+   points de dégâts supplémentaires à Holy Smite. En conséquence, après le prochain repos long, votre réserve d'imposition des mains
+   est réduite de moitié et les 3 prochains sorts de soins sont désavantagés. Toute personne utilisant cette capacité 3 fois gagne le
+   défaut 'Je trouve difficile de différencier les grands péchés des petites infractions. Tous sont coupables.
+ 3 Un cadeau de grand-mère Pigknuckle - Vous pouvez casser un des os de votre main. Cela nécessite un test de Constitution et vous
+   désavantage sur les tests de Dextérité. Si vous y parvenez, vous pouvez vous emparer des os d'un ennemi de taille moyenne ou de
+   deux petits ennemis que vous pouvez voir. Cela les domine essentiellement (un test contesté contre les Arcanes ou l'Intimidation
+   pour agir contrairement à votre caprice) et s'ils sont tués, leurs squelettes s'arrachent de leur chair, animés et loyaux envers
+   vous. Cela reste jusqu'à ce que votre os soit guéri ou qu'ils soient détruits.
+ 4 Un cadeau de Sardit, le toujours invisible - vous pouvez gagner un avantage sur les tests de furtivité pendant un jour en échange
+   d'un désavantage sur les compétences sociales pendant 3 jours. De plus, vous pouvez vous rendre invisible 3 fois par jour ; chaque
+   fois que vous le faites, quelqu'un que vous connaissez oublie votre existence.
+ 5 Un cadeau de Xerielle, Dame des vérités vénéneuses - Vous gagnez un avantage sur deux tests de tromperie par jour, mais vous devez
+   dire la vérité absolue à un moment où elle sera la plus blessante pour une autre personne.
+ 6 Une demi-pièce qui vous permet "d'emprunter de la chance" à votre futur. A toutes fins utiles, vous pouvez transformer des 1 en
+   20... mais à tout moment dans le futur, le DM peut transformer vos 20 en 1. Saveur : si le personnage regarde la pièce après avoir
+   'emprunté de la chance', la moitié de la pièce devient l'autre moitié.
+ 7 Un anneau qui augmente la constitution de 2. Nécessite un accord. Ne peut être enlevé ou désaccouplé sans enlever le doigt.
+ 8 Une sinistre insomnie vous injecte une énergie nerveuse tout au long de la journée, vous revigorant constamment au point que votre
+   corps et votre esprit peuvent à peine se détendre. Vous constatez que si vous obtenez les bénéfices d'un long repos en la moitié
+   du temps qu'il vous faudrait à l'origine pour le faire, vous êtes incapable d'obtenir les bénéfices d'un court repos chaque fois
+   que vous en prenez un.
+ 9 Baby's Breath - Tous les coups critiques font des dégâts maximums, et les magies d'armes ou offensives font 1d10 dégâts
+   nécrotiques supplémentaires. Tout ce qui est tué par vous est transformé en sa forme la plus innocente (un jeune enfant, un ourson
+   mignon, un bébé) un instant avant que le coup ne tombe. Cela crée à la fois des problèmes externes (expliquer que les enfants
+   morts étaient des bandits peut être difficile à vendre) et des problèmes internes (une sauvegarde de sagesse ou une pénalité
+   appropriée).
+10 Bénédiction du marchandage : Les commerçants et autres personnes similaires vous offrent inexplicablement (mais seulement à vous)
+   des réductions (10%-50%) lorsque vous marchandez avec eux. Vous ressentez une forte envie d'acheter plus que ce dont vous avez
+   besoin, y compris des objets que vous et votre groupe ne pouvez pas utiliser. Il vous est presque impossible de faire vos courses
+   sans acheter quelque chose en plus. Même si vous faites vos courses avec un assistant pour limiter les achats impulsifs, vous
+   proposez toujours d'acheter des articles supplémentaires lorsque vous marchandez avec le commerçant.
+11 Bloodbane- Vous gagnez une résistance aux dommages de 3/- tous. Cependant, quelqu'un qui a ou aura une dent contre vous devient
+   également votre fléau - vous êtes vulnérable à ses attaques. Vous ne savez pas qui est votre fléau, et il change si vous le
+   battez. Le créateur de ce don aime le conférer aux paranoïaques.
+12 Appelez vos semblables : Une fois par jour, vous pouvez invoquer des essaims de vermine de niveau approprié. Le nombre, le type de
+   vermine, le lieu de ponte et le comportement de ces essaims ne sont pas sous votre contrôle. Ils attaquent tout le monde sauf vous
+   sans distinction, consomment les cadavres des morts et détruisent les denrées périssables autour d'eux.
+13 Dark Healer - le surdoué possède une capacité surnaturelle inexpliquée à transférer de la santé entre deux créatures de même
+   taille. Deux fois par semaine, il peut toucher deux créatures et transférer 2d6 points de vie de l'une à l'autre, sans jamais en
+   voler trop. Cependant, 1d6 rounds plus tard, le doué subit 1d3 dégâts psychiques, et doit faire une sauvegarde de Sagesse ou ce
+   sont des dégâts permanents.
+14 Docteur du Diable : Vous tirez votre pouvoir des divinités déchues qui ont été enchaînées dans les ténèbres mais qui aspirent
+   toujours de manière obsessionnelle à voir leur travail s'accomplir sur les vivants. Vous pouvez lancer les sorts de guérison
+   suivants sans dépenser de composants. A) Guérison des blessures : (lvl 1-5 : 1/jour, lvl6-10 : 2/jour, lvl11-15 : 3/jour, lvl16+ :
+   4/jour), et B) Lesser Restoration : Une fois par jour, et C) Restauration supérieure : Une fois tous les trois jours. Vous lancez
+   le sort au niveau de base et les bonus qui améliorent vos capacités de guérison (tels que les feats, les domaines ou les avantages
+   de classe) ne s'appliquent pas car ces pouvoirs proviennent d'un endroit sombre. Ces sorts ne peuvent pas être lancés furtivement
+   ; à l'inverse, les lancer attire l'attention. Vos coéquipiers préfèrent votre toucher de guérison, même si un clerc plus compétent
+   est présent. Les malades et ceux qui les soignent ont des visions de votre venue en tant que guérisseur aux pouvoirs inhabituels.
+   Ils sont attirés vers vous, réclament votre attention et peuvent devenir violents si vous ne les aidez pas d'une manière ou d'une
+   autre. Vous devez vous cacher en public pour éviter d'être accosté.
+15 Boon du Noyeur : Vous gagnez la respiration aquatique à volonté et disposez d'une vitesse de nage égale à votre vitesse de
+   déplacement. Vous perdez temporairement ces capacités et gagnez un niveau d'épuisement le lendemain si vous ne vous êtes pas noyé
+   dans une étendue d'eau suffisamment grande pour vous immerger complètement au cours de la journée précédente. Se noyer ne vous
+   cause aucun dommage autre que psychologique. Terminer votre noyade quotidienne supprime l'épuisement et restaure votre don obscur.
+16 Compétence améliorée (disons +2 sur les contrôles basés sur le corps comme les attaques ou les contrôles de Dex) les jours de
+   nouvelle et de pleine lune, mais dès que la nuit tombe, le corps du PC s'épuise et force un sommeil incassable. Jusqu'à l'aube,
+   tout ce dont rêve le PC peut entrer dans le plan matériel et prendre une forme physique. Je lancerais probablement le dé sur une
+   table d30 ou d100 où 5-10% des résultats sont des objets sucrés, et les autres 90-95% sont des monstres ou des personnes avec
+   lesquelles faire des rencontres ou des interactions sociales. A l'aube, le PC endormi se réveille, mais ce qui a été invoqué
+   reste.
+17 Entropiste : Le monde s'effrite à ton contact. La pierre se transforme en gravier, le bois en sciure, et les amis en os blanchis.
+   Les gants et les armes se désintègrent également dans vos mains. Les autres parties de votre corps (pieds, torse, etc.) ne
+   produisent pas le même effet.
+18 À chaque rencontre avec une créature plus faible que vous, vous pouvez lancer un charme sans utiliser d'emplacement de sort.
+   Cependant, en cas d'échec, vous subissez 20 dégâts psychiques + (votre niveau actuel) d4.
+19 Faux espoir : gagne +2 à la Constitution mais rate définitivement un jet de sauvegarde contre la mort.
+20 Pendant 24 heures, vous gagnez +1 à toutes vos stats. Pendant les 24 heures suivantes, vous gagnez un niveau d'épuisement. Cet
+   épuisement ne peut être retiré avant la fin des 24 heures suivantes.
+21 Pendant 24 heures, vous gagnez +2 Charisme, mais tous les vêtements que vous portez deviennent invisibles.
+22 Gagnez un bonus à un attribut. Vous ne pouvez pas franchir les portes.
+23 Gagnez un bonus à votre initiative. Vous ne pouvez pas donner de l'aide ou de l'assistance sans recevoir de paiement.
+24 Obtenez une fois par jour le pouvoir d'invoquer une petite tempête de foudre, mais les éclairs frappent sans distinction.
+25 St. Jude à capuche : Vous êtes marqué par le saint déchu des causes perdues. Vous pouvez créer une marque identique sur une
+   personne volontaire, qui reçoit un miracle mineur (guérir un enfant mourant, retrouver la vue, etc.) en échange d'une servitude
+   éternelle au saint déchu. Le miracle doit être désintéressé.
+26 Augmente les dégâts infligés, mais les dégâts supplémentaires sont également infligés à l'un de vos alliés.
+27 La poisse : Vous volez la chance des autres, transmettant le malheur à la personne la plus proche alors que le désastre vous
+   aurait autrement frappé.
+28 Peut une fois par rencontre faire 1d10 dégâts de n'importe quel élément à un ennemi, mais plus vous l'utilisez, plus vous vous
+   transformez en créature alchimique de la vie : une chimère.
+29 Touche Midas - transforme lentement en or toutes les choses inanimées et non métalliques que vous touchez. L'or compte pour 1/50
+   de sa valeur en poids lorsque vous le soulevez. En 24 heures, votre équipement double de poids et devient l'équivalent de sa
+   valeur en or, et devient restrictif, vous donnant un désavantage sur les jets liés à la STR et la DEX. Vous laissez des traces de
+   pas en or qui permettent de vous suivre plus facilement lorsque vous êtes pieds nus. Cet effet de l'or s'étend comme le givre.
+   Vous développez une haine de l'or.
+30 Vol de Nocturne- Une fois entre deux longs repos, vous pouvez immédiatement gagner le bénéfice d'un court repos. Lors de votre
+   prochain repos long, un membre (aléatoire) de votre groupe est frappé d'insomnie et ne bénéficie pas du repos.
+31 Ce n'est pas le coussin de corps que vous espériez : Vous effectuez des jets de sauvegarde en cas de décès avec un avantage. Vous
+   devez dormir directement à côté du cadavre d'un humanoïde sensible de la même classe de taille que vous pour bénéficier des
+   avantages d'un long repos. Ce cadavre doit être en état d'être relevé d'entre les morts et ne peut être un mort-vivant.
+32 Un de vos yeux est remplacé par un œil reptilien jauni. Cela confère une vision noire permanente de 60' ou ajoute 60' à toute
+   vision noire existante, ainsi qu'une utilisation quotidienne de Détection de la magie. Cependant, l'œil se déplace de son propre
+   gré et éclatera si le donateur est trahi.
+33 Infliction polyédrique - Jusqu'à trois fois par jour, vous pouvez toucher un personnage joueur comme un sort de concentration.
+   Pendant la minute suivante, il peut choisir de lancer 1d4 et l'ajouter à un test de capacité. (Voir le cantrip Guidance) Le joueur
+   visé doit effectuer le test de capacité avec le dé qu'il estime être le plus malchanceux.
+34 Le Bastion du Rat : Il ressemble à un grand bouclier standard à miroir, mais le milieu est courbé et les personnes qui se tiennent
+   à vos côtés peuvent voir le reflet de l'ennemi. En raison de la construction unique de ce bouclier orné, vous pouvez rediriger les
+   coups sur d'autres personnes situées à moins de 1,5 m de vous en réaction. Naturellement, vous ne pouvez le faire qu'une fois par
+   tour. Le problème, à part le fait que personne ne veut plus se tenir à côté de vous, est une compulsion pour éviter d'être frappé
+   aux dépens des autres. Ainsi, non seulement vous évitez le mal, mais vous devez aussi chercher activement à offrir d'autres
+   personnes sur le chemin du mal. Si c'est vous ou l'orphelin qui affronte le taureau, le monde comptera un orphelin de moins.
+35 Langue d'argent - Vous êtes inhabituellement charismatique. Toutes les compétences de charisme bénéficient d'un +2 et, une fois
+   par jour, vous pouvez lancer Charmeur au niveau 1, mais vous avez l'impression de vous décomposer de l'intérieur avec le temps.
+36 Skeleton Key : La chair de vos deux doigts d'index pourrit et tombe. L'os restant durcit, se reforme et devient une clé de tension
+   et un pic. Vous devenez compétent en matière de lockpicking si vous ne l'étiez pas déjà et effectuez des tests avec avantage si
+   vous l'étiez déjà. Vous avez du mal à résister à l'envie de déverrouiller ce qui est verrouillé, même si vous n'avez aucune envie
+   de voler.
+37 Oracle langue de serpent : Une fois par jour, vous pouvez poser au MJ une simple question par oui ou par non sur un événement ou
+   un défi à venir. Le MJ vous remet un papier avec la réponse véridique, mais il peut aussi vous ordonner de mentir sur la réponse
+   et de tromper vos compagnons de jeu au mieux de vos capacités.
+38 Allocation tabou : Une petite quantité d'or, mais de niveau approprié, apparaît comme par magie dans vos poches après un long
+   repos. Votre MJ choisit (secrètement) un mot tabou dont vous êtes informé et que vous ne pouvez pas dire aux autres. Si un joueur
+   ou un personnage sous son contrôle prononce ce mot, vous perdez immédiatement 5x* la valeur de votre monnaie de poche magique en
+   monnaie et équipement de votre choix. Votre MJ choisit alors un nouveau mot tabou. *Le montant perdu doit être inversement ajusté
+   à la méchanceté inhérente du MJ).
+39 Le gobelet de la vie empruntée : Buvez les riches eaux rouges du magnifique gobelet orné de démons et vous récupérerez 1d10 points
+   de vie pour chaque gobelet plein consommé. Le gobelet se remplit à ras bord une fois par heure et ne se renverse jamais. Le
+   problème est qu'à chaque fois que vous utilisez cet objet, une quantité proportionnelle de santé est perdue pour vous ou un allié
+   avec qui vous le partagez au réveil de votre prochain repos. Ne vous buvez pas jusqu'à la mort ! Mais partagez-le peut-être avec
+   quelqu'un que vous détestez.
+40 La Lyre de la nostalgie Au-delà de la simple fascination, la Lyre de la nostalgie est un instrument qui crée un vide intense chez
+   sa victime lorsqu'elle est utilisée pour contraindre les autres. Les jets de sauvegarde pour résister aux enchantements échouent
+   automatiquement car la cible n'a tout simplement ni la volonté ni le désir de combattre celui qui en joue - elle a été privée de
+   sa volonté par le vide. Le problème est que le vide est un mécène terriblement affamé. Jouer la Lyre de la nostalgie fait baisser
+   toutes les statistiques physiques. Chaque utilisation coûte un seul point de Force, de Dextérité et de Constitution qui ne revient
+   qu'au rythme d'un par semaine pour une catégorie. La plupart des personnes qui font appel à ce terrible pouvoir se sont vidées de
+   leur énergie ou ont simplement succombé à une maladie ordinaire après des années d'abus, faibles comme des chatons et entourés de
+   disciples sans âme.
+41 La capacité de lancer le mot de pouvoir tuer qui se réinitialise 7 aubes après le lancer. Lorsqu'il est utilisé, il tue un
+   personnage aléatoire, celui que le lanceur de PWK a rencontré dans sa vie.
+42 La capacité de lancer des sorts à un niveau supérieur à la normale égal aux fractions de la durée de vie (en utilisant la moyenne
+   de chaque race) versées automatiquement dans le pouvoir. Par exemple, lancer un sort de troisième niveau au neuvième niveau
+   nécessite 6 niveaux supplémentaires x 1/15 (7%) de la durée de vie moyenne de la race du PC. Donc 5 ans environ par niveau
+   supplémentaire pour un humain, et 50 ans environ par niveau supplémentaire pour un elfe. Peut également être transformé en
+   enchantement d'arme.
+43 Le personnage bénéficie d'un bonus à son jet de dégâts - au détriment de la santé de son coéquipier.
+44 Le surdoué peut parler n'importe quelle langue mais ne peut plus lire les textes non magiques.
+45 Le doué est soigné par l'épuisement involontaire des charges d'objets magiques de ses coéquipiers.
+46 La personne dotée de ce "don sombre" peut s'adapter à n'importe quelle atmosphère/environnement (irrespirable, eau, air restreint,
+   chaleur, froid, etc.). Lorsque l'effigie accumule une heure d'accoutumance à l'atmosphère/environnement associé, elle conserve de
+   manière permanente une caractéristique associée à cet environnement (par exemple, si elle passe du temps sous l'eau, elle acquiert
+   des palmes ; si elle passe du temps dans un froid glacial, elle se couvre de fourrure, etc.)
+47 Tough Love - Votre guérison est maximale. A la fin de la rencontre, toute personne soignée prend un niveau d'épuisement.
+48 Icône tordue : Vous êtes doté d'un morceau de métal tordu qui peut être utilisé pour transformer les morts-vivants avec avantage.
+   Les autres personnes voient dans ce symbole le symbole sacré du dieu auquel elles sont le plus opposées et croient que vous êtes
+   l'un de ses fidèles. Ils résistent à l'envie de les convaincre du contraire.
+49 Uncanny speed. Votre vitesse est doublée et votre CA est augmentée de 3. Mais vous devez vous déplacer au moins à la moitié de
+   votre vitesse à chaque tour et il y a 25% de chances que vous vous heurtiez à n'importe quel mur à moins de 1,5 mètre si vous ne
+   vous déplacez pas parallèlement à celui-ci.
+50 Sans entrave : Vous êtes étranger au système d'alignement et n'êtes pas affecté par ses avantages ou ses inconvénients. Les
+   créatures ayant une nature intrinsèquement bonne ou mauvaise se méfient de vous par instinct.
+51 Un invité indésirable : Une force invisible et malveillante se cache en silence derrière vos yeux. Vous êtes immunisé contre toute
+   magie affectant l'esprit.
+52 Ce qui sera connu sous le nom de "bague de vampire" ou de "bague de subsistance" corrompue : Une bande de fer d'apparence normale,
+   de couleur rouille. Il devient rouge plus foncé au fur et à mesure que le porteur a faim et/ou qu'il est fatigué. Si le porteur
+   est affamé, il tire magiquement du sang des créatures qui l'entourent, drainant 10 HP divisés par le nombre de créatures autour de
+   lui pour le soutenir (même si un membre du groupe n'utilise pas de sang, ou si un membre du groupe est saint, le " sang " est
+   toujours drainé et les HP sont toujours distribués). Si le porteur devient Fatigué, chaque heure nécessaire pour perdre ce statut
+   est drainée des autres, ce qui fait que les créatures autour du porteur sont de plus en plus proches d'être elles-mêmes Fatiguées.
+53 Lorsque vous êtes touché, vous pouvez choisir d'annuler la moitié des dégâts. Un humanoïde ami dans le voisinage choisi par le MD
+   prend le double des dégâts annulés.
+54 Chaque fois que vous effectuez un jet sur la table de magie sauvage, si vous souhaitez obtenir un effet différent, vous pouvez le
+   faire, mais vous devez effectuer un jet de sauvegarde de Sagesse contre un DC de 17. En cas d'échec, vous subissez 4d6 dégâts
+   psychiques.
+55 Avec Umberlee comme protecteur, vous pointez une cible et faites en sorte que ses poumons se remplissent d'eau de mer. Chaque fois
+   que vous essayez de manger ou de boire, le goût est excessivement salé.
+56 Colère personnifiée - vous gagnez l'affect de rage du barbare de façon permanente (au niveau 1). Vous devez faire un jet de
+   sauvegarde de Sagesse pour résoudre tout problème de manière non violente. De plus, lorsque vous parlez à quelqu'un pour la
+   première fois, vous devez lancer un d20. Sur un 1 ou un 2, vous développez une haine instantanée pour cette personne.
+57 Vous pouvez dimensionner la porte à n'importe quel endroit désiré dans un rayon de 8 km, cependant, une pinte de sang frais est
+   requise comme matériel.
+58 Vous apprenez Boule de feu comme un cantrip, Cependant, le lancer plus de 2 fois en 1 jour vous donnera définitivement une
+   malédiction aléatoire de D100. Le lancer chaque fois supplémentaire, ajoutera plus de malédictions.
+59 Vous disposez de la plupart des résistances physiques et magiques d'un puissant seigneur momie. Mais vous devez porter son cœur à
+   tout moment, et souffrir de sa présence dans votre esprit à tout moment. Il est capable de supprimer bon nombre de vos capacités à
+   volonté, mais ne le fait pas parce que cela pourrait mettre son cœur en danger. Vous êtes dans un contrat avec lui, et gardez ces
+   pouvoirs et malédictions jusqu'à ce que le contrat soit rempli.
+60 Vous êtes immunisé contre les effets de la maladie, l'état de malade, l'état d'empoisonnement et l'effet de tous les poisons.
+   Cependant, vous êtes toujours un porteur et les effets rayonnent à partir de vous sur 10 pieds, voire plus, propageant l'infection
+   autour de vous.
+61 Vous êtes sauvé de la mort, mais on vous donne une tumeur qui vous transforme lentement en zombie.
+62 Tu as demandé une langue d'argent mais tu n'as pas été très persuasif, le démon a pris ta bouche à la place. Gagnez un avantage
+   sur les tests de persuasion tant que votre bouche, ou l'endroit où se trouvait votre bouche, est couverte.
+63 Vous devenez incroyablement beau, et vous gagnez la maîtrise des compétences de persuasion et de tromperie, ou la double
+   compétence si vous avez la compétence. Mais le prix d'un extérieur immaculé est un intérieur pourri. Vous perdez 2 points de
+   constitution.
+64 Vous pouvez devenir un loup-garou adulte pendant la nuit, cependant, vous perdez toute intelligence lorsque vous êtes dans cet
+   état. Vous avez également 1d6 chances de vous déchaîner pendant 1d4 heures.
+65 Vous pouvez lancer Darkness, mais une fois le sort terminé, vous vous rendez temporairement aveugle pendant 10 minutes.
+66 Vous pouvez lancer le pas brumeux comme un cantrip, mais il y a 20% de chance que vous soyez paralysé pendant 1h après l'avoir
+   lancé.
+67 Vous pouvez lancer un emplacement de sort supplémentaire, au prix de 1d20 HP.
+68 Vous pouvez tromper la mort, en ignorant un coup qui vous ferait passer à des points de vie négatifs. La prochaine fois que vous
+   vous couchez dans un lit, quatre personnes dormant dans le même village meurent dans leur sommeil. Leurs proches savent que vous
+   êtes impliqué d'une manière ou d'une autre.
+69 Vous pouvez choisir de réussir n'importe quel jet de tromperie et de persuasion avec avantage, mais chaque fois que vous le
+   faites, vous perdez de plus en plus votre culpabilité, vos remords, votre empathie et vos émotions.
+70 Vous pouvez créer une potion de soins à partir de votre propre sang, qui vous inflige 1d10 points de dégâts. Une potion créée
+   devient avariée si elle vous est retirée pendant plus d'un tour (suffisamment longtemps pour que vous puissiez l'administrer à
+   quelqu'un d'autre), ou lorsque cette capacité se recharge, après un Long repos.
+71 Vous pouvez détecter les mensonges et les pensées superficielles, mais vous sentez fortement le poisson pourri, ce qui pénalise à
+   la fois la furtivité et les interactions sociales ouvertes.
+72 Vous pouvez faire en sorte que toute arme que vous tenez ou munition que vous tirez soit considérée comme magique et argentée dans
+   le but de contourner la résistance/immunité. Malheureusement, à chaque rencontre, il y a 50% de chances qu'un ou plusieurs
+   monstres de rouille apparaissent, comme s'ils étaient invoqués, pour vous traquer. S'ils sont vaincus, les monstres de rouille
+   disparaissent et retournent d'où ils viennent. Si les monstres sont apparus lors d'une rencontre, ils ne peuvent pas réapparaître
+   lors d'une autre rencontre tant que vous n'avez pas pris un repos long.
+73 Vous pouvez maintenant communiquer par télépathie. Mais chaque fois que vous le faites, votre santé mentale se dégrade.
+74 Vous pouvez lire et parler l'infernal, mais vous avez une langue fourchue rebutante.
+75 Vous pouvez ressusciter une personne morte en plaçant son cadavre à côté d'un autre de taille similaire. Le cadavre à ressusciter
+   est déterminé au hasard avec une chance sur deux. Le cadavre qui n'est pas ressuscité ne pourra jamais l'être une fois ce rituel
+   terminé.
+76 Vous pouvez sacrifier un petit ou minuscule animal et voir ce qu'il a vu pendant la dernière heure de sa vie.
+77 Vous pouvez voir 30 secondes dans le futur... Mais vous ne pouvez pas voir ce qui se passe en ce moment.
+78 Vous pouvez voir dans une faible lumière comme si c'était une lumière vive. La nuit est maintenant aveuglante.
+79 Vous gagnez une réduction des dégâts non magiques de type cisaillement, perforation ou matraquage. Les dégâts réduits sont envoyés
+   à votre parent le plus proche. Si vous n'avez pas de parent proche, ce pouvoir cesse de fonctionner.
+80 Vous gagnez un charme de Forme sauvage maudite qui possède 5 charges. Lorsque vous utilisez le charme, lancez 1d4. Si le résultat
+   est pair, le charme est lancé normalement, et dure un nombre d'heures égal au niveau total du lanceur de sorts, ou jusqu'à ce que
+   les points de vie de la créature soient réduits à zéro. Si le résultat est impair, le lanceur est transformé en mouton jusqu'à ce
+   que ses points de vie soient réduits à zéro. Une fois que le charme a épuisé ses charges, il se désintègre dans une fumée noire et
+   violette.
+81 Vous gagnez un bonus à votre mouvement. Vous ne pouvez pas traverser une eau courante.
+82 Vous gagnez un sens aigu de l'odorat pour la chair vivante, et cela vous permet de déterminer combien de créatures vivantes se
+   trouvent en amont de vous, ou dans un rayon de 100 ft s'il n'y a pas de vent. Vous gagnez également une faim de chair vivante.
+   Manger de la chair vivante n'entraîne aucun effet négatif, mais si vous mangez ou buvez quelque chose qui n'est pas encore la
+   chair d'une créature vivante, cela pourrira/se gâtera dans votre bouche.
+83 Vous gagnez une force de 25 pendant 1 minute. Cependant, dès que cette minute est écoulée, vous gagnez 2 points d'épuisement.
+84 Vous bénéficiez d'un avantage sur les tests de maîtrise de la main et d'un bonus de +1 aux jets d'attaque avec une arme jetée à
+   une main. Une heure par jour, généralement vers minuit, l'une de vos mains se détache et rampe comme une griffe rampante,
+   provoquant des méfaits. La main a son propre programme maléfique et est kleptomane.
+85 Vous gagnez une vision noire parfaite, quelle que soit votre race, mais au prix de votre capacité à entendre.
+86 Vous gagnez la capacité de choisir de faire un crit automatiquement sur votre prochain jet d'attaque, mais le prochain jet
+   d'attaque qui vous manquerait touche à la place.
+87 Vous gagnez la capacité de tripler ce que vous pouvez normalement dans l'obscurité, cependant, vos yeux brillent rouge, et vous
+   êtes craint par les humains, les halflings, les nains et les elfes.
+88 Vous pouvez dépenser un dé de victoire pour vous soigner chaque fois que vous tuez un être vivant. Vous perdez la capacité de
+   dépenser un dé de succès pendant les courts repos.
+89 Vous pouvez augmenter la guérison effectuée, mais cela donne un point d'épuisement, qui peut ou non disparaître avec une bonne
+   nuit de repos.
+90 Vous pouvez régénérer 1/hp par round lorsque vous êtes en contact avec le sang frais d'une créature sensible.
+91 Vous recevez une pièce qui, lorsqu'elle est présentée à un tribunal, absout immédiatement une personne de tous ses crimes.
+   Cependant, en faisant cela, une autre personne au hasard est accusée de crimes de même ampleur.
+92 Vous recevez un petit jeton qui dissimule votre nature maléfique tant qu'il est contre votre peau. Cependant, si un utilisateur de
+   magie bonne ou neutre (divine ou arcanique) voit le jeton, il reconnaît instantanément ce qu'il fait.
+93 Vous recevez une arme unique qui vous est accordée. Cependant, vous n'êtes plus capable de faire violence à un être vivant sans
+   ressentir toute sa douleur, même s'il meurt (et même s'il reçoit des analgésiques et ne la ressent pas lui-même).
+94 Vous faites revivre une pierre à aiguiser maudite. Toute arme aiguisée à l'aide de celle-ci gagne +1 à toutes les attaques, et
+   tous les dégâts infligés par cette arme ne peuvent être soignés par des moyens magiques et prennent deux fois plus de temps à
+   guérir pendant un repos. L'arme conserve cet affûtage le jour suivant tant qu'elle tire du sang. Chaque jour après qu'elle ne se
+   soit pas nourrie, le manieur doit effectuer un jet de sauvegarde de sagesse dc10+(le nombre de jours depuis qu'elle s'est
+   nourrie). En cas d'échec, il s'attaque à lui-même avec l'arme pour la nourrir.
+95 Votre sang devient acide et se répand comme une éclaboussure d'acide lorsque vous saignez normalement ; attendez-vous à ce que
+   votre équipement soit corrodé et à ce que vous ayez du mal à panser vos blessures.
+96 Votre corps et votre magie sont plus forts, mais un jour sur deux, votre corps fonctionne avec une volonté qui n'est pas la vôtre,
+   et vous n'en avez aucun souvenir.
+97 Votre personnage ne peut pas dormir, mais tous les avantages du sommeil peuvent être obtenus en buvant le sang de toute créature
+   sapiente, une once fluide de sang remplaçant une heure de sommeil.
+98 Vos soins, y compris les sorts, les caractéristiques de classe et les potions que vous administrez, sont maximisés et vous soignez
+   toujours au maximum. Tous les soins que vous recevez, y compris les vôtres, sont réduits au minimum.
+99 Votre bras droit est celui d'un démon, et tout ce qu'il touche ne peut pas utiliser la magie, y compris les sorts de guérison qui
+   vous soigneraient, mais il peut être utilisé pour désactiver les dispositifs magiques ou paralyser les constructions magiques
+   (sans les faire disparaître).
+00 Vos attaques à mains nues sont renforcées par des griffes venimeuses, infligeant des dégâts supplémentaires par entailles et
+   poison ; vous êtes plus facilement provoqué au combat, ne pouvez pas équiper de gantelets, et subissez -1 aux attaques avec des
+   armes.

@@ -1,0 +1,148 @@
+                                                  activities at the local faire                                                   
+
+ 1 Every year, a particularly skilled Minotaur makes a hedge maze. She is a gardener and spends the season making labyrinths for the
+   townsfolks festival. There is a plate of cookies in the center, and her calf (young son) is patrolling inside to help people who
+   become lost. The Minotaur charges 1 copper for entry, and donates the money to charity.
+ 2 A 'Fungeon' full of 'Funsters' and 'Treasure'. Look out for the 'Traps' and the pickpockets.
+ 3 A Fancy Dress Competition. Tailors get to show off what they've been working on over the past year.
+ 4 A Fortune Telling Booth.
+ 5 A Freak Show. Come see some of the most gruesome sights in the realms! (It's all illusion spells, don't worry!)
+ 6 A Guess Your Weight stand.
+ 7 A Hair Braiding Booth. Any braid you like, even those fancy Elven ones!
+ 8 A Log Balancing contest. The winners of the contest face off in a pool filled with water elementals. (Dexterity Check)
+ 9 A Magician. (No actual magic, just smoke and mirrors)
+10 A Mead Maker's Competition. They're short a couple of judges, and will offer the job to anyone who looks to have a strong
+   constitution.
+11 A Pick Pocketing Challenge. Everyone attending the fair is given a bright piece of cloth to be put in their belt/pocket. If you
+   keep hold of yours, you win a prize at the end of the day. If you are able to pickpocket other people's cloth, then you could win
+   the grand prize. (Sleight of Hand Check)
+12 A Popcorn/Kettlecorn Booth. Don't let it get stuck in your teeth!
+13 A Sparring Ring. Locals can take out whatever frustration they've had on each other over the past year here!
+14 A booth disguised as a pie stall that buys and sells illegal goods (drugs, banned religious symbols, etc.)
+15 A booth is staffed by students from a local magic academy. They take requests for magic assistance but can't really do anything
+   themselves. An appropriate level mage will visit each customer within a few days. The students get a cut of the revenue towards
+   their tuition, so they can be very pushy.
+16 A booth selling Potions of Thirst Quenching (water).
+17 A bored-looking devil sitting at a booth with a sign saying 'Anything you want: $Your Soul'. Be very careful here, as what he
+   offers starts out seeming great, but eventually is just terrible.
+18 A chess-playing chicken. 5 silvers to play, beat the chicken and double your money. (Intelligence Check)
+19 A divination stand with an old lady with a crystal ball... Or she reads the lines in your hands... Either way, it's up to the DM
+   whether it's true divination.
+20 A gnome trinket master is making clockwork trinkets for the townsfolk.
+21 A great Tug of War over a pit of mud. (Strength Check)
+22 A group of Yuan-Ti have set up an exotic (lightly cursed) amulet shop.
+23 A group of local Living Trees are handing out apples and giving advice in their deep voices such as 'make sure you plant the
+   seeds', and 'don't play with fire'.
+24 A lavender-skinned tiefling does palm readings while their (Make both parties male or female, whichever you choose) dwarven friend
+   polishes weapons and armor for people who are having their palms read.
+25 A literal haunted house of past carnival workers, so they know not kill anyone.
+26 A male half-orc conjurer, a female tiefling monster hunter, and a female elf beast trainer are all locals in the town. Each year
+   they meet for drinks at the fair, before competing in their own special game: Ooze Cruise. Each participant is required to bring
+   an ooze to the event. 3 premade stone towers are erected at the outskirts of the fair. The participants climb some scaffolding to
+   place their ooze at the top. The first ooze to eat their way to the bottom of the tower wins. Over the past few years, this self-
+   made competition has attracted the attention of the townsfolk who enjoy betting on the competition.
+27 A man dressed in a jester costume is sitting above a dunk tank. Can you hit the target?
+28 A music contest between individual performers or 'bands'. (Performance Check)
+29 A nearby tent displays various works of art. The artists are there for questions about their pieces.
+30 A rogue favorite; Hide and Seek competition. (Stealth Check)
+31 A scavenger hunt. A special golden coin has been hidden somewhere on the fairgrounds. Can you find it? (Perception Check)
+32 A simple cloth is laid out in front of a famous local hermit. He magically mends objects and performs low level spells at a deep
+   discount. He uses the money to buy supplies so he can avoid town the rest of the year.
+33 A small number of goblins can occasionally be seen sneaking around the fair, sometimes they will be spotted oh-ing and ah-ing at
+   some of the attractions. If questioned, they flee. If found again later and questioned, they are doing research for their own
+   Carnival.
+34 A stall that sells mildly enchanted jewelry that can change colors at will.
+35 A table with bored guards looking for recruits, people are clearly walking around it.
+36 A team of 3-5 people are allowed to compete in an eating contest against a local hill giant. The hill giant rolls 2d100. Each
+   player rolls 1d20+Con. Whichever team's total is higher wins the contest. The party becomes fatigued for 24 hours if they compete.
+37 A “Guess the mimic” game. Players are brought into a fake house and must determine which object is the mimic. Maybe the mimic is
+   the house itself? (Perception Check)
+38 An Archery competition. The contestants are trying to shoot an apple off the head of a gnome. (Dexterity Check)
+39 An Axe-Throwing (or similar projectile) Contest. (Dexterity Check)
+40 An ale-drinking contest. (Constitution Check)
+41 Animal races. Which one do you bet on to win the race?
+42 Arm Wrestling Contest. (Strength Check)
+43 Bake sale for the local orphanage.
+44 Bobbing for apples. Some apples are injected with a polymorph potion.
+45 Bull riding contest. Stay on the longest to win! (Athletics or Strength Check)
+46 Carriage Rides (for the kids)
+47 Carriage Rides (romantic for couples)
+48 Cooking contest - player(s) need to prepare some exotic dish and the only thing they know is the dish name. (Cooking Check - and
+   perhaps History, to see if they recognize the meal?)
+49 Cunning Linguists; replace a language at random (pick a random; non-common, language the player knows replace it randomly from a
+   list as large as you want, if they crit, they keep their original language, if they crit fail, they lose their original language,
+   and gain nothing)
+50 Dance Competition. (Performance Check)
+51 Deep-Fried Foods on a Stick.
+52 Displays of the local children’s artwork.
+53 Exotic Animal Show. Come see fantastical animals from all across the realm!
+54 Exotic Nuts and Fruits Stall.
+55 Exotic pet rock dealer. (1 in D8 rocks is an elemental pet!)
+56 Feat for Curse? (Your player can buy an extra feat, but they are stricken with a curse. Can be a strong curse or as simple as a
+   new character flaw.)
+57 Fencing with wooden swords. Three hits, and you're out! (Standard Combat Rules)
+58 Filthy-Filch'N: The local Thieves Guild branch's secret booth. The local constabulary have had items reverse pick pocketed into
+   their pouches. Bring them all back for a prize! (Sleight of Hand Check)
+59 Gambling/Card/Dice Games. This is most likely illegal, so they take place in a closed tent in the back of the fair.
+60 Gnome Tossing contest - a gnome suitable dressed in padding and helmet can be tossed. The aim is to toss the gnome furthest or to
+   a target. Various bonuses or penalties could be applied to the thrower. Does the gnome co-operate or not ? There are rules in some
+   other subreddits on gnome tossing.
+61 Goldfish Scooping. Some say the goldfish are actually polymorphed fair-goers who were caught cheating some of the other games.
+62 Greased Pole Climbing contest - there's a tree trunk liberally coated in grease and the first person to reach the top is the
+   winner. Everyone tries to climb at the same time.
+63 Greased Pole Climbing contest - there's a tree trunk liberally coated in grease and the first person to reach the top is the
+   winner. Everyone tries to climb at the same time. (Athletics Check)
+64 Gurning competition. (Seriously, it's a real thing. Compete to pull the most ridiculous face.) (Performance Check)
+65 Horse Racing. Race against some of the most experienced horse-riders in the realm! (Animal Handling Check)
+66 House of Mirrors. Can you escape? (Perception Check)
+67 Jousting on Horseback. Can you knock your opponent off their horse? (Animal Handling and Dexterity Check)
+68 Liar's Contest: spin the wildest tale you can think of and the crowd votes on the best one based on believability, complexity and
+   incredibility. (Bluff/Deception Check)
+69 Living tower - teams of (your party size) need to build the highest tower out of their bodies. (Athletics Check)
+70 Lockpicking contest - while blindfolded! (Thieves Tools Check)
+71 Loose Livestock Catching (Oiled Pig, Chickens, Etc.) (Strength, Dexterity, or Animal Handling Check)
+72 Lumberjack Games. Who is the fastest at chopping these massive logs? (Strength Check)
+73 Midsommar Maypole: Here, drink this. Bad things start happening.
+74 Mimic Or Money. 10gp per game. Players are sat in front of 3 chests and are told to choose one to open. Upon choosing one, the
+   gamemaster will reveal one mimic and ask if they would like to change their answer to the other chest. If the player chooses
+   correctly, they get what they bet plus 10. Upon choosing incorrectly, players have to fight a mimic, the battle lasts until the
+   mimic dies or the player gets defeated, however, the player shouldn't die.
+75 Pie Baking Competition. (Cooking Check)
+76 Prettiest Baby Pageant.
+77 Prize Vegetable Contests (largest pumpkin, heaviest cabbage, tastiest tomato, hottest pepper, sweetest corn, juiciest peach, etc.)
+78 Puppet show using Minor Illusion and Mage Hand.
+79 Raffle Lottery. 1gp to enter!
+80 Rope Climbing Competition. (Dexterity or Strength Check)
+81 Sitting-On-Top-Of-A-10ft-Wooden-Pole-Competition. (Athletics Check)
+82 Some sprites and pixies are letting people fly in exchange for hunting equipment. They have a large furnace with a baby firenewt
+   inside where they dispose of the hunting gear.
+83 Tag a Guard - you need to kick a guard and not get caught.
+84 Test your might booth; Challengers are tasked to lift an impossibly heavy rock for 1G, if you can the prize is 50g. (Strength
+   Check)
+85 The Big Hammer And Bell Contest. (Strength Check)
+86 The Cheese Race: Out run the old cheeses rolling down the hill.
+87 The local Thieves Guild is smuggling cheap ale off the back of a wagon and will pay the party to help them carry the items before
+   the guard comes back with a warrant.
+88 The mayor is letting the winner of the children's foot race hit him with a custard pie.
+89 The tent of 'long rests' in 20 minutes!
+90 The town guard is giving free fighting lessons for able-bodied citizens. There is a list where the festival goers write their
+   contact information for the towns militia.
+91 The town guard is hosting a make-your-own banner booth. An enchanter can be hired to enchant the banner.
+92 There are temporary shrines from many different Gods and Goddesses. They can be prayed to for small blessings.
+93 There is a Slap-a-Guard booth. Once a year, the citizens can pay 50gp to slap a guard in the face that they don't like. The
+   players can choose any guard they've met. There is a small ledger where the citizens can write their names and become a guard. The
+   guards are instructed to say 'If you think you're better than me, then you can prove it by signing the ledger'.
+94 There is a beefy half orc chef selling 2gp firewater, an ale that gives +1 strength for 1d8 hours to anyone with a con modifier of
+   +3 or higher.
+95 There is a booth where town officials can be found. The booth is a guard station, water station, first aid station, lost and
+   found, (one random item from the party can be found here) and fair management station. There is a donation jar. The officials have
+   a few errands they ask of the party such as collecting late dues from some of the fairground shopkeepers.
+96 There is a costume booth where a master tailor, doppelganger, illusionist, and thief work together to give anyone a makeover,
+   haircut, or costume of their choosing.
+97 There is a kenku hermit from the neighboring hills who has a large wagon filled with nuts and berries. They are selling a handful
+   for 1 copper each.
+98 There is a wizard who is running a -make your own potion- stall. The wizard will help players make any potion they want at half
+   price.
+99 Underwater Wrestling. Contestants meet in a large glass tank. They both have to wrestle underwater. The first to surface loses.
+   Some towns use a giant octopus as a champion for an added twist. (Strength/Dexterity Check)
+00 Wife/Husband-Carrying Race. (Dexterity/Strength Check)

@@ -1,0 +1,347 @@
+                                                   mushrooms and their effects                                                    
+
+ 1 <strong>Sève d'alulospergies.</strong> Couleur ambrée, fluide extrêmement glissant qui, appliqué sur un corps ou un objet, le rend
+   lubrifié. DC 10 pour manifester une réaction allergique, vous pouvez faire un autre jet pour la gravité à vos risques et périls.
+ 2 <strong>Amanita Marioscaria.</strong> Un champignon rouge avec des taches blanches qui est l'ingrédient actif des potions
+   d'élargissement.
+ 3 <strong>Paloïdes d'Amanita.</strong> extrêmement toxique, sauvegarde Con DC 18, 8d8 de dégâts si échec, la moitié si réussite.
+ 4 <strong>Amanita muscaria S. M.</strong> Un champignon de Paris, dont le sommet est rouge avec des taches blanches. La tige est
+   principalement jaune, sauf pour deux barres noires parallèles. S'il est mangé, il produit un effet similaire au sort
+   d'élargissement, ainsi qu'une immunité aux commotions. L'effet prend fin dès qu'un dommage est subi.
+ 5 <strong>Arachnus Phylarkus.</strong> Ce champignon délicat ressemble à un petit bol noir avec de fines branchies brunes d'environ
+   10 cm de diamètre. Il est toxique pour être simplement ingéré mais lorsqu'il est infusé dans de l'eau bouillante pendant 10
+   minutes, un fin thé noir est créé. Ce thé, une fois consommé, permet au buveur de résister au poison et aux maladies pendant 4
+   heures. Ce champignon est souvent l'habitat d'un type d'araignée particulièrement venimeux et est difficile à récolter.
+ 6 <strong>Bonbons d'Assassin.</strong> Noir et rouge avec beaucoup de plis. Cru : 4d8 dégâts de poison + statut de poison dc 18
+   sauvegarde de con pour la moitié des dégâts et aucun statut de poison. Cuit : Après avoir ingéré 5 fois les points de vie sont
+   réduits à 0 et les sauvegardes de mort commencent à chaque round, sauf si dc 20 sauvegarde de con.
+ 7 <strong>Betrothitus Indusiatus, alias 'Voile de la mariée'.</strong> Un champignon fin, blanc fantôme, avec une fine jupe
+   semblable à un voile qui s'étend sous son chapeau. Les Voiles de la mariée deviennent presque complètement transparents au clair
+   de lune et poussent à la lisière des forêts épaisses. Les jupes, bien qu'extrêmement fragiles, peuvent être tissées ensemble en un
+   tissu à l'aide d'une main précise (bien que très peu de personnes soient connues pour posséder ce talent) pour des qualités
+   similaires à une cape d'invisibilité. Lorsqu'elle est infusée dans un thé ou un liquide, le consommateur ressent les effets de
+   l'invisibilité pendant 1d4 heures.
+ 8 <strong>Cœur saignant.</strong> Un polypore rosâtre qui pousse sur le côté de certains arbres. Lorsqu'on le presse, un liquide
+   rouge vif s'écoule de ses branchies qui tache de manière indélébile et est utilisé dans les teintures longue durée.
+ 9 <strong>Bloodcap.</strong> Le contact avec les spores de ce champignon induit une rage incontrôlable, faisant bénéficier les jets
+   d'attaque d'une créature d'un avantage mais donnant aux attaques contre elle un avantage pendant 1 minute.
+10 <strong>Champignon des fleurs.</strong> Petit champignon bleu au chapeau effilé, il pousse normalement en grappes et peut être
+   facilement confondu avec des fleurs par ceux qui ont des problèmes de vision ou un manque évident de connaissances des plantes.
+   Contrairement aux fleurs, cependant, l'odeur de ces champignons provoque chez ceux qui les inhalent des éternuements
+   incontrôlables pendant 1d6 minutes.
+11 <strong>Bruise bleue.</strong> 1d20 minutes après avoir consommé, l'éater voit dans le plan éthéré pendant 1d4 heures. Désavantage
+   sur les tests de perception des événements/choses dans le plan matériel.
+12 <strong>Blushroom.</strong> Il upregule massivement le système cardiovasculaire provoquant une endurance accrue et le rougissement
+   révélateur de ses utilisateurs. Souvent utilisé illégalement dans les rings de gladiateurs et autres sports physiques. Si elle est
+   préparée correctement (réduite en poudre puis cuite à la vapeur), elle donne +1 aux tests de force pendant 1d4 heures et un
+   avantage aux tests de résistance pendant 12 heures. Si elle est consommée sans préparation, elle donne un avantage aux tests de
+   force pendant 2d6 heures, mais le consommateur doit effectuer une sauvegarde de con DC 18 toutes les demi-heures ou subir 2d6
+   dégâts toutes les demi-heures jusqu'à ce que les effets se dissipent.
+13 <strong>Boggleheart.</strong> Un corps fructifiant fongique, trouvé enterré sous un sol mou. Cet amas noué de matière spongieuse
+   exsude un liquide d'un noir d'encre lorsqu'on le presse, et les feys de moindre importance évitent délibérément les zones dans
+   lesquelles ils poussent. En effet, ce champignon est extrêmement toxique pour les fées et leurs semblables, à un degré mortel. Les
+   spores qui s'infiltrent en surface sont suffisantes pour les rendre malades et le contact avec le liquide noir peut entraîner la
+   mort.
+14 <strong>Boletus Aurumni.</strong> Ce minuscule champignon doré est inoffensif au toucher et délicieux à manger cru donnant à son
+   consommateur un bonus de 1d6 à la constitution pendant 10 heures. Cependant, certains alchimistes savent que s'il est collecté en
+   vrac et distillé en un sirop doré pensant, la concoction peut être utilisée pour transformer le cuivre, l'argent et d'autres
+   métaux de base en or.
+15 <strong>Le champignon merveilleux de Bolsef.</strong> Une affaire rayée rose et rouge vif qui est toxique pour la plupart des
+   espèces, mais lorsqu'elle est préparée correctement pour être sûre, elle accorde au consommateur un sentiment d'euphorie
+   réconfortant pendant 1d4 heures.
+16 <strong>Fongus cérébral.</strong> Entendez les pensées de toutes les personnes se trouvant dans un rayon de 60 pieds pendant
+   3d4x10 minutes. (ATTENTION, NE CONSOMMEZ PAS DANS UNE VILLE, LA FOLIE À LONG ET COURT TERME PEUT SURVENIR).
+17 <strong>Brawler's Button.</strong> Pendant 4 heures après avoir consommé ce champignon amer, les frappes à mains nues du
+   consommateur infligent 1d6 dégâts supplémentaires et gagne une résistance aux dégâts de matraquage.
+18 <strong>Capuchon brun.</strong> protéine nourricière, donne gratuitement 1 dé d'atteinte hp.
+19 <strong>Bufos Draconii ou 'Le crapaud dragon'.</strong> Une espèce de 10 champignons différents de forme similaire avec des
+   chapeaux blindés en forme d'écailles. Chaque champignon est d'une couleur distincte et correspond à la variété de couleurs par
+   lesquelles les espèces de dragons sont connues. Il y en a un pour chaque dragon métallique et un pour chaque dragon chromatique.
+   Consommer le pied de ce champignon permet d'utiliser une seule fois une version réduite de l'arme à souffle du dragon de cette
+   couleur, 4d4 en cône ou en ligne selon le cas. Une fois consommé, ce champignon fatigue le consommateur qui commence à avoir des
+   hallucinations pendant 4d4 rounds. Ces hallucinations impliquent souvent d'être attaqué par un grand dragon du même type que le
+   champignon consommé.
+20 <strong>Celeritis Maximus.</strong> Connu sous le nom de racine floue pousse principalement sous terre et dans l'Underdark. C'est
+   un curieux champignon qui évite la lumière et qui pousse souvent dans des conditions très sombres, avec juste le petit chapeau qui
+   dépasse du sol ou de la couverture de feuilles. Le chapeau est petit, vert clair et collant, mais la tige est longue et se déplace
+   sous terre sur plusieurs mètres. Les racines peuvent être récoltées avec des gants (elles infligent 1d4 points de nécrose au
+   contact de la peau) et infusées dans un thé fort qui permet au buveur de doubler ses mouvements pendant 2d6 minutes. Les nains
+   mineurs rencontrent souvent le champignon et gardent des fioles de thé sur eux pour les aider à s'échapper des grottes ou des
+   tunnels inondés, mais le plus souvent ils l'utilisent pour exploiter un filon de minerai récemment découvert aussi vite que
+   possible avant que les autres ne l'apprennent. Les Drow l'utilisent également pour tuer plus rapidement.
+21 <strong>Champinguini Fumenticatus.</strong> Connu sous le nom de champignon boule de fumée, ce grand champignon a une grosse tige
+   violette qui est coiffée de globes ronds jaunes de fine membrane fragile. Le contenu des globules est un brouillard bleu fumeux
+   qui s'enroule et se tord autour de lui-même. Tout mouvement ou objet qui provoque la rupture d'un globe libère la brume qui se
+   répand en un nuage de 3 mètres comme s'il était sous pression. Le contact avec la brume entraîne une paralysie instantanée, sauf
+   si un jet de sauvegarde de CON est effectué. Ce jet de sauvegarde doit être effectué chaque round pendant 1d10 rounds pour voir si
+   un PC/PNJ/Monstre est toujours paralysé ou re-paralysé. Avec un jet de DEX réussi, un aventurier habile qui trouve ce champignon
+   peut extraire le globe dans un verre ou un autre récipient jetable pour une utilisation ultérieure. Si quelqu'un qui transporte
+   ces globes trébuche, tombe, est poussé, s'appuie sur ou casse les globes de quelque manière que ce soit, il doit espérer que
+   personne ne se tient trop près d'eux.
+22 <strong>Chanterelle.</strong> Soigne 1 point d'épuisement lorsqu'il est consommé.
+23 <strong>Charmement.</strong>Gagner un avantage sur les contrôles basés sur le Charisme pendant 1d4 heures.
+24 <strong>Le tabouret de Sherub.</strong> Il brille faiblement lorsqu'il est exposé aux étoiles du ciel nocturne (le soleil le fait
+   rétrécir). Il doit être récolté lors d'une nouvelle lune pour que l'effet soit complet. Lorsque la potion est bue, la créature
+   devient un Céleste pour la durée de ses effets. Elle peut également diffuser une lumière vive sur une distance de 30 pieds et une
+   lumière faible sur une distance de 30 pieds au-delà, en tant qu'action. Enfin, ils soignent 1d6 points de vie supplémentaires
+   chaque fois qu'ils lancent un sort qui permet à une créature de regagner des points de vie.
+25 <strong>Clover Mushroom.</strong> Votre prochain jet a un avantage.
+26 <strong>Rott rampant.</strong> Parfois appelé racine du diable. Cette liane pousse en longues vrilles en forme de doigts qui
+   jaillissent dans les endroits chauds. Ces vrilles peuvent être moulues en un élixir qui, une fois consommé, donne à une créature
+   un avantage sur les jets de sauvegarde contre les sorts et autres effets magiques, ainsi que sur les sauvegardes contre le poison
+   et les maladies, mais toute quantité de soins magiques qu'elle reçoit réduit également son maximum de points de vie de la moitié
+   de cette quantité pendant la durée des potions (8 heures).
+27 <strong>Crimson Screamer.</strong> Vous êtes empoisonné et souffrez d'hallucinations, vos sorts ou capacités soniques/tonnerre
+   deviennent plus puissants.
+28 <strong>Crushroom.</strong> Après que quelqu'un l'ait mangé, il a le béguin pour les personnes les plus proches en fonction de
+   leur sexualité.
+29 <strong>Champignon.</strong> Ressemble à un crâne avec, il se développe au contact du sang très rapidement, même s'il est à
+   l'intérieur d'une personne, mais il n'est pas mortel, seulement défigurer la peau de la personne qui va pousser le champignon,
+   c'est traitable mais prend un an, vous aurez l'air horrible mais comme c'est une bonne source de vitamines, il est probable que
+   vous ne serez plus jamais malade, même une fois retiré.
+30 <strong>Arbre de Davian.</strong> Un champignon à chapeau brun de taille humaine qui se retire sous terre pendant la journée et
+   émerge la nuit, semblant se "dégonfler" ou rétrécir d'une autre manière en disparaissant. Sa chair est un mets délicat, et pendant
+   l'été, il libère des spores dont on dit qu'elles sont capables de masquer le goût de n'importe quel bien ou boisson.
+31 <strong>Tasse à fossettes.</strong> Autre champignon cultivé par les nains, les tasses à fossettes ne sont pas comestibles.
+   Cependant, lorsqu'elle est finement broyée, leur chair donne une précieuse teinture bleue pour les vêtements. Manger un Dimple Cup
+   peut provoquer une grave intoxication alimentaire, des vertiges, une déshydratation et la mort.
+32 <strong>Dragon Funnel.</strong> Une famille de champignons blancs en forme d'entonnoir et dont les écailles colorées courent sur
+   les côtés. On dit qu'ils poussent sur des sites où des dragons maléfiques sont morts ou ont vu leur sang versé. La couleur des
+   écailles détermine l'affiliation élémentaire. Tous donnent une résistance élémentaire pendant 8 heures après avoir été mangés
+   cuits avec de la viande.
+33 <strong>Dusk Cap.</strong> hallucinations partagées.
+34 <strong>Pétard nain.</strong> Ce champignon est de la taille d'un poing et rempli de spores. En l'écrasant ou en le jetant, il
+   libère un nuage de spores dans une zone de la taille d'une sphère de 1,5 m de rayon. Chaque créature à l'intérieur doit réussir un
+   test DC 15 ou être empoisonnée d'une heure.
+35 <strong>Champignon Enchantrynium Blistarix Wizard's Bane.</strong> Ce grand champignon bleu à haut pédoncule confère à son
+   consommateur une résistance aux dégâts magiques pendant 1 heure, mais ce dernier doit effectuer une sauvegarde de constitution DC
+   15 après cette heure ou subir 1d4 dégâts de poison. Les spécimens particulièrement grands peuvent être partagés par tout un
+   groupe.
+36 <strong>Exspiravit Bosletavi.</strong> Un champignon blanc pâle qui jette une lueur argentée fantôme dans l'obscurité. On dit
+   qu'il pousse là où un homme aux affaires inachevées est mort, on le trouve souvent dans les cimetières et les tombes anciennes.
+   S'il est correctement séché pendant 24 heures, le consommateur pourra lancer une fois la parole aux morts. En cas d'échec à la
+   sauvegarde de la CON (CD 10), il aura des hallucinations de personnes mortes lui parlant. On dit que ces hallucinations
+   représentent les esprits des cadavres enterrés sous le champignon, même s'il s'agit clairement d'une absurdité née de
+   superstitions populaires, il existe des rumeurs de personnes ayant trouvé d'anciens trésors oubliés depuis longtemps en suivant
+   les instructions de ces "esprits". Toutes les légendes ont une part de vérité, peut-être...
+37 <strong>Faux faucheur.</strong> Ce champignon oblige l'humanoïde qui le mange à effectuer un jet de sauvegarde Con (DC 13) ou à
+   s'empoisonner. Si une créature choisit d'échouer volontairement la sauvegarde en se préparant par la méditation au préalable, elle
+   peut tomber à 0 point de vie à la place et y rester, suspendue dans un état de fausse mort presque indiscernable de la vraie
+   chose. Cet état dure 48 heures, après quoi ils peuvent effectuer leurs jets de sauvegarde contre la mort à leur avantage. S'ils
+   réussissent leurs jets de sauvegarde, ils se réveillent immédiatement avec la moitié de leurs HP et un niveau d'épuisement. S'ils
+   en réussissent deux, ils se réveillent comme ci-dessus mais avec 2 niveaux d'épuisement. S'ils en réussissent un, ils se
+   réveillent avec deux niveaux d'épuisement et 1 HP. S'ils échouent à leurs sauvegardes, ils se stabilisent à 0 et restent
+   inconscients jusqu'à ce qu'ils se réveillent naturellement ou qu'ils soient guéris par magie, sortant de cette expérience avec
+   deux niveaux d'épuisement et un mal de tête aveuglant.
+38 <strong>Champignons à nageoires.</strong> Cannelés et rappelant les nageoires d'un poisson, ces champignons se trouvent sous les
+   troncs d'arbres tombés au sol et ont l'avantage inhabituel de donner à ceux qui les consomment (correctement préparés) des doigts
+   palmés pendant 1d4 heures. Malheureusement, s'ils sont consommés régulièrement, le changement devient permanent et la palmure
+   s'épaissit, rendant les doigts beaucoup plus difficiles à bouger.
+39 <strong>Flightless Dragon Bane.</strong> Naturellement toxique pour les dragons infligeant 3d6 dégâts de poison en cas de
+   consommation.
+40 <strong>Foamcap.</strong> Champignon à l'aspect bouffi et spongieux. Il pousse le plus souvent là où la foudre a frappé. L'infuser
+   correctement dans une potion peut conférer au consommateur une résistance ou une immunité aux dégâts de tonnerre, tandis
+   qu'échouer le processus peut rendre le buveur sourd pendant 1d10 jours.
+41 <strong>Fool's Night.</strong>Presque similaire au Night Cap, mais comportant un anneau autour de la tige, le Fool's Night
+   provoque de violentes nausées pendant plusieurs heures après sa consommation. Également utilisé en masse pour produire une
+   teinture bleu foncé. Impression de spores très légère.
+42 <strong>Fortuna Fortinaticus</strong> est un petit champignon brun d'apparence plutôt normale avec des branchies vertes qui pousse
+   principalement en petits anneaux ou en grappes à partir de crottes de dragon. Convoités pour leurs propriétés, les gens ont tenté
+   de les cultiver pendant des milliers d'années, sans succès. Lorsqu'un champignon est consommé, tous les résultats des jets de dé
+   reçoivent automatiquement +3 pendant 1 heure (c'est-à-dire +3 à chaque dé) mais la consommation d'autres champignons n'augmente
+   pas du tout le bonus. À la fin de l'heure, le consommateur tombe dans un profond sommeil pendant 2 heures et aucune magie ou
+   stimulation physique ne peut l'en réveiller.
+43 <strong>Fumestool.</strong> Ça ressemble et ça sent exactement comme un morceau d'excréments humains qui sort du sol à la
+   verticale. Ne fait pas de mal à ceux qui le mangent, mais mec ! Sérieusement ! ?
+44 <strong>Fyngum Stinkus.</strong> Ce petit champignon de couleur aigue-marine émet une odeur nauséabonde lorsqu'il est écrasé. Il
+   peut être utilisé pour submerger les sens, couvrir votre odeur, faire des farces à vos amis, ou peut être distillé en une boule
+   puante jetable. (Note : il est également connu pour être un puissant attractif pour les gobelins).
+45 <strong>Fleur de Gall.</strong> Une moisissure visqueuse verdâtre qui fleurit avec de minuscules spores rouges dans la chaleur de
+   l'été. Ces spores sont incroyablement toxiques et peuvent être raffinées en une poudre qui, si elle est inhalée, peut provoquer un
+   choc toxique chez une créature. Une créature affectée doit effectuer un jet de sauvegarde de Constitution DC 20. En cas de
+   réussite, la créature est empoisonnée pendant une heure, en cas d'échec, elle est empoisonnée pendant cette durée mais aussi
+   paralysée pendant un nombre de minutes égal au nombre de points d'écart avec le jet de sauvegarde. En revanche, la moisissure
+   visqueuse elle-même a de grandes propriétés médicinales. Si elle est appliquée sur des blessures au cours d'un repos, cette
+   créature regagne 1d4 dés de réussite supplémentaires ainsi que 2d4 points de vie à la fin de ce repos.
+46 <strong>Champignon de verre.</strong> Vous devenez invisible pendant 1d4 heures.
+47 <strong>Grayling.</strong> Un champignon gris d'apparence très ordinaire. Provoque une vision en noir et blanc pour, donne un
+   avantage sur la perception du mouvement.
+48 <strong>Champignons à chapeaux verts.</strong> Les chapeaux de ces champignons, d'un vert éclatant, mettent en garde ceux qui
+   songeraient à les manger, mais la couleur verte vive fait une merveilleuse teinture lorsqu'on en fait bouillir de grandes
+   quantités ! Ils ont cependant tendance à tacher les doigts de ceux qui les touchent.
+49 <strong>Gripa.</strong> Parfois connu comme le signe de la tragédie, ou la plante des morts. La rumeur veut que la gripa pousse là
+   où des tragédies ont eu lieu, comme un souvenir des morts et de leurs misères. Cette vigne violette pousse comme un produit de la
+   décomposition d'un humanoïde. Elle est souvent utilisée par les sorcières, ce qui les incite à construire des colonies autour des
+   zones riches en gripa. Elle est rare à trouver, et avec une quantité suffisante, elle peut être utilisée comme un traitement
+   quotidien pour réduire le vieillissement et ses symptômes. Elle peut également être utilisée pour la coloration violette.
+50 <strong>Truffe du cœur.</strong> Ramène l'utilisateur en pleine santé.
+51 <strong>Horsenip.</strong> Un large champignon brun dont les chevaux ne peuvent se passer. Personne ne sait pourquoi.
+52 <strong>Champe à Choux.</strong> Ce champignon possède une courte tige Stout avec un chapeau à large bord dans des tons de violets
+   et de bleus. Lorsqu'il est ingéré, la créature devient incapable d'émettre le moindre son oralement pendant 6d10 minutes.
+53 <strong>Imp Stool.</strong> Un champignon trapu avec une tête jaune-vert bulbeuse. Le consommer cru a des effets terribles sur le
+   système métabolique. La créature subit 1d6 dégâts de poison et doit effectuer un jet de sauvegarde DC 16 Con. En cas d'échec, ces
+   dégâts réduisent également leur maximum de points du montant des dégâts subis jusqu'à la fin de leur prochain repos long. Les
+   créatures qui échouent à ce jet de sauvegarde sont également empoisonnées pendant un nombre d'heures égal à celui de leur échec à
+   ce jet de sauvegarde. Peut être distillé en un élixir plus puissant qui inflige 3d6 points de dégâts de poison en cas d'échec et
+   la moitié en cas de succès avec un DC de 11. Cet élixir peut être ajouté à tout autre poison ingérable avec un effet composé et en
+   augmentant le DC de 1.
+54 <strong>Jazz Cabbage.</strong> Le joueur ne peut parler qu'en klaxons et en grognements, ce qui rend le lancement de sorts presque
+   impossible, pendant 1d4 minutes s'il échoue à une sauvegarde WIS DC 15.
+55 <strong>Kobold Cap.</strong> Lorsqu'ils sont ingérés, ces champignons cramoisis rendent le consommateur hystérique et nerveux
+   comme s'il était sous l'effet d'un sort de peur.
+56 <strong>Encrier fuyant.</strong> Le liquide noir qui suinte de ces champignons (d'où leur nom) est communément extrait pour servir
+   d'encre aux livres de sorts. Curieusement, cette " encre " est également comestible et possède un profil de saveur épicé.
+57 <strong>Limus Botelium.</strong> Ce champignon est petit, vert et visqueux au toucher et est souvent appelé Slimy Doom. Toute
+   créature qui mange ce champignon se met à saigner de manière incontrôlable, a un désavantage sur les tests de CON et les jets de
+   sauvegarde, et chaque fois qu'elle subit des dégâts, elle est étourdie jusqu'à la fin de son prochain tour.
+58 <strong>Locusti Fungili The Mad Cap</strong> est un petit champignon brunâtre avec une marque rouge sur son chapeau qui ressemble
+   à un X. Lorsqu'il est consommé, ce champignon donne à son consommateur une carte mentale de son environnement dans un rayon de
+   3d12' de l'endroit où il a été cueilli.
+59 <strong>Magerot.</strong> Une "toile" fongique de cordes charnues qui ne pousse que sur les foyers arcaniques abandonnés. Si elle
+   est séchée, elle peut être consommée pour permettre à un mage de lancer des sorts sans foyer arcanique ni pochette de composants
+   pendant 1d10 heures.
+60 <strong>Champignon Magika.</strong> Pendant les 2d4 - 1 jours suivants, vos sorts ont une chance de provoquer de la magie sauvage.
+61 <strong>Magilicus Tempesti ou Storm Mushroom</strong> est un champignon turquoise relativement grand qui peut changer le temps
+   avec la libération de spores utilisant souvent cette capacité pour humidifier son environnement et appeler une petite tempête en
+   cas de danger. Lorsqu'il est dérangé, le champignon libère des spores dans un cône ascendant qui inflige 1d6 dégâts nécrotiques à
+   l'exposition. Un petit orage magique se forme dans un cercle de 40' autour du champignon pendant 1d8 rounds et toutes les
+   créatures qui échouent à leurs jets de sauvegarde subissent 1d4 dégâts de foudre par round tant qu'elles sont sous le nuage.
+62 <strong>Le champignon Meadboon.</strong> A le goût de la viande : l'âge du champignon dépend du goût de la viande.
+63 <strong>Mooshroom.</strong> Transforme le joueur en vache pendant 2d10 minutes s'il échoue à une sauvegarde de CON DC 13.
+64 <strong>Morbidis Dulce.</strong> Le champignon Sweet Death est si mortel que tout ce qui le touche, sauf le verre ou le cristal,
+   est flétri et détruit. Le faire tomber sur quelqu'un depuis le haut est très méchant.
+65 <strong>Morel. </strong>Il soigne 1d6 HP lorsqu'il est consommé.
+66 <strong>Murdermoss.</strong> Une mousse orange qui pousse dans les zones polluées par la magie noire. En consommer ne serait-ce
+   qu'un peu oblige à effectuer un test de maîtrise DC 20, provoquant une réduction instantanée à zéro en cas d'échec et un
+   empoisonnement en cas de réussite.
+67 <strong>Myconis Lacusti</strong> est un grand champignon noir semi-rectangulaire qui ressemble souvent à un bloc de pierre.
+   Lorsqu'il est dérangé, il téléporte ce qui le touche dans un demi-plan constitué d'une petite pièce aux murs mous. Ce demi-plan ne
+   transporte son contenu vers le champignon que s'il est brûlé. Le contenu du demi-plan subit 1d6 points de dégâts lors de sa
+   téléportation.
+68 <strong>Night Cap.</strong> Ce spécimen trapu arbore un chapeau bleu d'encre foncé avec des mouchetures blanches et une tige blanc
+   crème. Connu pour induire des rêves vifs et complexes lorsqu'il est consommé et utilisé en masse pour produire de la teinture bleu
+   foncé. Impression de spores violet noirâtre.
+69 <strong>Nimra's Rot.</strong> Empoisonné pendant 1d4 + 1 heures lorsqu'il est consommé.
+70 <strong>Nubious Mortificantus ou Death Cloud.</strong> Le pied de ce champignon est de couleur jaune-brun avec une bulle rouge,
+   violette et verte à son sommet. Cet énorme champignon mesure entre 2 et 4 pieds de haut et peut pousser sur des arbres, des
+   rochers ou sur la plupart des surfaces du sol. Ce champignon possède des branchies mais produit des spores d'une manière
+   différente. La cosse bulle au sommet de la tige fait environ 30 cm de large et, lorsqu'elle est brisée ou percée de quelque façon
+   que ce soit, elle libère un nuage de spores bleu argenté qui s'accroche à tous les objets environnants. Dans les 6 heures qui
+   suivent, les spores font germer de nouveaux champignons qui commencent à se développer sur tout ce qu'ils touchent. Si les spores
+   de ce champignon tombent sur un hôte vivant, celui-ci sera paralysé dans les 6 heures qui suivent, le champignon commençant à se
+   développer. Dans les 72 heures, sans assistance médicale, le champignon répand de fins filaments dans les organes vitaux et tue
+   lentement son hôte. Les taches de Nuage de la Mort masquent souvent les amas d'os et les enveloppes desséchées de leurs anciens
+   hôtes.
+71 <strong>Les pets d'ogre.</strong> Champignons noirs avec une indentation peu profonde dans le chapeau qui projette des nuages de
+   spores malodorants lorsqu'on les touche.
+72 <strong>Consultation de l'oracle / Delphi Epiphinata.</strong> Vous obtenez une vision de l'avenir, vous lancez un seul 1d20 lors
+   de la consommation et pouvez remplacer tout jet avec cette valeur dans une période de 24 heures. Les consommations multiples dans
+   cette période entraînent 1d2 points de dégâts psychiques pour chaque dose après la première.
+73 <strong>Le baiser d'Orcus.</strong> Un champignon de type crête pâle qui pousse sur les arbres morts, avec des veines rouges qui
+   les traversent. Les arbres qui portent ce champignon se voient lentement accorder une nouvelle vie, revivant complètement sur une
+   période de trois mois.
+74 <strong>Champignon huître.</strong> gagne la capacité de respirer de l'eau pendant 1d8 heures.
+75 <strong>Champignon Phoenix.</strong> Petits champignons au chapeau pointu de couleur ambrée, ces champignons poussent souvent en
+   groupes serrés autour des cendres des feux de camp et brillent d'une couleur jaune et rouge distincte dans l'obscurité. De loin,
+   les champignons Phoenix sont souvent confondus avec des feux. Lorsqu'ils sont utilisés pour faire un ragoût, ces champignons ont
+   une épice naturelle qui confère à ceux qui le boivent une résistance au feu pour l'heure suivante par portion consommée.
+76 <strong>Pigstingers.</strong> Une espèce de champignon ascomycète similaire aux truffes, dont les fructifications sont couvertes
+   d'épines acérées connues pour blesser les porcs chasseurs de truffes.
+77 <strong>Truffe de pin.</strong> Illumine l'obscurité lorsqu'elle se trouve à moins de 100 pieds sous terre.
+78 <strong>Pleurotus Androgenomyces.</strong> Un petit champignon bleu foncé qui pousse en grappes de trois. Il préfère
+   particulièrement la terre qui a été trempée dans des boissons fermentées comme la bière, l'ale, l'hydromel, etc... On le voit
+   souvent à l'extérieur des pubs dans les climats plus chauds. Lorsqu'il est consommé frais, il transforme l'imbibeur en sexe opposé
+   pendant 1d4 heures et augmente le Charisme de 1d6 pendant toute la durée de l'effet. Pour cette qualité, il est familièrement
+   connu sous le nom de "faux bonnet de pute" en raison de la tendance des pauvres ivrognes à les manger impulsivement afin de vendre
+   leur nouveau corps aux clients des bars pour pouvoir s'offrir plus d'alcool.
+79 <strong>Casque dodu.</strong> Un champignon incroyablement sucré que les nains sont connus pour broyer et fermenter en une sorte
+   unique de "vin". Souvent cuisinés avec du sirop fait à partir des fruits de la gousse sucrée indigène, les Casques Dodus sont
+   incroyablement rassasiants, mais à part cela, ils n'ont pas d'effets uniques.
+80 <strong>Profundus Obscurus 'The Deceiver'.</strong> Ce champignon brun et violacé moyen varie en taille, en caractéristiques et en
+   couleur. Aucun alchimiste n'arrive à se mettre d'accord sur la manière exacte de le classer, ou même s'ils discutent du même
+   champignon. Impliqué dans d'innombrables discussions et altercations au cours de l'histoire, ce n'est que lors du Grand Débat du
+   Conseil Dyvonien tardif, qui s'est presque terminé par un bain de sang, que David Orelchy a fait remarquer que le champignon
+   présentait les mêmes énergies que le sort "Confusion". Lorsqu'il est contenu dans une bouteille en verre, les spores sont
+   contenues et il peut être lancé comme une arme à distance. L'effet a une largeur de 2 d12 et dure 4 tours, sauf en cas de vent
+   fort.
+81 <strong>Proturbatis Fraudibus ou le Capuchon à blagues</strong> est un champignon rouge d'environ 2 pieds de hauteur avec un
+   capuchon épais. Ce champignon a été génétiquement modifié par un nécromancien il y a longtemps pour puiser dans les âmes mortes
+   des bardes comiques. Lorsqu'il est dérangé, le "Fun-Guy" révèle une bouche humaine et débite un flot de blagues en commun qui
+   peuvent soit contrarier soit fasciner l'auditeur, mais dans tous les cas, il gagne un bonus de 1d6 à la perception. Si quelque
+   chose touche le champignon, il libère des spores dans un nuage de 20' qui incite au rire spontané, incapacitant les personnes
+   exposées pendant 1d4 rounds.
+82 <strong>Psathyrella Aquatica.</strong> On peut trouver ce champignon dans les rivières, les lacs et autres cours d'eau. Il est
+   petit et bleu argenté avec des taches blanches sur son chapeau. Lorsqu'il est consommé, Psathyrella Aquatica donne la capacité de
+   respirer sous l'eau pendant 1d4 heures. Une surconsommation chez l'homme peut entraîner la formation de branchies derrière les
+   oreilles, ce qui endommage l'ouïe et affecte la perception.
+83 <strong>Nuage pourpre.</strong> sauvegarde con 15, si échec permet de voir au plan éthéré pendant 3d8 minutes.
+84 <strong>Rushroom.</strong> Pourpre et ridée, la consommation augmente la vitesse de déplacement de 10 pieds pendant une heure.
+85 <strong>Seductus Lactimus "Champignon de la luxure".</strong> Un champignon luminescent doré avec des taches argentées.
+   L'ingestion du champignon rend la créature qui l'a mangé hallucinée, faisant apparaître tout ce qu'elle voit comme un champignon.
+   De plus, la créature a un désir exceptionnellement intense de consommer tous les autres champignons en vue, ce qui la met dans une
+   rage incontrôlable.
+86 <strong>La crapaudine tachetée du sud.</strong> Consomme la matière du sol et la fragmente à l'intérieur du chapeau du champignon.
+87 <strong>Champignon étrange.</strong> Vous grandissez d'une taille pendant 1 jour.
+88 <strong>Sylvanhat.</strong> Un champignon blanc très rare qui ne pousse que dans les forêts habitées par les fey. En épluchant sa
+   fine peau, on découvre un "noyau" de métal bleu précieux que l'on ne trouve nulle part ailleurs.
+89 <strong>Cloches de temple.</strong> Ces champignons de couleur bronze poussent en grappes de six. Lorsqu'ils sont mangés, ils
+   soignent 1hp et offrent une résistance aux dégâts nécrotiques pendant 10 minutes.
+90 <strong>Tenax Stalk.</strong> Lorsqu'il est mâché, il modifie chimiquement vos hormones pendant 1d6 heures faisant développer à
+   votre peau une couverture visqueuse blanche, se concentrant sur les extrémités [toutes], qui peut être utilisée pour produire des
+   toiles et permettre aux araignées de grimper.
+91 <strong>Terra Mirabilis Boletus.</strong> Lorsqu'il est ingéré, ce champignon produit un effet similaire à un sort de réduction de
+   personne ou d'agrandissement de personne. L'effet est limité à trois rounds. L'effet produit est déterminé par l'endroit où l'on
+   mord le champignon. En d'autres termes, un côté vous fera grandir, et l'autre côté vous fera rapetisser. La difficulté est de
+   déterminer quel côté est le bon, ou même où commence et finit un côté sur un objet parfaitement rond. Manger le champignon entier
+   produira l'un ou l'autre effet de façon aléatoire pendant 1d10 rounds.
+92 <strong>Folie du voleur.</strong> Lorsqu'il est séché, réduit en poudre, puis mélangé à de l'alcool clair, ce champignon produit
+   un liquide clair qui peut être utilisé pour recouvrir n'importe quel objet. Au contact de la peau, ce liquide fait luire la peau
+   d'un bleu vif pendant 1d10 heures.
+93 <strong>Tiamat's Toadstool.</strong> Ces champignons à chapeau poussent par grappes de 5, chaque chapeau étant coloré pour
+   correspondre aux dragons chromatiques. Lorsqu'il est ingéré, chaque champignon accorde au consommateur une résistance au type de
+   dégâts correspondant à la couleur des chapeaux (rouge pour le feu, bleu pour la foudre, vert pour le poison, noir pour l'acide et
+   blanc pour le froid). Cependant, manger plus d'un champignon dans une période de 8 heures est nocif pour le corps et provoque 1d8
+   dégâts nécrotiques pour chaque champignon ingéré dans ce laps de temps.
+94 <strong>Tricholgossum Falfortinem et Trichoglossum Fortinem.</strong> Deux petits champignons extérieurement identiques qui
+   ressemblent à des langues de chats noirs miniatures. Le T. Fortinem donne à ceux qui le consomment entier une rage berserker,
+   pendant 10 rounds moins le modificateur de Con. Après que la rage se soit estompée, ceux qui l'ont consommé doivent faire une
+   sauvegarde de Con 10 ou gagner 1 rang d'épuisement. Le T. Falfortinem procure à ceux qui le consomment une euphorie et un
+   sentiment d'invincibilité. Sauvegarde de Con 15 en cas de réussite, confère une résistance aux coups et aux perforations pendant
+   10 rounds moins le modificateur de Con. En cas d'échec, ceux qui le consomment subissent une pénalité de -1 à la STR et à la Con
+   jusqu'à un long repos.
+95 <strong>Unguisi Aquilia ou champignon griffe d'aigle.</strong> Ce champignon brun uni mesure environ 6 cm de haut et se distingue
+   par les gros points blancs sur ses branchies et son pied. Trouvé autour de la base de très grands arbres, l'Unguisi Aquilia ne
+   semble pas avoir de propriétés particulières et est souvent ramassé par les voyageurs pour un souper rapide. Cependant, les mages
+   et les chasseurs de champignons expérimentés savent que quelques minutes après avoir consommé ce délicieux champignon, les
+   humanoïdes se voient pousser des ailes et de grandes serres aux pieds, détruisant souvent vêtements et armures au passage. Les
+   mages ou autres personnes qui sont préparés avant de consommer ce champignon acquièrent la capacité de voler pendant 2 heures et
+   obtiennent également un coup de griffe qui inflige 2 d6 de dégâts perforants. Les histoires de boules de feu tombant du ciel sont
+   souvent considérées comme des signes de l'activité des dragons, alors qu'en fait ce curieux petit champignon brun pourrait en être
+   la cause.
+96 <strong>Visus Invisibilia.</strong> Un petit champignon rare, transparent et clair avec une substance laiteuse visible dans tout
+   le bol. Il confère à la personne qui mange le champignon la capacité de voir les créatures/objets invisibles pendant 4 heures.
+   Après avoir consommé le champignon, le PC doit faire une sauvegarde de Constitution DC 12 ou il ne peut pas faire la différence
+   entre les hallucinations que le champignon peut causer.
+97 <strong>Champignon des saules.</strong> Des centaines de petits brins pendent du champignon, le faisant ressembler à un saule. Il
+   peut être transformé en un poison qui inflige à la fois 1d4 points de dégâts chaque minute et émousse les sens, rendant la
+   créature affligée incapable de ressentir la douleur.
+98 <strong>L'œil du sorcier.</strong> Dans les grottes de la côte de fer pousse un champignon que beaucoup appellent l'œil du
+   sorcier. On peut les trouver dans les grottes en suivant leur lueur rougeâtre jusqu'aux coins et recoins où ils se propagent. Le
+   champignon lui-même est une petite boule ronde, brun rougeâtre et translucide. Cuits en ragoût, ils sont savoureux et ne
+   réagissent pas, mais lorsqu'ils sont utilisés en conjonction avec un globe oculaire frais provenant de n'importe quelle forme
+   d'humanoïde, ils se transforment en un objet utile appelé Œil de Sorcier. En plaçant le champignon et l'œil frais dans un bocal
+   ensemble, le champignon extrude de petits filaments dans l'œil et commence à l'absorber. Toute personne qui mange une vrille peut
+   voir ce que le nouvel "œil de sorcier" voit pendant 1d12 heures. Ils sont souvent placés près des portes des donjons, dans les
+   arbres, et collés aux plafonds avec du mastic. La guilde des voleurs est connue pour payer 100gp pour des spécimens, car elle ne
+   semble pas manquer d'yeux pour les utiliser.
+99 <strong>Yarokol Plenenium.</strong> Un petit champignon blanc cassé avec une lueur bleu-vert. Ce champignon nécessite étrangement
+   une goutte de sang pour être cultivé. Lorsqu'il est ingéré, ce champignon a un goût presque étrange de viande. La personne qui
+   l'ingère subit un désavantage aux jets de sauvegarde de Sagesse pour résister aux sorts d'enchantement lancés par le fournisseur
+   de la goutte de sang pendant 2d4 jours, le temps que le champignon passe dans son système. Il est possible de mettre fin à cet
+   effet de manière anticipée avec un sort de restauration plus important. De plus, tant qu'il est affecté par le champignon, le
+   fournisseur de la goutte de sang peut lancer des sorts d'enchantement sur le consommateur à n'importe quelle distance, s'il sait
+   où se trouve le consommateur. Les mages Drow sont connus pour utiliser ces champignons dans une version copieuse d'un célèbre
+   ragoût d'œufs de lézard appelé Nildax Godeneld.
+00 <strong>Zaphir.</strong> subit 1d4 dégâts et induit des brises colorées semblables à de la poussière qui manifestent un portail
+   tourbillonnant. Utilisez 1d4 pour forcer le PC à aller dans la direction indiquée par le dé comme s'il essayait de passer par le
+   portail imaginaire.

@@ -1,0 +1,138 @@
+                                                  items in a fantasy thrift shop                                                  
+
+ 1 Une épée "en argent" qui n'est en fait que de l'acier brillant.
+ 2 Une épée longue (ou n'importe quelle autre arme) à -1 (mais c'est toujours un objet magique).
+ 3 Un ours en peluche avec des yeux manquants
+ 4 Un sac de rétention qui ne contient que 5 objets
+ 5 Une ceinture dont la texture ressemble étrangement à celle de votre peau.
+ 6 Un disque noir brillant avec des dizaines d'anneaux en relief. Qui sait de quoi il est fait ?
+ 7 Un livre contenant des guides sur la façon de se débarrasser d'une malédiction.
+ 8 Un livre intitulé "le livre du destin", dont les pages sont vides.
+ 9 Une bouteille remplie de liquide avec le bouchon encore en place, l'étiquette indique "PAS le poison" écrit en vert. Il y a un
+   paquet de cinq bouteilles à côté, elles sont vierges.
+10 Une branche en forme de baguette avec un manche sculpté, elle a encore quelques feuilles (mortes).
+11 Un diadème en laiton, vous vous sentez puissant en le portant.
+12 Un plastron d'un ancien chevalier avec un trou à la hauteur du cœur. Quelque chose comme une corne de taureau a percé à travers.
+13 Une cape avec un col et une bordure légèrement effilochés ( et un objet secret cousu dans la doublure).
+14 Un mortier et un pilon en argile qui semblent avoir été fabriqués par un enfant ivre.
+15 Une horloge dont l'aiguille des minutes est coudée et l'aiguille des heures bloquée sur 6.
+16 Une boîte à biscuits en forme de pouce levé.
+17 Une pipe en épi de maïs.
+18 Une harpe fêlée à laquelle il manque la plupart des cordes.
+19 Une couronne faite de vraies dents de dragon. Ou juste une contre-couronne bien faite.
+20 Un livre maudit. Il raconte une histoire d'une absurdité absolue, des gens atteignant la "divinité" en "ouvrant leur troisième
+   œil". Il rendra le lecteur fou et le forcera à se tuer s'il ne se débarrasse pas de cette malédiction dans les 25+2D10 jours. Il a
+   très probablement été écrit par un démon.
+21 Un dessin d'une belle ville qui n'existe pas (ou plus).
+22 Une canne à pêche avec un gros moulinet en laiton. Elle est clairement usée, mais on dirait qu'elle peut encore faire quelques
+   bonnes prises si on en prend soin.
+23 Un costume violet flashy avec des imprimés d'animaux à l'intérieur.
+24 Une épée en mousse.
+25 Une écharpe tricotée funky avec toutes les couleurs de l'arc-en-ciel.
+26 Un chapeau haut-de-forme de gentleman en parfait état.
+27 L'armure d'un géant. Elle a une énorme déchirure sur le torse, qui donne des informations sur son dernier propriétaire.
+28 Un gobelet avec l'inscription "Joyeux 14e anniversaire Christa".
+29 Un service à thé en argile verte. 3 petites tasses à thé rondes qui ont été nettoyées. En regardant à l'intérieur de la
+   bouilloire, vous apercevez une petite quantité de sang coagulé.
+30 Cette lanterne à capuchon est peinte de manière assez complexe avec un motif de chat domestique représentant des chats jouant dans
+   différentes poses. Elle est principalement peinte en blanc et en rose, et présente de petites éraflures sur un côté.
+31 Un puzzle qui ouvre un portail vers un autre plan lorsqu'il est complété... mais, il manque trois pièces.
+32 Une lampe en forme de jambe de femme dans une chaussure à talon haut.
+33 Une grande selle. Elle était autrefois utilisée pour les courses de hiboux.
+34 Une corde de lévitation, 2 pieds.
+35 Un manteau léger avec l'emblème d'un gryphon brodé à l'arrière.
+36 Un luth avec une mauvaise peinture personnalisée que le propriétaire précédent avait essayé de faire lui-même.
+37 Un balai magique. Chaque fois que vous punissez quelqu'un avec, le balai se met à rire.
+38 Une sphère magique en verre. Si tu demandes à la sphère de te montrer une personne en particulier, la sphère te montre une autre
+   personne portant le même nom.
+39 Un coffre verrouillé par magie qui n'a pas de clé.
+40 Une tête de mannequin.
+41 Une bille avec une galaxie tourbillonnante au centre.
+42 Une statue en pierre d'un pied de haut représentant un gnome portant un grand chapeau pointu peint en rouge vif. La pointe du
+   chapeau de la statue est ébréchée, mais a été repeinte.
+43 Une paire de chaussures orange vif.
+44 Une paire de pantoufles finement brodées, mais la pantoufle gauche est plusieurs tailles plus petites que la droite.
+45 Une paire d'énormes bottes usées et ressemelées, lacées avec ce qui ressemble à des cheveux tressés.
+46 Une paire de lunettes de chat teintées de rose. Quand on les porte, le monde semble un peu plus heureux.
+47 Un pantalon bien trop long pour tout humanoïde.
+48 Une paire de gants en soie blanche qui semblent être en bon état, à l'exception d'une tache jaune pâle sur l'une des paumes.
+49 Un presse-papiers dont la taille augmente légèrement à chaque fois qu'on le regarde.
+50 Un édredon qui, bien qu'usé, conserve l'image élaborée d'un lac.
+51 Un collier doré ridiculement grand, orné de bijoux, qui signifie BOSS.
+52 Une table ronde avec des pieds dépareillés.
+53 Un manuel scolaire avec des gribouillages partout.
+54 Un ensemble de belles tasses, chacune avec un gros éclat à différents endroits.
+55 Un ensemble de sept poupées russes gigognes peintes à la main. Les images des femmes sont animées et leurs yeux vous suivent dans
+   la pièce. Elles prononcent des mots, mais n'émettent aucun son. Une personne qui sait lire sur les lèvres peut comprendre qu'elles
+   essaient de vous parler et de vous dire ...
+56 Un ensemble de trois bols en bois emboîtés.
+57 Un ensemble de couteaux de boucherie très rouillés.
+58 Une cape noire en soie de 4'.
+59 Un petit sac de loups portables.
+60 Une petite peinture à l'huile d'un château voisin.
+61 Un globe de neige contenant une réplique miniature parfaite de la friperie et de tous ses occupants.
+62 Une boule à neige avec un petit soldat prenant une pose héroïque (bonus, il change de pose quand personne ne regarde).
+63 Un livre de sorts contenant quelques sorts de bas niveau qui sont tous partiellement illisibles en raison d'une grande tache
+   d'encre qui pénètre la plupart des pages.
+64 Un vrai cheval empaillé. Anciennement utilisé comme support d'armure pour les montures.
+65 Un gilet en peau de tabaxi. Les tabaxi qui vous rencontrent engageront le combat à moins que vous ne puissiez battre un DC15 de
+   persuasion/intimidation. Vous avez un désavantage sur la persuasion et un avantage sur l'intimidation.
+66 Un médaillon en laiton terni avec un fermoir cassé. A l'intérieur se trouve le portrait miniature d'une femme dragonborn
+   souriante.
+67 Une boule de cristal ternie, qui clignote par intermittence en rouge vif.
+68 Une baguette "légèrement" utilisée, le DM décide du type de baguette mais elle n'a actuellement qu'une seule charge et ne
+   regagnera pas de charges tant que la dernière n'aura pas été dépensée pour "réinitialiser la magie".
+69 Un assortiment de bouteilles et de gobelets en verre difformes provenant d'un verrier voisin.
+70 Un œuf, avec une étiquette expliquant qu'il s'agit d'un œuf parfaitement normal et qu'il n'y a pas lieu de s'inquiéter.
+71 Un couteau enchanté, l'enchantement a cependant été oublié depuis longtemps.
+72 Un sac d'explorateur auquel il manque la corde.
+73 Un jeu d'échecs elfique complexe avec chaque pièce méticuleusement sculptée comme une petite miniature, le blanc est fait d'ivoire
+   et le noir d'obsidienne, mais il manque un fou noir, il y a un fou standard en bois à sa place.
+74 Un vieux casque. On dirait qu'il a appartenu à un ancien kobold.
+75 Une horloge décorée qui, au lieu de donner l'heure, fait un compte à rebours vers... quelque chose.
+76 Une canne ornée trop grande pour être utilisée par un humanoïde moyen.
+77 Un costume marron démodé, taillé sur mesure pour un humain petit et gros, ou peut-être un nain aux proportions étranges.
+78 Une vilaine cape en patchwork avec de nombreuses petites poches cousues à l'intérieur pour transporter des composants de sorts ou
+   des bibelots.
+79 Une robe de mariée blanche avec une tache de vin rouge. Du moins, j'espère que c'est du vin.
+80 Ensemble sel et poivrier abyssal.
+81 Service d'assiettes en porcelaine : Un service en porcelaine fabriqué par les halflings. Très belle fabrication et livré avec des
+   ustensiles en argent.
+82 Des lunettes circulaires avec des verres verts ; quatre d'entre elles en plus !
+83 Mât pliable de 10 pieds (devrait se plier à 1 pied) qui ne se plie qu'à 5 pieds.
+84 Des poupées matryoshka naines.
+85 Flacon d'écoulement alchimique : un serviteur anonyme d'un alchimiste local fournit régulièrement à la friperie ces flacons non
+   marqués. Chaque fois que le serviteur nettoie l'atelier d'alchimie de son maître, il essore les chiffons dans ces flacons et y
+   déverse les restes de potions ou de pommades. Le fait de les boire a 50% de chances d'empoisonner l'imbibeur et 50% de chances
+   d'obtenir un effet aléatoire de la potion.
+86 Robe à tête de plumes de griffon : De toute évidence, elle provient d'un bal masqué. Vous trouvez cela de mauvais goût maintenant
+   que les griffons sont une espèce en voie de disparition.
+87 La moitié d'un bâton de sorcier. Aucune des deux moitiés ne peut exister sur le même plan que l'autre.
+88 Beaucoup d'armures d'occasion.
+89 Eau magique du vagabond. Versée sur votre main, l'eau s'écoulera vers le nord. (6 utilisations, 50% de chances de couler vers
+   l'est).
+90 Les "Tiques" de voyage de Merlin : Canapés, bancs, tabourets, tables de pique-nique, lavabos et chaises miniatures en teck bien
+   usés qui peuvent être rangés dans un sac à tapis. Ne peuvent être utilisés correctement qu'avec une baguette de sorcier pour être
+   agrandis à une taille utilisable. Un peu taché, quelques traces de café, quelques toiles d'araignée et de la poussière ici et
+   là... mais toujours décent.
+91 De vieilles copies délavées d'un vieux magazine appelé Beholder's Digest.
+92 Des chaussures à plateforme, conçues pour donner à un humanoïde un bon demi-pied de plus en hauteur !
+93 Béquilles Slipbane : Des béquilles enchantées qui adhèrent fermement à n'importe quelle surface sans glisser mais qui se libèrent
+   facilement lorsqu'on les tire. Vous vous souvenez d'un magicien fou qui, enfant, les montrait sur la place du village en marchant
+   sur le côté d'un bâtiment.
+94 Les bottes de la malchance : Ces bottes étaient autrefois très à la mode et portées par un grand aventurier. Aujourd'hui ? Elles
+   sont encore très à la mode, mais elles sont pleines de trous à force d'être usées. Elles ont également perdu tout semblant de
+   forme, et vous les porterez souvent sur les mauvais pieds pendant un certain temps avant de vous en rendre compte.
+95 Le Gorge Four-mon Grill : Très en vogue dans les écoles de sorcellerie pour préparer des sandwichs. Le portail miniature vers le
+   plan élémentaire du feu permettait d'obtenir les meilleurs snacks pour les sessions d'étude de minuit.
+96 La tunique de la démangeaison extrême : C'est un objet magique que le magasin vous paiera pour porter. Elle porte une gravure du
+   nom du magasin. Lorsque vous la portez, le tissu vous démange tellement que vous pouvez avoir du mal à vous concentrer sur les
+   sorts, mais vous pouvez aussi être désavantagé lorsque vous effectuez des actes de force ou d'agilité. Le facteur de démangeaison
+   peut ou non être explicitement indiqué par le commerçant.
+97 Le cintre mural : vous savez que vous ne devriez pas l'acheter. L'acier est douteux au mieux. Il n'est pas assez aiguisé pour
+   couper du beurre. Vous savez que ce n'est même pas une authentique écriture elfique qui est gravée sur le plat, mais par les dieux
+   du ciel, le katana a l'air vraiment vraiment cool.
+98 Deux dés chargés (d6). Ils affichent toujours une combinaison aléatoire de sept s'ils sont lancés ensemble.
+99 Urne des restes de nains : Exactement ce que vous pensez que c'est. Personne ne l'a trouvé dans la pile de dons.
+00 Des flacons de potion usagés de taille variable (vides mais les résidus peuvent affecter toute potion fabriquée dedans s'ils ne
+   sont pas nettoyés correctement).

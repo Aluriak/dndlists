@@ -1,0 +1,335 @@
+                                                    resurrection side effects                                                     
+
+ 1 Un chien noir aux yeux rouges vous suit.
+ 2 Une peur paralysante de Dieu est placée au plus profond de soi. La religion est le seul moyen d'éviter le feu de l'enfer.
+ 3 Un aliment ou une boisson que vous aimiez auparavant a maintenant le goût du pire aliment que vous puissiez imaginer. Vous n'en
+   mangeriez que si vous étiez affamé et que c'était le seul aliment disponible.
+ 4 Une corne singulière pousse sur votre tête. Les druides croient que tu es un signe de l'apocalypse.
+ 5 Après avoir été ressuscité, vous êtes considéré comme inéligible pour l'au-delà lors de votre prochaine mort.
+ 6 Toutes les fortunes ou prophéties qui sont attribuées à votre personnage sont maintenant nulles et ont été données à une autre
+   personne.
+ 7 Tous les humanoïdes semblent maintenant être suivis par une collection de sprites de couleurs et de formes diverses. Ces lutins ne
+   peuvent être découverts par aucune forme de magie et ne peuvent être observés que par vous.
+ 8 Les animaux vous évitent avec un respect craintif.
+ 9 Une autre âme s'est accrochée à toi sur ton chemin vers le plan matériel, se faisant ressusciter également (Un PNJ apparaît, avec
+   des détails déterminés par le DM).
+10 Une autre âme s'est accrochée à la tienne pendant ta résurrection. Tu peux communiquer avec elle si tu te concentres assez fort.
+11 Dans le cadre de l'accord, vous devez tuer ce qui vous a tué dans un délai d'un mois ou vous êtes mort pour de bon.
+12 Comme vous êtes désormais relié aux plans matériel et spirituel, vous pouvez désormais être sacrifié comme réactif dans un simple
+   rituel de résurrection. De plus, la deuxième mort de votre personnage provoquera immédiatement la résurrection d'un corps
+   aléatoire proche.
+13 Au début de chaque heure, lancez un d20. Sur un résultat de 1, vous quittez votre corps et entrez dans le plan éthéré. Tout
+   dommage infligé à votre corps dans le plan dans lequel vous vous trouvez actuellement est infligé à votre moi éthéré, et vice
+   versa. À la fin de l'heure, vous retournez dans votre corps et vous n'effectuez pas de jet de dé avant l'aube suivante.
+14 Né à nouveau... (Choisissez un nouveau nom)
+15 Les Célestes sont dégoûtés par vous. -5 de charisme avec les Célestes.
+16 Rappel mortel : La dernière blessure que vous avez reçue avant de mourir est toujours visible sous forme de cicatrice. Le jour
+   anniversaire de votre mort, elle saigne inexplicablement et fait mal comme si elle était fraîche. (tous les jets de dé de ce jour
+   ont un désavantage)
+17 Death Wish (Vous ne craignez plus la mort et êtes enclin à faire les choses de la manière la plus dangereuse).
+18 Les chiens et autres canidés vous percevront comme un squelette, et pour cela ils essaieront de mordre et de ronger vos "os" pour
+   s'amuser. Essayer de les raisonner n'est qu'une perte de temps. Fuir ou combattre.
+19 En raison d'un rituel instable, vous faites occasionnellement jaillir un panache de feu de l'enfer de deux pieds à partir de
+   parties du corps aléatoires. Une fois par semaine et vous oblige à porter un ensemble de vêtements supplémentaires.
+20 En raison de l'atrophie de vos yeux lorsque vous étiez un cadavre, vous êtes maintenant sensible à la lumière vive et préférez
+   rester dans l'obscurité.
+21 En raison de votre expérience (ou de votre manque d'expérience) en tant que mort, vous avez maintenant un dilemme moral lorsque
+   votre groupe tente de tuer une créature sensible.
+22 Pendant le rituel de résurrection, l'un de vos sens a été gravement endommagé (choix du MJ). Vous subissez maintenant -10 à votre
+   perception passive.
+23 Pendant ta courte éternité, tu as été très "proche" d'un démon : -(si c'est un mâle) Un Tiefling finira par te trouver en
+   prétendant être ta progéniture -(si c'est une femelle) Une surprise Tiefling grandit en toi.
+24 Pendant votre séjour dans l'autre côté, votre esprit a été touché par quelque chose de non naturel. Une fois par mois, vous faites
+   d'intenses cauchemars qui vous privent des bienfaits d'une nuit de repos, et quiconque tente d'accéder à votre esprit sans
+   protection significative subit 4d10 dégâts psychiques en retour. Une fois par jour, vous pouvez toucher la tête d'une autre
+   créature et la forcer à effectuer un jet de sauvegarde de Sagesse DC 24. En cas d'échec, la créature est effrayée pendant 1
+   minute. Pendant qu'elle est effrayée, la vitesse de la créature est de 0, et elle ne peut bénéficier d'aucun bonus à sa vitesse.
+   En cas de sauvegarde réussie, la vitesse de déplacement de la créature est normale et elle bénéficie des bonus à sa vitesse comme
+   d'habitude.
+25 La mort a eu des répercussions sur votre bien-être mental. Vous êtes maintenant effrayé par la créature ou l'objet qui vous a tué
+   et lorsqu'on vous présente une photo ou un bibelot qui vous le rappelle, vous prenez peur et devenez paranoïaque.
+26 À chaque coucher de soleil, un trou des neuf enfers s'ouvre devant vous pour livrer un parchemin. Il indique l'emplacement
+   d'autres évadés et vous êtes maintenant un chasseur de primes infernal obligé de les renvoyer. Le trou est utile pour allumer des
+   feux de camp.
+27 Tous ceux qui n'ont pas été directement impliqués dans votre résurrection oublient votre existence et vos réalisations avant votre
+   mort et vous traitent comme quelqu'un qu'ils n'ont jamais connu ou dont ils n'ont jamais entendu parler.
+28 Toutes les personnes que vous connaissiez auparavant sont maintenant méconnaissables.
+29 Tout ce que vous mangez a la texture des cendres.
+30 Hell Bound (Vous avez découvert que vous êtes condamné à la souffrance éternelle et vous ferez tout pour éviter cela)
+31 Si une race autre que la sienne l'a tué, il est maintenant violemment raciste à leur égard.
+32 Si vous étiez d'alignement mauvais avant la résurrection, vous êtes maintenant un gentil garçon. Si vous étiez d'alignement bon,
+   vous êtes maintenant apathique au sort des autres.
+33 Dans chaque assiette de nourriture que tu manges, tu trouves un asticot.
+34 Dans l'existence après la mort, vous avez connu l'éternité. Cela vous a donné le temps de vous contempler, mais vous a fait
+   devenir distant. Vous gagnez +1 Sagesse et -1 Charisme.
+35 Dans l'au-delà du personnage, on lui a présenté une variété incroyable de nourriture. Après sa résurrection, le personnage a du
+   mal à manger la même nourriture dans la semaine qui suit. Si un aliment est consommé dans la semaine qui suit la dernière fois
+   qu'il a été mangé, faites une sauvegarde de Volonté (à la discrétion du MD) pour ne pas avoir la nausée. S'il a la nausée, il doit
+   faire une sauvegarde de Con pour ne pas vomir.
+36 Dans le royaume des esprits, vous avez pu percevoir le temps tel qu'il existe réellement. En tant que tel, vous êtes maintenant en
+   mesure de mesurer le temps exactement - en connaissant l'heure de la journée, en comptant les heures, etc.
+37 Lors de votre court voyage dans l'au-delà, vous avez appris qu'un parent avait conclu un marché avec un démon, et que votre âme
+   était celle qui avait été promise.
+38 Au lieu de simplement se lever, votre corps produit une petite version humonculoïde de vous-même qui se développe en un fac-similé
+   raisonnable au cours d'une semaine. Il y a clairement des problèmes physiques ou mentaux avec le processus de copie.
+39 Il est impossible d'inverser l'épuisement sans l'utilisation d'aliments magiques.
+40 C'est comme une imprimante. Parfois, elle imprime deux fois. Ça donne un double corps parfait.
+41 Juste avant de te réveiller, tu vois un œil énorme devant toi. Ton âme contient une étincelle du pouvoir de résurrection et un
+   fragment de l'âme d'un dragon. Chaque fois que tu rencontreras un dragon, il essaiera de te prendre vivant. Votre vie peut être
+   sacrifiée pour ressusciter un dragon, ou pour donner une seconde vie au dragon qui vous a capturé.
+42 En vivant parmi les morts, tu as appris le secret de la chair. Consommer des parties de cadavres vous permet de voir comment ils
+   sont morts. Mordre quelqu'un vous permet de voir sa véritable intention et sa peur. Bien sûr, si vous le faites en public, ceux
+   qui vous ont vu préféreront les lames aux mots et vous obtiendrez -2 CHR à chaque lancer diplomatique avec eux.
+43 Perte du nombril.
+44 Un léger traumatisme neurologique a fait passer votre type de mémoire préféré du visuel au gustatif. Vous avez du mal à vous
+   souvenir ou à reconnaître les choses si vous ne les goûtez pas.
+45 Les moustiques qui te sucent le sang explosent en petites boules de feu.
+46 Aucun homme ne peut être ressuscité. Un démon a pris la place de votre cher ami. Ce démon ne souhaite que du mal à la fête.
+47 UN DE NOUS ! UN DES NÔTRES ! (Les morts-vivants inintelligents ne vous attaqueront pas à moins d'être attaqués en premier).
+48 Une des parties de votre corps (au choix de GM) est maintenant remplacée par un métal aléatoire.
+49 Une partie de vous réside encore dans le pays des morts, chaque nuit, dans vos rêves, vous y retournez. Lorsque vous prenez un
+   long repos, lancez 1d10 sur un 1, vous vous réveillez en hurlant et ne bénéficiez que des avantages d'un court repos.
+50 La religion est un mensonge. Il n'y a pas de dieu et pas de vie après la mort. Vous vous mettez violemment en colère contre ceux
+   qui disent le contraire.
+51 Le rhum est la boisson que les morts préfèrent. Tu es mort. Vous aimez le rhum. Vous avez pris un goût extrême pour le rhum et en
+   fait pour tout alcool. Il ne vous confère aucun avantage, mais vous n'êtes redevable d'aucun de ses inconvénients.
+52 Une apparition ou une entité s'est attachée à vous sur le chemin du retour. Vous êtes maintenant assailli de visions de ce que
+   cette entité malveillante fait sur votre plan d'existence.
+53 Quelqu'un d'autre dans le monde est mort au même moment que toi, et le sort l'a ramené aussi. Vous vous connaissez de vue, et ils
+   peuvent ou non être reconnaissants...
+54 Soul Lag, vous bougez mais votre âme se déplace un peu plus lentement donnant à vos mouvements un écho fantomatique.
+55 Échanger la main dominante.
+56 Les Parques avaient déterminé que vous deviez vous réincarner, mais le rituel les a trompés. Vous êtes hantée par les rêves d'un
+   jeune couple qui pleure la perte du nouveau-né que vous deviez être. Tous les mois environ, tu fais des rêves et des cauchemars
+   dans lesquels le couple sans enfant, tes parents, essaie et échoue à agrandir leur famille. Au fil des ans, ils deviennent amers,
+   se chamaillent et mènent une vie misérable. Il faut les retrouver et s'excuser pour que les rêves cessent.
+57 La vie après la mort était un paradis, et vous avez maintenant un besoin impérieux de retrouver la vie parfaite qui vous a été
+   arrachée.
+58 Le lien entre votre âme et votre corps s'est affaibli. Quand vous dormez, votre âme peut errer dans le plan éthéré.
+59 Les ténèbres de l'au-delà vous hantent toujours. Vous vous sentez mal à l'aise dans l'obscurité, et votre vision dans le noir est
+   réduite à 20 pieds.
+60 Pendant tout le temps où vous étiez mort, vous saviez que ce n'était pas le bon moment, en fait vous le savez parce que la nature
+   de votre vraie et dernière mort vous a été révélée. Vous connaissez maintenant l'instrument de votre mort (épée, feu, noyade,
+   etc.) et vous subissez un désavantage dans tous les jets pour interagir avec lui et vous subissez également +1 aux dégâts de cette
+   source.
+61 La terre des vivants ne semble plus naturelle. Votre personnage ne peut bénéficier des avantages d'un long repos que s'il dort
+   dans un cercueil ou une tombe peu profonde.
+62 Les lignes entre les vivants et les morts sont maintenant très floues pour vous. Une fois le soleil couché, vous pouvez
+   constamment parler avec les morts, mais ne pouvez pas communiquer avec les vivants.
+63 La magie qui vous a ramené à la vie persiste. Chaque fois que vous bénéficiez d'une guérison surnaturelle, lancez un d20. Sur un
+   1-5, l'effet du sort est inversé, causant la même quantité de dégâts nécrotiques au lieu de conférer une quelconque guérison. Sur
+   un jet de 18-20, l'énergie de guérison s'intensifie, guérissant le maximum possible pour vous et la moitié de ce montant pour
+   toutes les créatures dans un rayon de 10 pieds autour de vous.
+64 La magie qui vous a ressuscité n'a jamais vraiment quitté votre corps et se manifeste de manière étrange. Chaque fois que vous
+   êtes le sujet d'un sort avec le descripteur [élément], il y a 5% de chances qu'un effet de baguette magique se produise, vous
+   traitant comme la baguette et le lanceur comme la cible.
+65 La nature de l'âme de votre personnage s'est un peu embrouillée après avoir passé du temps avec les âmes de nombreuses autres
+   personnes dans le royaume des esprits. En tant que telle, elle réagit positivement à toute détection d'aura - bonne, mauvaise,
+   magique, etc. Tout ce que quelqu'un ou quelque chose essaie de trouver par des moyens magiques se trouvera dans l'âme de votre
+   personnage.
+66 Celui qui effectue la résurrection a l'impression que le ressuscité est son propre enfant, et il le protège farouchement.
+67 La divinité protectrice de votre vie après la mort était triste de vous voir partir, alors avant que vous ne partiez, il a pris
+   une partie de votre esprit pour la garder pour lui. Perte de 1d8 années de mémoire de n'importe quelle partie de votre vie (au
+   choix du MJ).
+68 La personne qui t'a fait revivre a investi une bonne partie de son pouvoir et de sa force vitale pour le faire. En conséquence,
+   vos souvenirs et votre sensibilité reflètent les siens. Votre alignement se rapproche de celui de cette personne. Vous gagnez
+   également un certain nombre de ses propres souvenirs et croyez qu'ils sont les vôtres.
+69 La résurrection a changé votre façon de penser, chaque fois que vous vous réveillez du sommeil, vous changez aléatoirement votre
+   alignement.
+70 La résurrection a eu des complications... Ton âme est entrée dans le corps d'une autre personne (race, âge, sexe, morphologie,
+   membre manquant, etc. différents). Si c'est près d'un cimetière, vous devez ramper hors de leur tombe. Vous avez de vagues
+   souvenirs résiduels des "affaires inachevées" des hôtes précédents.
+71 La résurrection a inversé votre main et votre sexe, changé votre couleur de cheveux (le cas échéant) (d6, 1=blond, 2=brun, 3=noir,
+   4=rouge, 5=gris, 6=blanc) et vous a donné l'hétérochromie.
+72 La résurrection a laissé une trace mortelle en vous. Une fois par jour, en tant qu'action, vous pouvez lancer Toucher glacial.
+73 Le rituel de résurrection fonctionne, mais votre corps est mis dans un état comateux pendant 1d12 jours.
+74 Le rituel de résurrection fonctionne, mais ton esprit est embrouillé, tu ne peux pas te concentrer ou penser correctement. Vous
+   avez un désavantage sur les tests de sagesse, de charisme et d'intelligence pendant 1d6+1 jours.
+75 Le rituel de résurrection, en rappelant votre âme du royaume des esprits, l'a dupliquée par inadvertance et a créé une
+   manifestation non-morte de votre âme quelque part ailleurs dans le monde. Peut-être qu'il a une sorte de programme maléfique de
+   mort-vivant...
+76 Le ressuscité ressent un attachement familial aux premières personnes qu'il voit après son réveil.
+77 Le ressuscité porte encore la blessure qui l'a tué. Elle ne saigne jamais, mais ne guérit jamais, figée dans le temps.
+78 Le rituel a échoué, et quelqu'un d'autre est revenu dans le corps de l'ancien personnage.
+79 Le pire est arrivé, et vous êtes revenu. Votre personnage est désormais immunisé à jamais contre la Peur. Cependant, votre corps
+   aspire à son repos éternel : vous ratez automatiquement tout jet de sauvegarde contre les effets du Sommeil.
+80 La blessure qui vous a tué vous démange. Il n'y a rien d'anormal, aucun symptôme physique, aucune magie ou pommade de guérison ne
+   la fait disparaître. Parfois, vous grattez et grattez jusqu'à ce que ça saigne.
+81 Il n'y a pas de langue dans le monde d'en haut. Vous parlez maintenant toutes les langues.
+82 Il y a une odeur étrange en vous qui attire les démons. Ils veulent vous aider mais ne savent pas pourquoi.
+83 Ce corps... est étrange... Les choses pour lesquelles vous étiez bon sont maintenant mauvaises... et vice versa... Prenez le score
+   de votre capacité la plus élevée et échangez-le maintenant avec votre capacité la plus faible. Déplacez 2 compétences de votre
+   capacité la plus forte et remplacez-les par deux de votre nouvelle capacité la plus forte.
+84 Les Tieflings disent "Tu sens la maison". +5 de charisme avec les Tieflings.
+85 Pour vous permettre de revenir, la Mort a dû prendre la vie de quelqu'un d'autre. Comme elle a un drôle de sens de l'humour, elle
+   a pris la vie de la personne que vous aimez le plus, et ne vous la rendra jamais.
+86 Véritable éveil (Vous voyez à travers toutes les illusions et détectez les ennemis invisibles)
+87 À l'insu du clerc ou de la partie qui vous a ressuscité, votre résurrection est en fait le résultat d'un pacte que vous avez
+   conclu avec un étranger et, tôt ou tard, il viendra chercher sa part du marché.
+88 Présence indiscrète (prendre -2 à tous les jets de charisme)
+89 Quand vous dormez, vous semblez mort pour un simple observateur. Vous respirez à peine, et les battements de votre cœur sont
+   imperceptibles.
+90 Lorsque le personnage était déjà mort, il avait appris que les possessions matérielles (ou du moins leurs doubles) sont emportées
+   avec lui dans l'au-delà. À sa résurrection, le personnage a appris qu'il avait très peu de choses et veut maintenant en prendre le
+   plus possible. Le personnage a du mal à se séparer de ses possessions et peut avoir des tendances au vol.
+91 Quand tu es revenu, tu as trouvé un petit sablier dans ta main, rempli de sable. Où que tu ailles maintenant, il est quelque part
+   sur toi. Si tu le casses, tu meurs à nouveau.
+92 Quand tu es mort, bien que ton corps soit tombé directement au sol, ton âme est restée debout. Les silhouettes de tous ceux que
+   vous avez tués apparaissent sous vous et tentent de vous entraîner vers eux, et les échos de tous ceux que vous avez sauvés
+   tentent de vous entraîner vers les cieux. Votre alignement devient bon et vous ressentez le besoin de sauver toutes les vies que
+   vous pouvez, quel qu'en soit le prix.
+93 Lorsque vous regardez dans n'importe quelle surface réfléchissante, vous vous voyez toujours en train de pourrir lentement comme
+   si vous n'étiez jamais ressuscité.
+94 Lorsque vous avez été ressuscité, vous avez perdu un doigt (décidé par un rôle d10) et tout ce que vous faites avec cette main est
+   désavantagé.
+95 Quand vous avez été ressuscité, vous avez soudainement envie d'un aliment que vous n'aimiez pas dans le passé. En fait, si vous
+   restez 30 jours sans manger cet aliment, vous devenez fou et vous vous tuez.
+96 Lorsque vous prenez un long repos, lancez un d10. Si vous obtenez 1, les rêves et les pensées de votre personnage sont hantés par
+   des images sinistres et infernales de l'au-delà, annulant ainsi tout bénéfice du repos.
+97 Lorsqu'il était mort, le personnage avait toujours l'impression de se noyer. Une fois ramené à la vie, le personnage est à jamais
+   effrayé par l'eau.
+98 Alors que vous étiez mort, votre âme est arrivée dans le Shadowfell, et y a erré pendant ce qui semblait être une éternité. Comme
+   le Shadowfell est un reflet sombre du plan matériel, vous avez maintenant une connaissance géographique avancée de la région du
+   monde où vous êtes mort.
+99 Dans l'au-delà, vous avez assisté à une grande guerre sainte et choisi votre camp. Il y a des rituels et des magies que vous vous
+   sentez obligé de pratiquer de votre vivant pour assurer la victoire de l'autre camp.
+00 Alors que tu étais mort, un esprit t'a parlé de la possibilité de fabriquer un objet magique puissant et ancien, mais tu as été
+   ressuscité juste avant que l'esprit ne te dise quel était le dernier ingrédient. Vous êtes condamné à découvrir le bon composant
+   (lancez 1d100 chaque fois que vous trouvez un objet peu commun), vous êtes tellement stressé par vos recherches que vous obtenez
+   -1 à vos jets de Réflexes, de Force et de Volonté.
+101 Bien que vous soyez en vie, la résurrection n'a pas été un succès complet. Vous avez perdu l'usage de 1d4 parties de votre corps.
+102 Vous êtes maudit par des flatulences méphitiques. 1d4-1 fois par jour, vous émettez un nuage puant de 3 mètres de rayon. Le MD
+   décide/roule quand ces émissions se produisent.
+103 Vous êtes maintenant affecté par la transformation en mort-vivant, et d'autres effets similaires à la discrétion du DM, mais vous
+   allez par ailleurs parfaitement bien et ne ressentez aucun effet néfaste évident.
+104 Vous êtes maintenant sous la volonté de la personne qui vous a ressuscité. Une fois par jour, la personne qui vous a ressuscité
+   peut vous demander une faveur que vous êtes tenu de faire.
+105 Vous vous réveillez de la mort avec une bague de fiançailles en argent serrée dans votre main et un sentiment de perte totale.
+   L'anneau se transforme en brume s'il est porté.
+106 Vous vous réveillez avec une marque sur vos fesses. Demander aux bonnes personnes révélera quel être vous a "réclamé". Les trouver
+   vous dira pourquoi.
+107 Vous vous réveillez avec un tatouage partiel d'une carte sur votre dos. En trouvant d'autres personnes qui ont été ressuscitées le
+   même jour que vous, vous découvrirez d'autres parties de la carte.
+108 Vous vous réveillez avec la forte impression que quelque chose vous appelle et vous savez qu'elle sera toujours là, au fond de
+   votre esprit, jusqu'à ce que vous la trouviez.
+109 Tu as ramené une mote d'énergie nécrotique pendant le rituel. Vous n'avez plus envie ou besoin de nourriture.
+110 Vous ne pouvez plus toucher un humanoïde récemment décédé sans ressentir la douleur atroce des griffes fantômes qui vous tirent
+   vers le bas.
+111 On peut sentir l'odeur du sang entre les murs d'une ville.
+112 Vous ne pouvez pas contrôler votre main gauche. Elle est possédée et n'obéit que si vous vous adressez à l'esprit par son nom.
+   Repousse également les autres esprits à 5 pieds une fois par jour.
+113 Vous ne pouvez pas entendre la musique.
+114 Vous ne pouvez pas mentir.
+115 Vous développez un goût pour la nourriture culturelle de votre rival. Au réveil, vous avez envie d'un ou plusieurs plats
+   populaires du pays de votre rival et vous souhaitez apprendre à le préparer vous-même. Si vous n'avez pas de rival, le dernier
+   humanoïde avec lequel vous avez été en désaccord remplit ce rôle.
+116 Vous développez une étrange sympathie pour les suintants. Vous cherchez à trouver le plus proche ooze/slime que vous connaissez ou
+   que vous pouvez trouver, et vous essayez de vous lier d'amitié avec lui par tous les moyens à votre disposition. Si le suint est
+   tué au cours du processus, vous ramassez ce que vous pouvez dans un bocal et le transportez avec vous comme un souvenir que vous
+   chérirez jusqu'à votre mort.
+117 Vous ne croyez plus aux dieux et avez peur du silence et de l'obscurité, la magie divine ne fonctionne plus autour de vous.
+118 Vous vous sentez à l'aise dans les cryptes, les cimetières et autres lieux de sépulture. Vous vous sentez fatigué dès que vous
+   vous trouvez dans un tel endroit.
+119 Vous ressentez les affres de la mort lorsqu'elle survient à proximité. Lorsqu'un humanoïde meurt à moins de 15 mètres de vous, vos
+   mains deviennent douloureusement froides jusqu'au coude, comme si la chaleur en était retirée. Vous subissez un -1 temporaire à la
+   Dextérité pendant 1d4 rounds.
+120 Vous avez trouvé le légendaire marchand de sable dans le royaume au-delà du physique, et avez conclu un marché avec lui. Vous
+   n'aurez plus jamais besoin de dormir, mais vous vous sentirez toujours un peu fatigué et léthargique (-1 aux jets de combat et
+   d'initiative).
+121 Vous gagnez une marque ressemblant à un œil sur votre front, qui est très visible si elle n'est pas couverte. Deux fois par jour,
+   vous pouvez tirer à pile ou face pour avoir une chance de révéler la prochaine action de n'importe quelle créature.
+122 Vous obtenez une peur extrême d'un monstre ou d'une créature de type aléatoire (au choix du DM), qui provoque l'effet d'effroi dès
+   que vous le voyez, sauf si vous réussissez un jet de sauvegarde de sagesse (le DC est au choix du DM).
+123 Vous gagnez la connaissance et la compréhension de quelque chose qui vous était auparavant inconnu. Vous gagnez une compétence
+   aléatoire.
+124 Vous obtenez une voix monotone et morte.
+125 Vous avez regardé dans l'obscurité, et l'obscurité vous a regardé en retour. Vous avez maintenant une phobie de l'obscurité.
+126 Vous avez appris qu'il n'y a ni punition ni récompense après la mort. La moralité semble inutile maintenant.
+127 Vous n'avez pas de réflexion.
+128 Vous gagnez inexplicablement 1d6 sorts de sorcier. (Le DM choisit parmi les sorts qui seraient disponibles pour un sorcier du même
+   niveau que le PC).
+129 Tu t'es fait un ami pendant que tu étais un fantôme. Mais maintenant, ils veulent que tu reviennes...
+130 Vous avez rencontré vos ancêtres dans l'au-delà. Si tu es un orphelin, un enfant trouvé, etc., qui n'a jamais connu ses ancêtres,
+   tu sais maintenant que tu as des ancêtres quelque part. C'étaient des personnes importantes qui ont d'autres descendants :
+   maintenant, vous connaissez leurs noms et leur localisation. Si vous avez connu vos ancêtres, vous venez de découvrir que vous
+   avez été adopté et que vous appartenez à une autre lignée, plus puissante.
+131 Vous avez rencontré vos ancêtres, qui vous ont informé que vous êtes une déception totale. Toutes les actions liées à l'estime de
+   soi ou recevront une pénalité jusqu'à ce que vous deveniez riche, célèbre ou infâme.
+132 Vous devez faire un pacte avec une puissance obscure pour revenir. Ils manifestent occasionnellement leur bizarrerie en vous sous
+   forme de choses étranges sous votre peau, comme des tentacules qui se tordent, des insectes qui rampent, des serpents ou des rats
+   qui rampent, des visages qui apparaissent, etc. Vous devez une faveur à une puissance impie.
+133 Vous avez mystérieusement acquis plus de connaissances, inconnues de vous avant la résurrection. Cependant, ces informations ne
+   peuvent être recueillies qu'en touchant l'objet en question et en réussissant un test d'intelligence. Ce don imprévu donne un
+   bonus à ces tests d'intelligence.
+134 Vous ne pouvez plus faire la différence entre les sexes. Vos organes reproducteurs disparaissent.
+135 Vous reconnaissez que certains types de lutins sont attirés par certains types de personnes.
+136 Vous avez vu des choses qu'aucun homme ne devrait voir dans le royaume des morts, ce qui vous a traumatisé.
+137 Vous perdez votre peau, vos cheveux et vos ongles une fois tous les 1d6 jours.
+138 Vous parlez et lisez soudainement une langue aléatoire (éventuellement choisie par le DM) et avez perdu la capacité d'en parler
+   une.
+139 Vous avez été ressuscité, mais c'était une expérience douloureuse et le tourment que vous souhaitez ne pas avoir été ramené. Vous
+   ne le souhaiteriez pas à votre meilleur ennemi et encore moins à votre meilleur ami. Si vous savez que quelqu'un est en train de
+   ressusciter, vous ferez tout ce qui est en votre pouvoir pour l'arrêter, afin qu'il ne vive pas la même douleur que vous.
+140 Vous vivez en sursis : chaque personne qui était présente lors de votre résurrection vieillit deux fois plus vite, ce qui vous
+   permet de vivre.
+141 Votre dos est maintenant couvert de cicatrices. Ces cicatrices ressemblent à de grandes serres qui ont essayé de vous garder dans
+   le monde souterrain.
+142 Ton sang sent le soufre.
+143 Votre corps et votre esprit sont moins liés au plan matériel. Lorsque vous êtes exposé à un flux magique élevé (comme lorsque vous
+   lancez ou êtes frappé par des sorts puissants), vous avez 25% (1d4) de chances d'être déplacé vers la frontière éthérée. Vous y
+   restez jusqu'à ce que vous soyez à nouveau exposé à des niveaux élevés de magie, jusqu'à ce que vous soyez soumis à un effet
+   permettant de voyager entre la frontière éthérée et un autre plan, ou jusqu'à ce que 1d6 heures se soient écoulées.
+144 Votre corps n'a pas été parfaitement assemblé. Vous avez perdu le sens du goût.
+145 Votre corps ne guérit pas par des moyens naturels. Pour guérir correctement, vous devez appliquer sur la blessure de la chair
+   d'une créature morte dans les 24 heures. Ceci s'applique aussi bien aux repos courts qu'aux repos longs.
+146 Votre corps est déjà mort et en a tiré des leçons. Lorsque vous subissez des dégâts d'une source identique à celle qui vous a tué
+   (matraquage, perforation, dégâts élémentaires, etc.), vous avez une résistance aux dégâts de 1.
+147 Votre respiration devient insupportable. Les personnages deviennent plus difficiles à persuader au fil de la conversation. Aucun
+   effet sur l'intimidation.
+148 Votre personnage se réveille de la mort en hurlant et continue de le faire jusqu'à ce qu'il perde connaissance. Lorsqu'il reprend
+   conscience, il ne se souvient pas du pourquoi.
+149 Votre personnage ne peut pas dormir sans aide médicinale, magique ou alcoolique.
+150 Vos yeux sont froids et morts.
+151 Vos yeux ont perdu la capacité de voir la lumière visible, mais vous gagnez la vision dans le noir jusqu'à 15 mètres ou vous
+   gagnez 15 mètres à votre capacité de vision dans le noir existante.
+152 Vos yeux n'ont pas été entièrement restaurés et vous êtes aveugle. Aucune magie, à l'exception d'un sort de souhait, ne peut vous
+   rendre la vue. Cependant, à la fin des trois jours de cécité, votre vision revient spontanément et vous constatez que vos autres
+   sens se sont aiguisés pour compenser. Vous avez +3 sur tous les jets de perception pendant un mois.
+153 Votre expérience éphémère dans le royaume de l'au-delà vous a donné une nouvelle vigueur pour la vie. Vous avez du mal à dire non
+   à de nouvelles expériences sensorielles, devenant plus téméraire dans votre quête de sensations fortes.
+154 Votre ouïe n'est pas complètement rétablie et vous êtes sourd sans qu'aucune magie, à l'exception d'un sort de souhait, ne puisse
+   vous restaurer. Cependant, au bout de trois jours de surdité, votre ouïe revient spontanément et vous constatez que vos autres
+   sens se sont aiguisés pour compenser. Vous avez +3 sur tous les jets de perception pendant un mois.
+155 Vos membres sont difficiles à manier. Le joueur perd une compétence d'arme de son choix, et le personnage est incapable de sauter.
+   Si le personnage tente de sauter, il tombe immédiatement et reste allongé.
+156 Vos liens avec l'au-delà n'ont pas été rompus. Vous pouvez lancer "Parler avec les morts" à volonté.
+157 Votre esprit retrouve des connaissances qui vous étaient autrefois familières. Perdez une compétence aléatoire.
+158 Votre reflet (dans un miroir, une lame, de l'eau, etc.) est un cadavre pourri.
+159 Votre résurrection s'apparente plus à une photocopie de votre âme, et le résultat est un double inexact. Tu es légèrement plus
+   pâle, et tes traits sont légèrement déformés (défigurations mineures du visage, des membres, etc.). Ces effets s'aggravent à
+   chaque résurrection suivante. Toutes les 1d4+1 résurrections, vous perdez une partie de votre corps au hasard (doigt, rein, jambe
+   perdue mais pied conservé, etc.) en raison de la perte de génération.
+160 Vos sens se sont un peu mélangés. Vous sentez maintenant avec vos oreilles, entendez avec vos yeux, voyez avec votre langue, et
+   pouvez goûter et toucher avec tout votre corps.
+161 Votre âme devient attachée à celui qui vous a ressuscité. En combat, vous serez obligé de le protéger contre les attaques de mêlée
+   et à distance que vous pouvez voir. En dehors du combat, vous vous sentez obligé de les aider dans tous leurs efforts.
+162 Votre âme est liée à un objet aléatoire situé près du lieu de résurrection. Ainsi, votre personnage ne peut pas être tué par des
+   moyens conventionnels - s'il est "tué", son âme survit dans l'objet et peut être réaffectée à un autre corps par un simple rituel.
+   Cependant, si le corps de votre personnage se trouve à plus de 10 mètres de l'objet, il entrera dans un état comateux. Il mourra
+   également si l'objet est détruit.
+163 Votre âme est de retour dans votre corps, et votre corps a été entièrement guéri, cependant, ils ne sont plus complètement liés,
+   votre âme a une forte attraction vers la mort. Chaque fois qu'une créature sensible meurt près de vous, votre âme essaie de partir
+   avec elle. Vous subissez 1d4 points de dégâts de Sagesse temporaires, et vous récupérez un point toutes les heures.
+164 Votre âme vous est rendue, mais votre corps continue de se décomposer. Ce n'est pas évident au début, mais cela devient de plus en
+   plus clair avec le temps.
+165 Votre âme a vécu la vie d'un animal (au choix du DM) dans l'au-delà. Vous avez maintenant la capacité de parler avec ce type
+   d'animal et vous refusez de tuer ou de manger son espèce.
+166 Ton âme est allée aux enfers, où tu étais sur le point de signer un pacte avec un démon/diable supérieur. Les résurrections ont
+   annulé la signature, mettant en colère le démon/diable. Vous avez maintenant 1d10 diablotins inférieurs qui vous chassent.
+167 Votre esprit a réussi à revenir sur le plan matériel presque intact - la seule erreur est dans vos mains. Comme elles sont encore
+   à mi-chemin dans le royaume des esprits, ton personnage n'a pas de mains, à moins que tu ne parviennes à te concentrer pour les
+   invoquer depuis le royaume des esprits. Cependant, comme il s'agit de mains spirituelles, vous pouvez invoquer des mains
+   spirituelles de n'importe quelle race ! Imaginez un orc capable de faire apparaître des griffes de dragon ! Ou un gnome avec les
+   mains charnues d'un ogre !
+168 Votre séjour dans l'au-delà vous a fait prendre conscience de tous ceux que vous avez tués. Vous essayez maintenant de ne rien
+   tuer sauf si c'est vraiment nécessaire.

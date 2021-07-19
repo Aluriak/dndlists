@@ -1,0 +1,191 @@
+                                                   interesting forest locations                                                   
+
+ 1 Un beau ruisseau limpide. L'eau est légèrement gazeuse, et produit un effet enivrant et soporifique lorsqu'elle est consommée.
+ 2 Un bosquet d'arbres avec des visages gravés dessus. Lorsque vous passez devant, vous avez toujours l'impression que les bruits de
+   la forêt sont des chuchotements et que quelqu'un vous observe. Les créatures ne peuvent pas bénéficier des longs repos effectués
+   dans ce bosquet.
+ 3 Un cadavre enterré. Les joueurs rencontrent le meurtrier dans la ville suivante.
+ 4 Un coffre caché parmi un groupe d'arbres et de buissons. En regardant de plus près, les aventuriers se rendront compte que tout,
+   sauf le coffre, est une bande de mimics de différentes tailles qui essaient d'attirer les aventuriers. Le coffre est verrouillé et
+   rempli de ce qui s'y trouvait avant que les mimics ne tuent le précédent propriétaire.
+ 5 Un cercle de champignons qui se trouve sur une layline ou qui offre un autre type d'avantage aux sorciers qui s'y assoient.
+ 6 Une clairière dans les bois révèle un petit étang. Sous cet étang se trouve une grotte, avec une chambre à air où le corps d'un
+   roi mort depuis longtemps a été enterré.
+ 7 Une clairière avec 8 totems complets, et un neuvième en cours de construction par les centaures pour honorer leur chef récemment
+   décédé.
+ 8 Une clairière avec un étang profond. Au centre de l'étang se trouve une statue dorée. La statue est une bathysphère magique qui
+   rétrécit le groupe et le conduit dans une cité engloutie rétrécie.
+ 9 Une clairière avec un seul buisson en son centre, et le buisson a des couleurs très différentes de tout ce qui se trouve dans la
+   zone (par exemple, des feuilles violettes, ou quelque chose de similaire).
+10 Un cocotier, ce qui est étrange puisque les noix de coco ne sont pas originaires de la région. Sur le sol en dessous de l'arbre se
+   trouve une seule noix de coco avec un trou sur le côté, avec des mouches qui grouillent autour. Osez-vous regarder à l'intérieur ?
+11 Un arbre complètement rose. L'arbre n'est pas seulement rose à l'extérieur, les feuilles, et même l'intérieur de l'arbre, sont
+   toutes des nuances de rose.
+12 Une hutte confortable avec un feu allumé et assez de nourriture pour nourrir une famille entière. C'est aussi une plante géante
+   mangeuse d'hommes, mais ils s'en rendront compte bien assez tôt.
+13 Un dirigeable écrasé qui est coincé dans quelques arbres et qui a grandi.
+14 Une dryade démembrée dans une clairière d'épines. Le groupe peut entendre de la musique lointaine et des acclamations. Après une
+   enquête plus approfondie, le groupe trouve un camp de satyres torturant une dryade et d'autres fées.
+15 Un anneau de fée qui, selon les habitants, devient une porte d'entrée vers la Féerie une fois par lune bleue, et vers le
+   Shadowfell toutes les treizièmes lunes bleues.
+16 Un arbre flottant au milieu de la canopée. Il n'est pas différent des autres arbres, si ce n'est qu'il plane à quelques
+   centimètres du sol et qu'il n'a apparemment pas de racines - seulement une souche.
+17 Une partie de la forêt de forme géométrique qui est un désert littéral, y compris le climat et tout. Cette partie de la forêt
+   fonctionne par elle-même.
+18 Un gouffre géant caché par la magie de l'illusion qui recouvre une ville de gnomes des forêts à l'intérieur du trou.
+19 Une clairière où les bruits de la forêt s'estompent jusqu'au silence. Puis vous réalisez que vous ne pouvez plus entendre vos pas.
+   Ou vos voix...
+20 Un bosquet de jeunes arbres qui ont été intentionnellement semés parmi des piles d'ossements humanoïdes, créant des effigies
+   naturelles qui cliquettent dans le vent.
+21 Un bosquet d'arbres avec des feuilles orange et des vignes qui poussent à partir d'eux. Récolter une livre de vignes et réussir un
+   test d'outils d'alchimiste DC20 permet de créer un élixir qui transforme l'imbibeur en dryade pendant une heure.
+22 Un bosquet où se trouve un grand arbre noir à l'allure étrange. L'arbre semble vaguement avoir un visage vers son sommet et ses
+   branches ressemblent à des cornes. A l'endroit où se trouve la poitrine de l'arbre, un katana immaculé a été planté.
+23 Un bosquet avec des lys de 12 pieds de haut. Un test de perception DC13 permet d'entendre des bruits provenant de l'intérieur d'un
+   de ces lys. Après inspection, un couple d'elfes est à l'intérieur de la fleur et s'amuse dans le pollen.
+24 Une source chaude dans une clairière qui attire les vagabonds des environs pour qu'ils s'y baignent. Il s'agit en fait d'une
+   piscine d'acide bouillonnante avec du boudin noir au fond pour saisir quiconque tente de se baigner dans la source. La source est
+   enchantée mystiquement pour apparaître comme une source chaude calme au lieu d'un acide bouillonnant jonché d'ossements, avec un
+   enchantement supplémentaire pour charmer les passants et les inciter à s'y baigner.
+25 Un grand cèdre auquel un homme est collé par une flèche. L'homme semble être un sommeil.
+26 Un grand bloc rocheux recouvert d'une mousse luxuriante qui respire la vitalité. Prendre un court repos à côté du rocher maximise
+   vos dés de réussite.
+27 Un grand troupeau de hiboux endormis dans un champ de baies. Des taches bleues recouvrent leurs becs et il est difficile de les
+   réveiller (emplacement probablement sous influence féerique).
+28 Un grand arbre qui ressemble à un bouleau, sauf qu'il a la forme d'une sphère parfaite avec de petits rameaux feuillus qui
+   dépassent de la cime. Autour de l'arbre, des dizaines de pierres runiques de la taille d'une main sont posées sur le sol. Il n'y a
+   pas d'herbe dans le cercle, ni d'autres plantes que l'arbre, et les animaux et les insectes changent brusquement de direction
+   avant de traverser le cercle.
+29 Un grand arbre avec une porte.
+30 Un homme en armure de plaque verte médite devant un pin. L'homme a une peau légèrement verte et des cheveux vert gazon. En
+   essayant de le réveiller, votre vision vacille pendant un moment et l'homme est maintenant un squelette avec des plantes qui
+   poussent partout et à l'intérieur.
+31 Un arbre massif contient un escalier en spirale fait de marches rocheuses plantées dans le bois. L'escalade de l'escalier mène à
+   une branche au sommet plat sur laquelle se trouve un cercle de pierre (à là Stonehenge). La lecture des runes elfiques explique
+   qu'il s'agit d'une porte vers les Beastlands, mais qu'elle ne peut être ouverte qu'en dépensant un emplacement de sort de 7e
+   niveau.
+32 Un arbre massif dont les feuilles ressemblent à du cristal, ce qui fait que la lumière qui passe à travers la canopée est divisée
+   en couleurs arc-en-ciel. Un sorcier de l'Archfey est assis sous l'arbre, parlant à une dryade qui lui donne les ordres de son
+   patron.
+33 Un arbre massif, poussant horizontalement au-dessus d'une chute d'eau, sert de seul pont dans la région. Une bande de satyres
+   exige un droit de passage, affirmant que c'est leur magie féerique qui a fait pousser l'arbre de cette façon, et qu'ils méritent
+   donc un droit de passage.
+34 Une mystérieuse fontaine lumineuse dans laquelle deux koi nagent en cercle constant (un noir avec un point blanc, un blanc avec un
+   point noir).
+35 Une partie de la forêt qui est dans un hiver perpétuel. Après inspection, la forêt est protégée par une barrière et tente de se
+   réparer après une sécheresse particulièrement importante.
+36 Une parcelle de forêt où il semble y avoir plusieurs cerfs, qui, après un examen plus approfondi, ne sont que des vignes
+   artistiquement placées.
+37 Une clairière parfaitement circulaire où aucun arbre ne pousse, des symboles gravés dans les arbres qui l'entourent.
+38 Une plantation de sauge mystique, qui n'a pas été abandonnée depuis longtemps. Dès que les joueurs mettent le pied dans le champ,
+   des voix se font entendre à quelques mètres de là.
+39 Un étang qui reflète une zone différente de la forêt dans laquelle vous vous trouvez. Si vous sautez dedans, vous arrivez dans un
+   autre étang. Les poissons et les animaux sauvages de l'étang ne semblent pas être affectés.
+40 Un étang dont l'eau est délicieuse et limpide, dans lequel on peut entrer et boire, mais dont on ne peut pas prendre l'eau dans un
+   récipient, ni faire tomber quoi que ce soit dans l'eau.
+41 Une partie des bois semble être constituée de couloirs et la visibilité est limitée aux "pièces" auxquelles mènent les couloirs.
+   En choisissant le bon couloir, le groupe peut aller plus loin dans la forêt, mais au moindre faux pas, il est ramené à la zone
+   d'entrée où il a pénétré pour la première fois dans cette partie de la forêt.
+42 Une rivière coule d'une grotte qui s'ouvre sur une source. De l'autre côté de l'ouverture se trouve un obélisque qui fait jaillir
+   cette eau au centre d'un ancien palmier des géants de pierre.
+43 Une statue en pierre brute représentant un cyclope. A l'insu du groupe, cette statue est en fait un cyclope pétrifié.
+44 Un étang miroitant dans un bosquet de chênes connu pour rendre chanceux pendant trois jours quiconque y boit.
+45 Un géant de pierre endormi, couvert de pins.
+46 Une petite clairière herbeuse avec une zone où l'herbe refuse de pousser. La zone a la forme d'un homme allongé.
+47 Un petit étang, habité par un lutin solitaire. Elle vous offre une récompense si vous "jouez" avec elle.
+48 Un petit pont en bois qui permet de passer au-dessus d'un ruisseau encore plus petit. Il y a un ogre sur le pont avec une pancarte
+   en gros caractères : "Veuillez payer le péage". Si le groupe choisit de tuer l'ogre, il trouvera une licence des constructeurs de
+   ponts du seigneur local pour permettre une meilleure circulation dans la région et que l'ogre puisse percevoir un péage. Ils
+   trouveront également une note qui dit "Amuse-toi bien au travail aujourd'hui, papa" ainsi que ce qui ressemble à une photo
+   plastifiée d'une petite fille ogre et d'une femme ogre.
+49 Un étrange cercle de pierres.
+50 Une souche d'arbre dont les anneaux forment un coffre/plateau de jeu.
+51 Une fosse de goudron dans laquelle poussent de longs champignons bizarres.
+52 Un arbre avec une épée plantée dedans. En regardant de plus près, il y a plusieurs squelettes au pied de l'arbre, les crânes des
+   squelettes sont manquants.
+53 Une cabane dans un arbre qui semble abandonnée. Après une courte ascension, les personnages peuvent entrer dans la cabane par une
+   échelle de corde. A l'intérieur se trouve un journal et des notes qui décrivent un chasseur à la recherche d'une grande bête qui
+   peut très facilement se fondre dans son environnement. Avec un test de perception suffisamment élevé, le joueur peut remarquer que
+   quelque chose au plafond commence à bouger...
+54 Un bibelot, enterré sous des feuilles très voyantes. Il n'appartient à personne, et personne ne vous l'achètera.
+55 Un troll gardant une caravane en panne, prétendant être un soldat avec des "odeurs de coquille de poisson".
+56 Un tunnel percé sous un séquoia.
+57 Une chute d'eau dont l'eau s'écoule vers le haut.
+58 Une chouette sage et magique qui se pose sur un tronc et parle avec les joueurs.
+59 Château, fort, temple, ferme, ruines, tour, etc. abandonnés et envahis par la vie végétale et animale.
+60 Cachette elfique abandonnée, dissimulée derrière des murs de ronces, de vignes et d'épines.
+61 Au-dessus de vous se trouve un réseau de vignes qui s'entrecroisent. Elles sont tendues. De temps en temps, une vigne se termine
+   par un morceau de tissu épais qui la drape. (Après enquête, il s'avère qu'il s'agit de tyroliennes primitives). Si la fête était
+   bruyante, elles sont repérées par les habitants.
+62 Toutes les plantes de cette zone émettent des sons lorsque le vent les traverse, afin d'attirer les chauves-souris pollinisatrices
+   et non les abeilles.
+63 Une arche tissée par des arbres ou des branches d'arbres menant à un petit temple.
+64 Une zone où rien ne pousse, même la magie des druides ne peut y faire pousser de la vie végétale.
+65 Un camp de bûcherons vide, dans lequel toutes les tentes sont remplies de plantes en pot. Un puissant seigneur féerique visitait
+   le camp et a décidé de transformer les bûcherons en plantes et en jeunes pousses.
+66 Un énorme piège dans lequel vous pourriez trébucher. Pourrez-vous vous échapper avant que celui qui l'a posé - ou ce qu'il a voulu
+   attraper - ne revienne ? Ou peut-être transformer le piège en une embuscade pour les chasseurs ?
+67 Un iceberg avec un objet magique de givre gelé au centre.
+68 Une parcelle de forêt d'apparence discrète dans laquelle le temps passe considérablement plus vite ou plus lentement. Il est très
+   difficile de remarquer ce changement.
+69 Un vieux chêne qui a, on ne sait comment, poussé en spirale. Sur le tronc se trouve une empreinte de main dans l'écorce, comme si
+   quelqu'un avait pressé sa paume dans de l'argile molle. La plupart de ceux qui placent leur main dans l'empreinte ne ressentent
+   que du bois froid, mais quelques élus ressentent de la chaleur et un battement de cœur.
+70 Zone pleine de coquillages géants. Coquilles d'insectes géantes, coquillages, coquilles d'escargots, coquilles de crabes, etc.,
+   envahis par les plantes.
+71 Forêt bioluminescente. La nuit, de nombreuses plantes brillent dans l'obscurité.
+72 Huit arbres différents se sont tordus ensemble pour créer un abri en dessous.
+73 Jardin des fleurs - zone de la forêt couverte de fleurs colorées.
+74 Statue géante, envahie par les plantes.
+75 Un trou géant dans le sol descendant à des centaines de mètres, avec une possible entrée de grotte au fond.
+76 Grove a arbres qui semblent être légèrement transparents. En regardant de plus près, les arbres sont faits de cristaux sans
+   défaut.
+77 Cachée parmi les arbres se trouve une petite forteresse. S'il est exploré, le fort est occupé par des elfes qui gardent une entrée
+   dans l'Underdark.
+78 Au loin, on entend le son d'un instrument à flûte. Après avoir traversé une couche assez épaisse de broussailles, la clairière
+   offre un spectacle intéressant. Un groupe d'animaux des bois tourne autour d'une vieille souche d'arbre, sur laquelle est assis un
+   petit garçon jouant de la flûte. Lorsque vous vous approchez, il s'arrête de jouer, les animaux s'enfuient dans les broussailles
+   et il disparaît dans le néant.
+79 Terrain qui, lorsque le groupe le traverse, produit un son creux, comme si le sol en dessous contenait une caverne ou un vide.
+80 Déplacement de l'arbre de la ville.
+81 Près d'un ruisseau, vous trouvez une douzaine d'arbres à forme humaine. Ces arbres sont en fait des personnes qui ont été
+   attaquées par un "basilic de bois", une variante de l'espèce.
+82 La tombe envahie par la végétation d'un ancien guerrier. On ne peut pas imaginer une maison plus confortable pour un imitateur.
+83 En marchant dans une clairière, vous apercevez un cerf aux yeux sauvages, qui se bat en permanence avec la tête décapitée d'un
+   autre cerf. Comme si cela n'était pas assez horrible, la tête est animée par la magie noire et pousse un rugissement d'angoisse
+   impie, rendant le cerf vivant fou.
+84 Des pierres disposées comme une flèche, ou peut-être un grand X.
+85 Le cadavre d'un géant qui a un arbre qui pousse dans sa poitrine.
+86 Le sol tremble sous vos pieds, les arbres tournent et s'inclinent, et les cris de panique des créatures résonnent dans les bois
+   alors que le sol se soulève sur le dos d'une ancienne tortue colossale. Des siècles de glaise et de terre glissent de la carapace
+   et le croassement des créatures résonne dans l'air.
+87 Les énormes piles de pétales blancs font ressembler cette clairière à un pays des merveilles enneigé.
+88 Le résultat du vol d'un tailleur ambulant par une bande de gobelins. Les arbres et les buissons sont remplis d'un grand nombre de
+   vêtements et de chapeaux.
+89 La route s'ouvre sur une entrée du Feywild.
+90 Les traces gluantes d'un escargot géant. Si on les suit, on rencontre la créature en train d'essayer de dévorer un énorme
+   champignon. Qui sait quel genre de trésor il aurait pu accidentellement avaler.
+91 Des arbres qui flottent à plusieurs mètres du sol. L'inspection révèle des glyphes chatoyants sous l'écorce.
+92 Deux créatures enfermées dans des lianes et figées dans le temps par la magie. Un puissant chaman centaure et un humain à l'air
+   avide. Ils sont figés en train de se battre, l'humain tient sous son bras un magnifique coffre, probablement la richesse des
+   Centaures.
+93 Deux gnomes assis l'un à côté de l'autre, chantant dans une langue que personne ne peut comprendre. Cette langue est inventée, et
+   les gnomes ne vous prêteront pas attention tant que vous ne leur parlerez pas en charabia.
+94 Nous sommes tombés sur une clairière remplie d'énormes plantes tue-mouches ! L'une d'entre elles a essayé de manger le familier du
+   sorcier !
+95 Nous avons trouvé un portail vers le Feywild sous les racines d'un arbre gigantesque ! Il y avait des lutins partout, qui
+   essayaient de nous chasser !
+96 Nous avons trouvé une zone où chaque feuille et brin d'herbe était bleu et brillait dans le noir ! Cela attirait l'attention (des
+   ennemis, en quelque sorte) à des kilomètres à la ronde !
+97 Nous sommes tombés sur la ferme d'un géant ! Il y avait les plus grosses carottes que nous ayons jamais vues ! (J'espère que le
+   fermier n'est pas dans le coin.)
+98 Nous sommes tombés sur un piège abandonné depuis longtemps, avec des piquets cassés au fond ! Il s'était partiellement effondré,
+   mais était encore assez dangereux.
+99 Alors que vous vous reposez après votre combat contre les bêtes de la forêt, (insérer PC) s'appuie contre un arbre pleureur. Il
+   entend un craquement béant du bois alors que les racines se déterrent. Il recule légèrement, ce qui fait légèrement basculer
+   (insérer le nom du PC). Pardonne-moi, petit, ta lame m'a piqué.
+00 Vous trouvez une petite source entourée de vieilles ruines de ce qui semblait être une sorte d'église. L'eau est extrêmement
+   froide. Une fois par court repos, lorsque vous buvez l'eau, vous pouvez choisir de mettre fin à un effet sur vous, tel que charmé
+   ou empoisonné, ou de guérir 1d6. Pour chaque minute où vous êtes assis dans l'eau, vous devez faire un test de Constitution DC 14.
+   En cas de réussite, vous pouvez mettre fin à un effet sur vous et guérir 1d6. En cas d'échec, l'eau est trop froide pour vous et
+   vous devez en sortir. Vous ne pouvez pas obtenir les mêmes effets avant d'avoir terminé un repos court ou long.

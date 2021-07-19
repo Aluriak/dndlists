@@ -1,0 +1,102 @@
+                                                         village exports                                                          
+
+ 1 Dirigeables
+ 2 Articles alchimiques
+ 3 Ale
+ 4 Compagnons animaux ou animaux de compagnie de race particulière
+ 5 Produits de boulangerie
+ 6 Griffes/dents de bête
+ 7 Poudre noire ou variations fantastiques
+ 8 Bateaux et navires
+ 9 Obligations ou investissements
+10 Brique ou pavé
+11 Conserves ou boîtes de conserve/ bocaux eux-mêmes
+12 Fromage
+13 Chocolat ou autre friandise
+14 Acolytes et clercs
+15 Mécanismes d'horlogerie ou artefacts mécaniques
+16 Tissu
+17 Charbon
+18 Café
+19 Enseignement collégial ou équivalent (les étudiants viennent ici et repartent avec de nouvelles compétences)
+20 Littérature dramatique
+21 Drogues
+22 Colorants
+23 Produits de luxe contrefaits élaborés
+24 Viandes exotiques
+25 Fausses dents et matériel de dentisterie
+26 Beaux vêtements
+27 Sculptures fines ou chefs-d'œuvre d'artisans particulièrement doués.
+28 Armures terminées
+29 Vêtements finis
+30 Outils finis
+31 Armement et armes finis
+32 Feux d'artifice
+33 Fruits
+34 Meubles
+35 Fourrures
+36 Gems
+37 Compétiteurs ou défis gladiateurs
+38 Verre ou vitrail
+39 Céréales
+40 Granit
+41 Herbes médicinales ou autres usages spéciaux
+42 Miel
+43 Chevaux
+44 Animaux de chasse (chiens/éperviers)
+45 Pièges de chasse
+46 Encens
+47 Encres
+48 Ivoire, travaillé ou brut
+49 Huile de lampe
+50 Cuir
+51 Bétail
+52 Créatures fantastiques vivantes : wyverns, lézards voltaïques, gryphons, etc.
+53 Flore locale (fleurs, gaules d'arbres)
+54 Bois d'œuvre
+55 Machines de guerre ou matériel de siège
+56 Objets magiques
+57 Marbre ou autre pierre de luxe
+58 Mercenaires
+59 Minerais métalliques
+60 Parties de monstres (pour la fabrication de potions, bijoux, trophées, etc.)
+61 Champignons (nutritionnels ou narcotiques)
+62 Instruments de musique
+63 Noix
+64 Masques ornés
+65 Œuvre d'art peinte
+66 Papier
+67 Perles
+68 Parfum
+69 Oreillers
+70 Poisons
+71 Portage sur d'autres bateaux pour éviter les obstacles de la voie navigable (moins une exportation mais un bon objectif de ville)
+72 Potions
+73 Poterie ou céramique fine ou artistique
+74 Métaux raffinés
+75 Objets ou bibelots religieux
+76 Tuiles de toit
+77 Tapis
+78 Sel
+79 Fruits de mer
+80 Soie
+81 Main d'œuvre qualifiée
+82 Esclaves
+83 Activité de contrebande ou autre environnement de marché noir
+84 Ames
+85 Matières premières spécialisées (mithral, adamantine, vif-argent, bois dense, bois de soar, etc.)
+86 Épices
+87 Sucre
+88 Sweetblood, une sève d'arbre sucrée avec des propriétés addictives.
+89 Sirop
+90 Thé
+91 Textiles ou broderie
+92 Compétences et connaissances professionnelles (livres ou autres)
+93 Des militaires formés
+94 Légumes
+95 Wagons ou véhicules terrestres
+96 Warforged
+97 Vins, liqueurs ou autres spiritueux
+98 Fils et câbles
+99 Laine
+00 Poupées d'inquiétude ou autres poupées d'enfants

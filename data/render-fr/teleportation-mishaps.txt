@@ -1,0 +1,186 @@
+                                                      teleportation mishaps                                                       
+
+ 1 Où sont mes pieds ? Le groupe tombe en agonie, manquant une partie vitale de son anatomie. Les pieds réapparaissent peu après. Les
+   participants jurent de prendre davantage soin de leurs pieds.
+ 2 Un éclair frappe le joueur qui souhaite se téléporter et lui inflige 3d6 points de dégâts.
+ 3 Une grande partie d'une tour en pierre apparaît à côté d'eux, ce qui en fait la plus haute structure de la région. Il y a 300 GP à
+   l'intérieur et cela semble être l'endroit idéal pour construire un fort ou un donjon.
+ 4 Une personne semble physiquement plus jeune. Apparemment, il s'agissait de clones, non téléportés, et toutes leurs cellules
+   mourantes ont été remplacées par de nouvelles. (L'âme, elle, est intacte).
+ 5 Une personne se téléporte "lentement"... ce qui signifie qu'elle voit visiblement la mer astrale, l'enfer, Célestia et les autres
+   plans pendant qu'elle les traverse. Cela prend une seconde entière mais semble durer des heures.
+ 6 Les cheveux d'une personne ne se téléportent pas ! Ils sont chauves après la téléportation (y compris les poils du visage).
+ 7 Une créature aléatoire a été ramassée pendant que la piste magique voyage. Lancez 1D6 pour la trouver : 1. Un ancien dragon vert.
+   2. Un observateur. 3. Un géant des glaces. 4. Un zombie de beholder. 5. Un faucon de sang. 6. Une grenouille géante.
+ 8 Un membre aléatoire du groupe devient éthéré pendant 1d4 heures.
+ 9 Un membre aléatoire du groupe change secrètement d'alignement pendant 1d4 jours.
+10 Une singularité fait naître un golem domestique sous votre contrôle. Il protégera tout camp ou maison que vous lui demanderez.
+11 Un petit homme de Puckish a fait du stop pour sortir de sa dimension carcérale. Son nom est difficile à prononcer, mais il vous
+   remercie de l'avoir libéré. Alors qu'il part, vous voyez une planète lointaine exploser. Vous espérez que ce n'est pas lié... mais
+   ce n'est probablement pas le cas.
+12 Une lumière flash très vive à la fin de la téléportation aveugle le groupe pendant 1d4 heures.
+13 Une explosion violente et ardente se produit au moment de l'incantation alors que le lanceur de sorts s'élance rapidement dans le
+   ciel, brisant toutes les surfaces sur son passage. Le lanceur de sorts disparaît dans les nuages et descend au point de
+   téléportation prévu un tour plus tard, brisant toutes les surfaces sur son chemin et provoquant une explosion similaire à la
+   première au point d'impact. Toutes les créatures situées dans une sphère de 15 pieds de rayon autres que le lanceur de sorts
+   doivent effectuer un jet de sauvegarde de Dextérité DC 18. Une créature subit 5d6 dégâts de feu et 5d6 dégâts de tonnerre en cas
+   d'échec, ou autant en cas de réussite. Si une créature rate le jet de sauvegarde par plus de 5, elle est assourdie pendant une
+   minute et se retrouve à plat ventre.
+14 Un représentant du trou de ver apparaît et félicite le groupe d'être le 1 milliard de clients. Il vous donne un coupon et 200 GP.
+15 Tout le matériel, y compris le contenu des sacs, est dispersé sur le sol autour de la destination.
+16 Tous les équipements et vêtements du lanceur sont téléportés dans un autre endroit à proximité.
+17 Un démon ambitieux profite de la perturbation de l'espace-temps et apparaît à la destination prévue de la téléportation, mais
+   sinon la téléportation ne déplace rien.
+18 Une copie exacte du Taj Mahal apparaît à côté d'eux. Chaque PC a en main une clé pour une porte différente dans le complexe. La
+   dernière clé ouvre une crypte remplie de cadavres dans différents états de décomposition.
+19 Une taverne et une auberge inter-dimensionnelles apparaissent à côté de vous. Elle durera 7 jours puis se téléportera ailleurs.
+20 Des copies animées et parlantes de vos squelettes apparaissent à côté de vous. Tirez à pile ou face pour déterminer s'ils sont
+   amicaux ou hostiles... et votre mère disait que vous ne pouviez pas vous faire de nouveaux amis.
+21 Un autre groupe a choisi la même destination, ce qui fait que votre groupe est envoyé dans une dimension de poche qui ressemble à
+   une mauvaise salle d'attente (parchemins périmés sur la table, bardes de qualité inférieure jouant des représentations médiocres
+   de chansons populaires, etc.) pendant 1d4 heures, le temps que la magie se réaligne pour que vous puissiez terminer votre voyage.
+22 Au point de départ, tout le monde entend une forte détonation ; à la destination, tout le monde entend un gémissement.
+23 Le maître n'a pas pu se concentrer pour lancer le sort, il a donc provoqué une explosion qui a blessé le groupe.
+24 Le Caster/Groupe ressent une maladie soudaine. Ils vomissent immédiatement.
+25 Toutes les parties du corps de la personne arrivent à destination... sauf la peau qui arrive plusieurs minutes plus tard.
+26 Tout le monde devient sous l'effet du sort de forme gazeuse.
+27 Tout le monde éternue.
+28 Les ongles des mains et des pieds augmentent d'une année de croissance. Pénalité à la dextérité jusqu'à ce qu'ils soient coupés.
+29 Cinq cents colombes apparaissent avec vous et s'envolent tandis qu'un magicien voisin crie : "Ta-da !!!".
+30 La longueur des cheveux augmente d'une année de croissance.
+31 Un objet aléatoire qu'ils possèdent devient éveillé.
+32 Un objet aléatoire qu'ils possèdent devient maudit.
+33 Le groupe gagne 1d4 points de vie et est couvert de sigils angéliques lumineux.
+34 Le groupe est couvert de flammes bleues pendant 10 minutes, mais cela ne leur fait aucun dégât.
+35 Le groupe subit 1d4 points de dégâts et est couvert de sigils infernaux.
+36 En passant par un saut quantique, ils ne se ressemblent plus. Ce changement d'identité persiste jusqu'à ce qu'ils terminent une
+   quête.
+37 Plutôt que de se téléporter sur une distance, toutes les personnes concernées se téléportent d'une heure en avant/en arrière dans
+   le temps pour chaque tranche de 10 pieds que la téléportation leur fait faire.
+38 Lancez 1d4 et un jumeau maléfique de vous-même apparaît et dure autant de jours, mais vous êtes tous deux incapables de tuer votre
+   propre copie.
+39 Lancez 1d4, vous devenez temporairement une autre race pendant ce nombre de jours.
+40 Fendu exactement en son milieu, seule une moitié du corps est transportée. Les deux parties du corps sont toujours vivantes et
+   fonctionnent normalement, reliées entre elles de manière erronée, mais séparées.
+41 Des gaz sulfureux et une odeur accablante de soufre remplissent l'air.
+42 Le téléporteur est au lieu de succès, mais 500 pieds plus haut...
+43 Le téléporté se déplace accidentellement dans le temps comme dans l'espace, se dirigeant 21-1D20 heures dans le futur également.
+44 Le téléporté arrive au bon endroit mais au mauvais moment - dans le passé ou dans le futur.
+45 Le téléporté perd un rein.
+46 Tous les PC ont la vision d'un grand œil bulbeux et des mots : "Ever.... Watching", suivi d'un frisson dans le dos. L'image ne
+   s'efface pas tout de suite, s'ils ferment les yeux pendant les quelques heures qui suivent, ils peuvent encore la voir comme une
+   image rémanente.
+47 Le lanceur de sorts téléporte accidentellement le groupe au milieu d'un océan, mais les ramène rapidement à l'endroit initial.
+48 Le lanceur de sorts apparaît 30 pieds au-dessus de l'endroit où il s'est initialement téléporté, plaqué contre la paume d'une
+   énorme main éthérée. La main envoie rapidement et visqueusement le lanceur de sorts au sol, lui infligeant 2d6 points de dégâts de
+   chute et 2d6 points de dégâts de matraquage. La main agite ensuite son index d'avant en arrière avant de disparaître. Toute
+   tentative de téléportation dans les environs dans les 10 minutes suivant l'émission initiale provoque la répétition de cette
+   mésaventure, en ciblant le nouveau lanceur de sorts.
+49 Le lanceur de sorts est téléporté dans le cercle d'invocation d'un conjurateur novice. Ne sachant pas que son invocation a échoué
+   (ce qui est le cas), le novice exige du lanceur de sorts qu'il accomplisse une tâche triviale.
+50 Le lanceur de sorts est brièvement téléporté dans une chambre forte remplie à ras bord d'or et d'objets de valeur. Il est ramené à
+   sa position initiale peu de temps après.
+51 Le lanceur de sorts est téléporté dans un siège vide dans une auberge chaleureuse et confortable. Une porte reste fermée à l'autre
+   bout de la pièce, et il n'y a aucune fenêtre. Une musique douce et entraînante est constamment jouée par un barde talentueux dans
+   l'un des coins de la pièce, ce qui donne au lanceur de sorts un sentiment d'appartenance. Il y a toujours suffisamment de clients
+   pour que l'auberge soit animée mais pas trop bondée, et les serveurs et serveuses s'affairent pour servir de délicieuses boissons
+   et des repas copieux. Un aubergiste se précipite immédiatement vers le jeteur de sorts et l'informe que sa chambre a été prise en
+   charge, ainsi que toute sa nourriture et ses boissons. Au fur et à mesure que les plats de l'auberge remplissent le ventre du
+   lanceur de sorts et que les clients commencent à socialiser avec lui, le lanceur de sorts est de moins en moins enclin à partir.
+   En réalité, l'auberge et tous ses occupants d'origine font partie d'une petite dimension de poche sensible qui se nourrit de
+   sentiments de contentement et de satisfaction. La dimension de poche s'est emparée du jeteur de sorts dans l'espoir de le garder
+   en son sein comme une source permanente de subsistance. En sortant par la porte du fond, le lanceur de sorts est instantanément
+   transporté vers sa destination.
+52 Le lanceur de sorts est téléporté dans un plan d'élémentaires de feu à l'intérieur d'une lourde cage de fer. Un élémentaire de feu
+   incroyablement brillant a exploité le pouvoir de " piéger " les téléporteurs et a l'intention d'utiliser son énergie arcanique
+   pour alimenter le dispositif. Si le lanceur de sorts parvient à tuer l'élémentaire de feu, il est instantanément transporté à
+   l'endroit prévu.
+53 Le lanceur de sorts est transporté dans une autre dimension où il est obligé de combattre des adversaires de plus en plus
+   difficiles dans une arène. Lorsqu'il finit par être tué, sa téléportation s'achève et il revient à son âge précédent.
+54 Le lanceur de sorts a mis un peu trop d'accent sur la dernière syllabe, et la fête est dispersée dans le monde entier.
+55 Le lanceur de sorts se téléporte aléatoirement entre les deux endroits pendant la minute suivante. Tout mouvement relatif au point
+   de lancement et au point d'impact est traduit à travers les téléportations.
+56 Le lanceur de sorts se téléporte vers la destination prévue, mais avec le bras gauche et le bras droit intervertis.
+57 La magie du cercle n'était pas assez puissante pour envoyer le groupe à sa destination. Le groupe arrive donc à peu près à mi-
+   chemin entre son point de départ et sa destination.
+58 Le groupe crée un flux où il alterne entre deux endroits à la fois. Un tirage à pile ou face détermine s'ils infligent ou
+   subissent des dégâts. Dure un jour.
+59 L'objet ou la personne qui se téléporte n'apparaît pas à la destination et à la place un monstre apparaît.
+60 La fête apparaît indemne mais entourée de 2 000 crêpes. Mais pas de sirop ni de beurre.
+61 Le groupe se demande : "Qu'est-ce qu'un casoar ? Et pourquoi y en a-t-il un devant moi ? Attendez-vous à des dégâts perforants.
+62 Le groupe est téléporté avec succès... mais des copies exactes d'eux sont laissées sur le site d'origine, se demandant pourquoi le
+   sort n'a pas fonctionné. Le groupe existe maintenant en double dans différents endroits.
+63 Le groupe est téléporté à quelques kilomètres les uns des autres.
+64 Le groupe est téléporté dans une ruelle étroite où des bandits attendent, prêts à les attaquer et à les voler.
+65 Les corps et l'équipement du groupe sont laissés derrière mais leurs âmes arrivent à destination, leurs corps deviennent dormants
+   jusqu'à ce que leurs âmes (maintenant sous forme de fantômes) puissent retourner dans leurs corps.
+66 Les corps et l'équipement du groupe arrivent à destination mais leurs âmes sont laissées derrière, leurs corps deviennent dormants
+   jusqu'à ce que leurs âmes (maintenant sous forme de fantômes) puissent retourner dans leurs corps.
+67 Les esprits du parti sont échangés au hasard.
+68 La même chose que ci-dessus, mais avec eux vivant une vie heureuse décrite de manière vivante avec une famille.
+69 Le sort semble échouer, alors qu'en réalité les effets du sort sont retardés d'une minute. Un clone maléfique du lanceur de sorts
+   apparaît à l'endroit prévu de la téléportation et fait de son mieux pour causer toutes sortes de méfaits et de désordres, bien
+   qu'il ne fasse rien qui soit très dangereux ou potentiellement mortel pour lui-même. Après une minute, le clone disparaît en même
+   temps que le lanceur de sorts est téléporté à l'endroit où se trouve le clone.
+70 La téléportation ne transporte que leur conscience vers le nouveau lieu et leur esprit doit retrouver le chemin de leur corps
+   comateux.
+71 La téléportation a réussi, mais vous avez aussi apporté quelques objets intéressants avec vous. 1d4] 1) Un tas de copeaux de bois
+   2) Une potion de soin, fissurée et qui fuit 3) Un miroir qui ne montre aucune créature sensible 4) Du pain.
+72 La téléportation se termine à 1d20 pieds au-dessus du sol. Le Caster/Groupe doit réussir son jet de sauvegarde ou subir des dégâts
+   de chute.
+73 La téléportation se fait au bon endroit, bien que l'espace-temps soit défectueux. Ils se rencontrent, mais l'autre partie est à
+   l'opposé des joueurs et essaie de les tuer.
+74 La téléportation comporte des escales à des endroits aléatoires pendant 1d4 secondes chacune. Ils visitent par exemple un champ de
+   bataille, un nid de dragon, un festin de roi, un bordel, le milieu d'un océan, ... avant d'atteindre leur destination finale.
+75 Le ou les joueurs téléportés sont téléportés dans l'estomac d'une énorme créature (baleine). Il y a un bateau à moitié brisé avec
+   le squelette d'un vieil homme et une marionnette en bois. Dans le navire se trouve un cristal qui a changé la téléportation, de
+   sorte qu'ils peuvent se téléporter loin une fois qu'ils ont la pierre. Il s'effrite lorsqu'ils se téléportent.
+76 L'univers se déplace, mais le lanceur de sorts reste au même endroit. L'effet est indiscernable d'une téléportation réussie, à
+   moins que quelqu'un d'autre ne se soit téléporté en même temps.
+77 Leur cul est maintenant en face d'eux.
+78 Leurs vêtements et leurs affaires se téléportent à trois mètres. Vous êtes aussi nu que le jour de votre naissance.
+79 Il y a un bref délai entre le départ et l'arrivée, tandis qu'une voix autonome annonce "votre appel peut être écouté à des fins
+   d'assurance qualité".
+80 Il y a un long délai entre le départ et l'arrivée, pendant que la musique d'attente joue. Tout le monde a faim lorsqu'il arrive.
+81 Ils apparaissent dans un cercle de culture à côté d'un fermier très désemparé. Il vend du maïs pour 2 pièces d'argent par
+   boisseau.
+82 Ils sont possédés par des esprits malicieux. Demandez aux joueurs de synchroniser les lèvres avec la chanson "Day-O" de Harry
+   Belafonte ou ils resteront possédés pendant 1d4 jours supplémentaires.
+83 Ils arrivent juste à temps pour voir les versions futures d'eux-mêmes créer un paradoxe et exploser. Récupérez ce que vous pouvez
+   de la gelée rose.
+84 Ils laissent derrière eux une version fantomatique d'eux-mêmes qui répète continuellement leurs actions de la minute précédant
+   leur téléportation, encore et encore.
+85 Ils restent au même endroit et traversent le temps au lieu de l'espace !
+86 Ils se téléportent au bon endroit mais ne sont pas orientés correctement par rapport au sol (à l'envers, à l'horizontale, etc.),
+   ce qui les fait tomber sur le dos, le ventre ou la tête.
+87 Trente moutons éthérés flottants apparaissent. Ils peuvent être vendus à un fermier voisin qui les tondra et les morceaux de tissu
+   sont connus pour rendre leurs porteurs plus furtifs.
+88 Anomalie temporelle - une personne arrive 2x plus grande qu'avant mais se déplace et agit 2x plus lentement.
+89 Deux PC sont partiellement fusionnés.
+90 Deux personnes se téléportent. Leurs âmes changent de corps.
+91 Deux personnes se téléportent. Elles échangent la couleur de leurs yeux. Peut-être qu'un seul œil change.
+92 De l'eau s'écoule de tous leurs orifices en gouttes régulières (avantage pour échapper à l'agrippement mais désavantage pour les
+   tests de furtivité et de perception).
+93 Vous êtes téléporté dans une caisse scellée qui vous semble mobile.....
+94 Vous arrivez là où vous vouliez, mais 5 ans trop tard.
+95 Vous arrivez dans un pays étranger. Sans conflit, ni dispute, ni famine. La population extraterrestre vous accueille à bras
+   ouverts. Vous vivez une belle vie et voyez vos enfants et petits-enfants grandir heureux et en bonne santé après s'être mariés
+   avec les aliens. Au crépuscule de votre vie, vous êtes assis sur votre lit de mort avec vos compagnons PC. Vos conjoints en deuil
+   vous embrassent en fermant les yeux une dernière fois... puis vous arrivez à destination comme si rien de tout cela n'était
+   arrivé.
+96 Vous vous retrouvez chacun avec un familier qui vous a guidé hors d'une dimension de poche pendant le transit.
+97 Vous pointez un endroit et lancez téléportation. Vous constatez que vous vous trouvez sur un morceau de poussière de plusieurs
+   centaines de mètres de diamètre. Le sort vous a miniaturisé, afin de pouvoir apparaître à cet endroit. La poussière s'éloigne
+   lentement sous l'effet d'une légère brise et vous emporte avec elle.
+98 Vous vous téléportez dans une autre dimension. Cette dimension est celle des limbes, mais au milieu de nulle part. En regardant
+   autour de vous, vous voyez des terres stériles à perte de vue. Le sol est brun noirâtre, et la terre est craquelée et desséchée.
+   Pendant les quelques minutes qui suivent, vous entendez des parents et des amis décédés vous appeler. Ils crient pour que vous les
+   aidiez. Vous pouvez voir où ils sont, flottant comme des spectres/fantômes. Mais dès que vous tentez de vous approcher d'eux, vous
+   sentez votre âme et votre corps s'échauffer alors que vous êtes emmené et téléporté à l'endroit souhaité à l'origine. Aucun temps
+   ne s'est écoulé depuis. Les membres du groupe qui se sont téléportés avec vous n'ont pas ressenti cet effet, seul celui qui a
+   lancé le sort de téléportation l'a ressenti. Lancez un d20. Si le résultat est Pair, il ne se passe rien. Si le résultat est
+   Impair, alors pendant les 4 prochaines heures, le PC ressentira une lourde tristesse. Pendant ces 4 heures, le PC ne peut pas
+   faire de tests d'intimidation ni de persuasion, s'il tente de le faire, c'est un échec automatique.
+99 Il vous manque votre bras gauche. Il est tout près et revient lentement vers vous.
+00 Votre squelette arrive sur place, mais pas vous. Vous êtes resté derrière et vous vous effondrez lentement en un tas de chair
+   pliée. Passez une bonne journée.

@@ -1,0 +1,163 @@
+                                                       items in a hags lair                                                       
+
+ 1 Un gratte-dos fait à partir d'une main osseuse coupée.
+ 2 Une boule de boue morveuse suspendue au plafond.
+ 3 Un bassin d'eau trouble qui fait constamment apparaître une jeune fille, peut-être un changeling. Des flacons de trois couleurs
+   avec un compte-gouttes sont posés sur le rebord du bassin. La goutte de liquide bleu dans le bassin porte chance à la jeune fille,
+   la goutte de rouge porte malheur à quelqu'un près d'elle, mais le liquide noir encré n'a aucun effet apparent.
+ 4 Une cage d'oiseau contenant un wererat.
+ 5 Un chat noir est assis, recroquevillé sur une chaise. Lorsque vous vous approchez, il reste immobile, et si vous essayez
+   d'interagir avec lui, vous le trouvez immobile. Si vous essayez de vous asseoir sur lui/dans la chaise, vous êtes maudit par la
+   chaise car le chat apparaît sur vos genoux et c'est comme une tige inamovible posée sur vos genoux.
+ 6 Un livre rempli d'ailes délicatement préservées de papillons et d'autres petits insectes.
+ 7 Un bouquet de fleurs, suspendu la tête en bas pour sécher, qui sent agréablement les notes de lavande et de boutons de rose.
+ 8 Une flèche brisée au sommet d'une bouteille de pluie. Tenir la bouteille vous permet de marcher sur l'eau. Tenir la flèche
+   transforme votre main en acier (vous faites deux fois les dégâts d'une frappe sans arme, mais vous êtes désavantagé pour les
+   tâches nécessitant deux mains. Vous pouvez arracher la flèche de votre main - mais attention, si vous mettez trop de temps, vos
+   deux mains se transformeront en acier).
+ 9 Une cage avec les restes squelettiques de deux petits humanoïdes, la main de l'un serrant la main de l'autre.
+10 Un chaudron qui peut être utilisé comme foyer rituel. Lorsqu'il est utilisé en magie rituelle, le DC augmente de 1 par personne
+   (limité à 3).
+11 Un coffre avec une quantité impensable de sucreries.
+12 Une poupée d'enfant en patchwork, à laquelle il manque un bouton d'œil et qui est tachée de sang.
+13 Un anneau de cuivre dans la terre qui porte les marques de rongement d'un rat.
+14 Un miroir à main fissuré, qui montre toujours une silhouette ombragée se tenant derrière la personne qui le regarde. Parfois, la
+   silhouette bouge.
+15 Une caisse remplie de vêtements d'enfants pourris et de vieux jouets.
+16 Un collier en chaîne d'or maudit. Une fois enfilé, il ne peut être retiré. Lorsque le porteur dit un mensonge, un maillon est
+   magiquement retiré de la chaîne, le maillon tombe bruyamment sur le sol. Si vous mentez suffisamment, la chaîne commence à
+   étouffer le porteur.
+17 Un œil de cyclope qui a été mordu.
+18 Un oiseau mort attaché au plafond.
+19 Un verre à vin décoratif qui empoisonne tout liquide qui s'y trouve avec du cyanure lorsqu'un mot de commande est prononcé
+   (applaudissements).
+20 Un puits d'eau profond construit dans la pièce.
+21 Une vitrine d'oreilles de bêtes aplaties disposées de telle manière qu'un observateur éloigné peut la confondre avec une
+   exposition de papillons.
+22 Une commode dont les tiroirs débordent de cheveux détachés. Un joueur qui fouille dans les cheveux trouvera une fiole
+   d'antitoxine.
+23 Un tambour, recouvert d'une peau mystérieuse.
+24 Un chapeau de papier fantaisie qui attire les abeilles, les guêpes, les frelons et les bourdons, qui restent non hostiles jusqu'à
+   ce que le porteur retire le chapeau.
+25 Une pierre précieuse de la taille d'un poing à laquelle est liée la forme astrale d'un être rusé. En la touchant, vous pouvez voir
+   et communiquer avec l'être. Il vous supplie de le réunir avec son corps.
+26 Une tarte fraîchement cuite, sa croûte parfaitement beurrée.
+27 Une bouteille en verre remplie d'un liquide bleu foncé au goût désagréable. S'il est consommé, le liquide convainc la personne qui
+   le consomme qu'elle va en mourir.
+28 Un gobelin dans une cage qui parle communément et éloquemment.
+29 Un groupe de petits enfants piégés dans une cage.
+30 Un vieux tome lourd aux pages jaunies et à la couverture vierge. Le livre ne correspond pas au design des livres environnants, et
+   a un aspect quelque peu artisanal. Presque toutes les pages sont remplies de croquis d'un réalisme impressionnant d'un assortiment
+   de gens ordinaires, chacun avec un sourire sur le visage. Tous les dessins semblent être situés dans le même village, une seule
+   famille et une seule maison apparaissant plus fréquemment que les autres. Les membres de cette famille ont tous une légère
+   ressemblance avec la sorcière.
+31 Un pot de bonbons emballé dans du papier ciré aux couleurs vives.
+32 Un bocal avec un crapaud obèse à l'intérieur, qui chante quand on le soulève.
+33 Le journal d'une jeune fille d'il y a cent ans. Les entrées sont positives, optimistes, romantiques. Quelque part à la fin de son
+   adolescence, elle tombe amoureuse d'un homme et, en même temps, elle est visitée par des cauchemars, des maux de tête et des
+   visions. Étrangement, les visions l'avertissent de manière sombre que son amant est dangereux, ce qu'elle refuse de croire, même
+   lorsque d'autres choses qu'elle y voit se réalisent. Elle écrit qu'elle prévoit de s'enfuir avec lui avant que le journal ne se
+   termine brusquement. Une vérification des connaissances pourrait révéler que les symptômes qu'elle décrit sont les signes d'un
+   changeant qui acquiert son pouvoir sur le chemin de la sorcellerie.
+34 Un grand alambic qui distille actuellement une gelée ocre moyenne.
+35 Une grande luciole dans une cage qui écoute les ordres. Elle brille en rouge sous l'effet de la lumière.
+36 Une grande nappe blanche qui peut être utilisée pour dresser une table. Lorsque le mot de commande est prononcé, elle se nettoie
+   de toutes les taches et de la nourriture, puis se plie en un triangle bien ordonné.
+37 Un fétiche vaudou grandeur nature qui ressemble étrangement à l'un des PC.
+38 Un mannequin portant un ensemble de vêtements fins et croûtés qui semblent avoir été entièrement trempés dans du sang qui a
+   maintenant complètement séché. Il n'y a pas de taches visibles sur le mannequin.
+39 Un énorme chaudron bouillonnant. A l'intérieur il y a un mélange dégoûtant de Dieu sait quoi.
+40 Une tapisserie massive est suspendue au mur. Des symboles étranges et des images étranges remplissent chaque espace, éparpillés de
+   façon chaotique sur le fil sans motif apparent. Aucun thème ou point central ne peut être distingué, mais la ressemblance de
+   plusieurs figures et divinités importantes peut être distinguée parmi des créatures extraterrestres et d'autres personnes
+   inconnues. La tapisserie est inachevée sur un côté, ce qui montre bien que le projet est toujours en cours.
+41 Un miroir qui montre un clown (ou une autre chose effrayante) debout derrière vous. Il n'est pas vraiment là, et il ne semble pas
+   interagir avec vous, mais il est très effrayant.
+42 Une boîte à outils bien organisée contenant une collection de doigts et d'orteils humains.
+43 Un bocal de dents débordant.
+44 Une paire de pantoufles qui s'ajuste automatiquement pour être aussi confortable que possible pour son porteur.
+45 Un regard pétrifié.
+46 Un morceau de craie qui, lorsqu'il est utilisé pour écrire le nom complet d'une personne, provoque un frisson chez cette personne.
+   Il cesse de fonctionner lorsque toute la craie est épuisée.
+47 Un tableau d'insectes trouvés dans les marais ou l'Underdark, comme d'étranges coléoptères.
+48 Un pot de fleurs contenant un Shrieker qui hurle quand on le touche.
+49 Un pigeon dépenaillé et balafré qui niche dans les combles. Ses sons habituels sont remplacés par des bribes de la voix de la
+   sorcière hurlant des insultes.
+50 Des menottes d'acier géantes qui semblent pouvoir retenir un géant.
+51 Un pied coupé sur lequel poussent différents types de mousses et de champignons.
+52 Une tête coupée prise à un rival il y a longtemps. Le cou suinte du sang de sa blessure et murmure doucement et constamment, de
+   façon presque incohérente, tout ce que la sorcière a appris au cours de sa longue vie, des contes anciens, des secrets cachés et
+   des recettes oubliées depuis longtemps, pour n'en citer que quelques-uns.
+53 Un miroir brisé. Le miroir montre une version décomposée et zombie des joueurs, mais une version embellie de la sorcière.
+54 Un squelette sur un trône en bois élaboré qui va soudainement crier et se froisser si un PC s'en approche, jetant une malédiction
+   sur ce PC.
+55 Un crâne de n'importe quelle bête locale, sur lequel on fait fondre une bougie. Lorsque la bougie est éteinte, les orbites
+   s'illuminent en rouge. Elle matérialise alors le reste du corps sous forme de spectre, jusqu'à ce que les yeux soient crevés. La
+   bougie s'allume alors à nouveau. Lorsqu'elle est un spectre, la créature est un mort-vivant neutre, et se contente d'observer et
+   d'errer, en étant effrayante. Il est préférable d'utiliser une petite créature, comme un chat ou un corbeau.
+56 Un petit enfant, apparemment indemne.
+57 Une petite collection de rats en cage.
+58 Un petit jardin où poussent un tas d'herbes bizarres.
+59 Une pile de lettres d'amour écrites en abyssal par un démon qui a apparemment été frappé par la vue de la sorcière lors d'une
+   escapade planaire. Il semble que l'intérêt n'était pas réciproque.
+60 Un gobelin affamé et mutilé dans une cage en fer. Il secoue les barreaux plutôt que de réagir aux visiteurs. Il est clair qu'il
+   est devenu fou il y a longtemps.
+61 Un estomac et des intestins accrochés au mur, avec une bouche connectée à une extrémité, et l'autre extrémité menant dans un
+   tonneau (je ne recommande pas d'ouvrir le tonneau). Il faut le nourrir régulièrement, sinon il sautera du mur et commencera à tout
+   manger.
+62 Un étrange bocal de gelée de culture. En y regardant de plus près, vous constatez qu'il s'agit d'un minuscule ooze ou oblex dans
+   un bocal.
+63 Une armure qui était autrefois un homme.
+64 Un crâne qui parle.
+65 Une robe de bal en lambeaux, dont la couleur verte délavée et les bords déchiquetés indiquent son âge impressionnant. Elle dérive
+   doucement dans l'air comme si elle était portée par un vent invisible, se déplaçant de manière désordonnée mais ne touchant jamais
+   la pièce. Les tentatives d'attraper la robe échouent automatiquement sans l'aide de la magie, la robe flottant toujours juste hors
+   de portée. Une fois saisie, la robe s'arrête définitivement de bouger et ne montre aucun signe de sa nature magique antérieure.
+66 Un observateur en taxidermie utilisé comme lustre.
+67 Un coffre en bois avec un cœur qui bat dedans.
+68 Un Annis Hag possède un énorme clou rouillé, de la longueur d'un avant-bras. La personne qui le tient se sent paranoïaque et
+   cruelle, mais gagne un avantage sur les tests de Perception.
+69 Un orteil coupé d'un ogre ou d'un géant.
+70 Un miroir actif du piégeage de la vie.
+71 Un dessin vieilli des PC actuels qui sont entrés dans la tanière.
+72 Un sablier de la taille d'une personne pend au bout d'une corde attachée au plafond. À la place du sable, de minuscules dents de
+   toutes formes et de toutes sortes circulent entre les deux ampoules, chacune d'elles brillant d'une faible lumière rouge. Le flux
+   de l'appareil change de direction à des moments aléatoires, sans raison visible, et aucune ampoule ne contient jamais toutes les
+   dents.
+73 Une pomme qui se révèle être pourrie si on la mange.
+74 Un globe oculaire dans un tube de liquide jaune visqueux, fermé par un bouchon. L'œil bouge et regarde autour de lui.
+75 Un singe immortel qui semble normal mais qui révèle rapidement sa nature de mort-vivant au clair de lune.
+76 Une vieille cloche en argent terni. Si on la fait sonner, on peut lancer le sort Toll The Dead une fois par jour.
+77 Une cigogne en origami. Elle dégage une faible aura de conjuration.
+78 Un crapaud mort-vivant dans un bocal en verre avec une Sphère d'Annihilation miniature dans la bouche.
+79 Une limace de taille inhabituelle dans une cage qui produit un suintement extrêmement collant.
+80 Os de mains humanoïdes qui ont été attachés ensemble pour former une coiffe.
+81 Des plumes de poulet qui sortent du sol en formant des motifs bizarres.
+82 Anneaux de résistance corrompus (qui sont maudits pour accorder la vulnérabilité à la place).
+83 Aile de chauve-souris séchée.
+84 Poussière d'éternuement et d'étouffement.
+85 Erikkson, l'épouvantail philosophique. Cet épouvantail reste immobile dans une partie de la pièce, mais s'anime quand il le juge
+   nécessaire. Il aime manger de la paille (et de la chair), et adore raconter des énigmes. Il aime particulièrement quand ses
+   énigmes lui font gagner la chair des autres. Mais il ne triche pas. C'est un épouvantail authentique et juste. Il ne mangera pas
+   plus que ce qui a été convenu. S'il dit qu'il jouera des énigmes pour obtenir la main d'un PC, il tiendra sa parole. Il aime aussi
+   parler de la nature métaphysique du monde.
+86 Bocal de l'oeil du triton. A moitié plein.
+87 Les yeux de diverses créatures.
+88 Orbe de verre contenant les âmes des enfants qui crient.
+89 La moitié d'une ruche couverte d'écriture infernale. Quand le rayon de miel est brisé, un diablotin est invoqué.
+90 Peintures et sculptures de personnalités de la ville.
+91 Des gens convertis en varechs anthropomorphes.
+92 Sept bocaux remplis de sang. L'une d'elles a été vidée récemment.
+93 15 cm d'eau teintée d'orange sur le sol.
+94 Tentacule d'un calmar vampire.
+95 La cuisine de la sorcière est une merveille de décoration intérieure inventive, avec des mains qui dépassent des murs, comme si
+   leurs propriétaires avaient été forcés à entrer dans la pierre elle-même. Ces mains tiennent des tasses, des couverts, un
+   trousseau de clés, un chapeau, une cape sombre et des légumes suspendus.
+96 La tête préservée et coriace d'un nain.
+97 L'ombre d'un rat sur le sol, qui se déplace comme un rat normal. Cependant, il n'y a pas de rat, pas même un rat invisible.
+98 Le cœur qui bat encore d'un humanoïde inconnu.
+99 Il y a un bureau d'alchimie avec les accessoires auxquels on peut s'attendre. Des yeux dans des bocaux, des doigts dans des
+   chandeliers, avec de fines mèches sortant des extrémités, des parties d'animaux et des choses à l'aspect macabre auxquelles on ne
+   pense pas trop. Malgré tout, on ne peut s'empêcher d'avoir extrêmement faim en l'examinant.
+00 Deux poupées vaudoues d'autres sorcières, avec une légère magie à l'intérieur, datant de l'époque où elle a essayé de créer une
+   assemblée avec les âmes des sorcières mortes.

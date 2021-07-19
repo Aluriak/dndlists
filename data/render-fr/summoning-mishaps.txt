@@ -1,0 +1,188 @@
+                                                        summoning mishaps                                                         
+
+ 1 1d10 bouteilles d'eau apparaissent.
+ 2 1d6 Créatures sont invoquées. Elles sont actuellement confinées par le cercle d'invocation. Vous n'avez le contrôle que d'une
+   seule d'entre elles.
+ 3 2 créatures apparaissent. Elles sont engagées dans un combat mortel.
+ 4 Un cœur saignant tombe de nulle part et redonne (MaxHP/Level)hp à toute personne qui le mange.
+ 5 Un livre écrit sur la créature invoquée apparaît Roulez d10 (1-2 histoire où la créature est le personnage principal / 3-4
+   histoire où la créature est l'antagoniste principal / 5-6 journal de la créature / 7-8 notes de recherche d'un naturaliste sur la
+   créature / 9-10 créature réelle piégée dans un livre d'histoires magiques).
+ 6 Une fenêtre en forme de créature s'ouvre sur un plan radiant d'énergie curative. Les créatures situées à moins de 60 ft regagnent
+   10 points de vie par round tant qu'elles sont exposées à la lumière. Une fois en pleine santé, les créatures continuent de gagner
+   10 points de vie temporaires par round mais sont ralenties (comme le sort) tant qu'il reste des HP temporaires à cause de
+   croissances tumorales de type Akira. Si le total des HP temporaires dépasse la santé maximale normale d'une créature, celle-ci
+   explose violemment et ses restes charnus s'animent sous la forme d'une bouche bredouillante.
+ 7 Un croisement de la créature invoquée apparaît. Lancez d6 (1-2 croisement naturel / 3-4 croisement magique / 5-6 méli-mélo de
+   Frankenstein).
+ 8 Une voix désincarnée dit : "Nous avons beaucoup de convocations en ce moment et vous êtes en attente. Vous êtes le numéro d100
+   dans la file d'attente. Restez patient et nous vous répondrons dès que possible". Et puis elle joue une version facile à écouter,
+   une musique d'ascenseur d'une chanson que tous les bardes jouent en ce moment.
+ 9 Une version fantôme de la créature invoquée apparaît.
+10 Une bouche bredouillante est invoquée à la place.
+11 Une jambe de golem apparaît. Elle est [1d4. 1. pierre, 2 fer, 3. cuivre, 4. étain].
+12 Un homme en costume d'affaires apparaît et veut que vous signiez un tas de papiers avant de faire quoi que ce soit.
+13 Un humain, un humanoïde ou un démihumain apparaît. Lancez d6 (1-2 il porte un masque de créature invoquée / 3-4 il porte un
+   costume de créature invoquée / 5-6 il porte des vêtements ou une armure fabriqués à partir de la créature invoquée).
+14 Un humain, un humanoïde ou un démihumain apparaît. La créature en question possède actuellement le corps.
+15 Un humain, un humanoïde ou un démihumain apparaît. La créature est actuellement (polymorphe / métamorphosée) dans la forme
+   actuelle.
+16 Une voix forte se fait entendre : "Bien, bien, je suis debout !". Mais après cela, rien ne se passe.
+17 Un instant après l'apparition de la créature, une main géante en terre s'élève du sol autour d'elle et la réduit en bouillie. La
+   main forme ensuite un poing et se met à frapper des objets pour le reste de la durée du sort, volant et attaquant à la manière du
+   sort Main de Bigby.
+18 Un monodrone est invoqué depuis Mechanus.
+19 Une réplique planaire se produit en même temps que l'effet prévu du sort. Des objets appropriés au thème tombent en pluie dans un
+   rayon de 60 pieds autour de l'emplacement du sort, par exemple des morceaux de fer rouillés et tachés de sang pour une invocation
+   d'Achéron, ou des jets d'acide pour un sort lié à l'acide.
+20 Un portail s'ouvre sur un demi-plan/donjon situé à l'intérieur de la créature visée. Ceux qui sont assez aventureux doivent être
+   prêts pour un voyage étonnant...
+21 Une réplique psychique se produit en même temps que l'effet prévu du sort. Toute personne à proximité effectue un jet de
+   sauvegarde INT pour éviter d'être aveuglée, assourdie et temporairement privée de ses autres sens externes pendant 2 rounds.
+22 Une faille dimensionnelle semi-stable est laissée derrière elle, qui se referme si elle est exposée à suffisamment d'énergie
+   destructrice. Si elle reste ouverte, de petits objets peuvent la traverser. Elle reste ouverte pendant 1d6 heures, ou jusqu'à ce
+   qu'elle soit capturée dans un appareil spécial qui lui permet de rester ouverte indéfiniment.
+23 Un seul objet magique aléatoire apparaît pour la durée du sort avant de disparaître.
+24 Un petit trou noir s'ouvre là où la créature aurait dû apparaître. Les créatures situées dans un rayon de 60 pieds doivent
+   effectuer des tests de Dextérité difficiles pour s'agripper à quelque chose de lourd ; les créatures qui échouent ou qui n'ont
+   rien à attraper voient leur vitesse réduite à 0 alors qu'elles sont traînées à 20 pieds vers le centre. Tout ce qui touche le trou
+   noir est frappé par un sort de désintégration. Le trou noir s'avale lui-même et disparaît sans laisser de trace au bout d'une
+   minute.
+25 Une petite brume apparaît qui suit l'invocateur pendant 1d4 jours. Elle est totalement inoffensive mais toute personne qui la
+   traverse se met à tousser.
+26 Une petite figurine en bois de ce que le lanceur de sorts essayait d'invoquer apparaît à la place.
+27 Un sorrowsworn est invoqué à la place.
+28 Une statue de la créature invoquée apparaît à la place. Lancez un d6 (1-2 juste une statue / 3-4 créature réelle, qui a été
+   transformée en pierre / 5-6 statue animée de la créature).
+29 Une petite faille apparaît dans le cercle d'invocation. Vous pouvez voir quelque chose bouger de l'autre côté. Lancez d8 (1-2 la
+   brèche commence lentement à se refermer d'elle-même / 3-4 la brèche s'agrandit lentement jusqu'à ce que la créature invoquée
+   puisse passer à travers, puis elle se referme / 5-6 la brèche s'agrandit lentement jusqu'à atteindre la taille d'une porte et
+   reste stable / 7-8 la brèche s'agrandit lentement et continue de s'agrandir sans montrer de signes d'arrêt).
+30 Un petit hibou inoffensif apparaît. Il se comporte comme un chat, et reste avec le groupe pendant 1d12 minutes.
+31 Une roue de fromage apparaît devant vous. Il s'agit de muenster.....
+32 Un jeune enfant, un petit, un chiot, un chaton, etc. de la créature invoquée apparaît. S'il s'agit d'une créature sensible, vous
+   entendez un très faible cri provenant du cercle d'invocation et vous êtes saisi d'un sentiment d'effroi écrasant.
+33 Toutes les surfaces qui vous entourent sur 30 mètres dans n'importe quelle direction sont maintenant recouvertes d'une fine couche
+   de jus de citron.
+34 Un champ anti-magie émane du point d'invocation, rendant toute magie (y compris l'invocation elle-même) inactive/dispersée.
+35 Un arbuste éveillé est invoqué à la place.
+36 Une quantité incommode de lave commence à se déverser dans l'air à l'endroit où la créature était censée apparaître. Le lanceur de
+   sorts peut tenter de refermer la brèche à chaque tour en effectuant un test de Concentration difficile.
+37 Le lanceur de sorts est brûlé par des magies pétaradantes et subit des brûlures de conjuration. Il subit 2d6 points de dégâts par
+   niveau du sort ou du rituel utilisé dans l'invocation.
+38 Le maître est invoqué dans un autre lieu/plan.
+39 Le lanceur de sorts s'invoque lui-même. Ce double est une version du lanceur de sorts provenant d'une dimension parallèle et
+   possède les mêmes statistiques que le lanceur de sorts au moment de l'invocation.
+40 La créature apparaît, mais elle est actuellement possédée par un (esprit animal, démon, diable, fantôme, dieu, grand ancien,
+   étranger, etc.)
+41 La créature apparaît, mais elle est gelée dans un bloc de glace.
+42 La créature est invoquée, mais elle n'apparaît pas dans le cercle. Elle apparaît à 2d100 ft de l'endroit où elle était censée
+   apparaître.
+43 La créature est invoquée, mais elle n'apparaît pas dans le cercle. Elle se contente de marcher ou d'entrer par une porte proche.
+   Il semble qu'elle était déjà dans le voisinage.
+44 La créature est invoquée, mais elle a une volonté bien plus forte que prévu. Chaque (round / nouvelle commande), l'invocateur doit
+   effectuer un jet de (charisme / volonté) pour la contrôler. L'invocateur doit également effectuer un jet de (charisme / volonté)
+   pour la bannir.
+45 La ou les créatures sont infectées par une maladie planaire mémétique. Cette maladie se propage par des moyens abstraits tels que
+   l'observation de modèles spécifiques, de certaines phrases, de concepts, d'émotions, de souvenirs, etc.
+46 La ou les créatures sont infectées par une maladie planaire qui se propage par contact. Les créatures frappées par des attaques de
+   mêlée (ou des attaques à distance qui exposent une cible à des fluides corporels) risquent de contracter la maladie.
+47 La ou les créatures sont infectées par une maladie planaire aéroportée.
+48 La ou les créatures sont infestées de champignons virulents. Les créatures se trouvant à proximité risquent d'être infectées par
+   les spores qui se répandent autour de la créature.
+49 Une créature morte apparaît. Lancez d6 (1-3 juste mort / 4-6 version zombie de la créature).
+50 Tout semble s'être déroulé correctement, mais vous ne voyez rien dans le cercle d'invocation. La créature invoquée est invisible
+   et attend que vous brisiez le cercle.
+51 En cas d'invocation d'une créature, la créature est invoquée avec 1d4 appendices supplémentaires d'un type qu'elle aurait déjà eu.
+52 Au lieu de la créature visée, le lanceur de sorts invoque un œil vaste et sans paupière, enveloppé de flammes. Toute personne qui
+   regarde l'œil (considérez ceci comme une attaque de regard au tour de chaque créature) doit effectuer une difficile sauvegarde de
+   Constitution ou se transformer en pilier de sel.
+53 Un ou plusieurs gauths sont invoqués à la place. Ces aberrations tentent immédiatement de briser le confinement et de consommer
+   toute source de magie, qu'il s'agisse d'objets, de lanceurs de sorts ou de créatures magiques.
+54 Lancez deux fois le dé sur cette table et appliquez les deux résultats.
+55 Le squelette de la créature apparaît. Lancez d6 (1-3 juste des restes / 4-6 squelette animé de la créature).
+56 Une autre personne invoque la même créature une seconde après vous. La créature apparaît dans le cercle, alors que vous êtes sur
+   le point de lui donner un ordre, elle disparaît.
+57 Quelqu'un d'autre invoque la même créature au même moment. Lancez un d6 (1-2 vous obtenez la créature / 3-4 l'autre invocateur
+   obtient la créature / 5-6 la créature explose dans un désordre sanglant).
+58 Quelque chose de trop gros pour entrer dans le cercle d'invocation le traverse. Lancez un d6 (1-2 un bras passe à travers / 3-4 un
+   tentacule passe à travers). Lancez un d6 (1-2 vous contrôlez l'appendice / 3-4 vous ne le contrôlez pas et il attaque tout ce qui
+   se trouve près du cercle d'invocation / 5-6 vous ne le contrôlez pas et il essaie de saisir tout ce qui se trouve près du cercle
+   et de le ramener de son côté).
+59 Le sort ou le rituel échoue mais rien ne se passe.
+60 La " force vitale " du lanceur de sorts et de l'entité/des entités invoquée(s) est partiellement liée. Tout dommage subi par l'une
+   des parties est transféré à l'autre, mais elles partagent certaines propriétés défensives à la discrétion du DM.
+61 Le lanceur de sorts crée un portail permanent directement devant la chose qu'il essayait d'invoquer.
+62 Le lanceur de sorts invoque la chose qu'il essayait d'invoquer, mais elle apparaît à l'envers. Les créatures risquent de mourir
+   très rapidement, à moins que leur biologie ne soit amorphe.
+63 Le lanceur de sorts s'invoque lui-même, et il disparaît de l'endroit où il se trouvait pour apparaître au milieu du cercle
+   d'invocation, ou à l'endroit ciblé.
+64 La créature apparaît, mais elle est actuellement retenue ou attachée. Lancez un d10 (1-2 attaché avec une corde / 3-4 attaché avec
+   des chaînes / 5-6 enchevêtré dans des lianes / 7-8 enveloppé dans une toile d'araignée / 9-10 retenu par un sort magique).
+65 La créature apparaît. Elle est actuellement contenue par le cercle, mais vous n'avez aucun contrôle sur elle. Elle est prête à
+   faire un marché pour ses services. De quoi avez-vous besoin ? Qu'êtes-vous prêt à offrir en échange de ces services ?
+66 La créature apparaît. Elle a l'air malade et étrangement gonflée. Peu après son arrivée, elle tombe sur le sol et commence à se
+   tordre. Lancez d6 (1-2 une seule créature sort de l'intérieur de la créature originale / 3-4 quelques créatures sortent / 5-6 un
+   énorme essaim sort).
+67 La créature résiste à l'invocation, ce qui entraîne un léger contrecoup magique. Vous êtes étourdi pendant un nombre de rounds
+   égal au niveau du sort utilisé.
+68 Le sort se termine de manière explosive, libérant une onde de choc qui inflige des dégâts de tonnerre et de feu dans un rayon de
+   45 pieds. Quiconque échoue à son test de DEX pour éviter l'onde de choc est repoussé de 3 mètres. Tout ce qui est invoqué est
+   indemne.
+69 Le sort réussit complètement, mais en tant que "réaction égale et opposée" dimensionnelle, le lanceur de sorts est projeté dans le
+   plan d'où il a tenté d'invoquer quelque chose pendant un certain temps. S'il invoquait quelque chose de ce plan, il est téléporté
+   dans le plan d'où il a invoqué cette chose.
+70 La créature invoquée apparaît au centre d'une petite tornade et est immédiatement mise en pièces. Les créatures voisines et les
+   objets en vrac sont ramassés et projetés par les vents puissants.
+71 La créature invoquée apparaît, mais elle est lourdement blessée. Lancez d6 (1-3 elle a 1/2 hp / 4-6 elle a 1/4 hp).
+72 La créature invoquée a un mauvais hoquet. Chaque hoquet crache un volume impossible d'eau comme un tuyau d'incendie dans n'importe
+   quelle direction, projetant la créature en arrière et la mettant à terre.
+73 L'invocation ne fonctionne pas, et vous savez que vous avez un terrible mal de tête.
+74 L'invocation subit une instabilité périodique, provoquant par intermittence le clignement incontrôlé de tout ce qui est invoqué,
+   pendant une durée maximale de 10 minutes. Cette version de Blink se connecte au plan d'où viennent les entités invoquées, plutôt
+   qu'au plan éthéré, à moins qu'elles ne viennent déjà de ce plan.
+75 L'invocation est instable, et tout ce qui est invoqué disparaît au bout de 6 rounds.
+76 Des énergies magiques instables vous traversent lorsque l'invocation échoue, perturbant votre capacité à utiliser la magie. Toute
+   autre incantation nécessite de la concentration, et une réussite déclenche une poussée de magie sauvage.
+77 Vous et toute créature (à l'exception des constructions) située dans un rayon de 30 pieds changez de corps au hasard. Si aucune
+   autre créature n'est à portée, le lanceur de sorts change de corps avec l'une des créatures invoquées.
+78 Vous êtes fusionné avec ce que vous avez invoqué. Vous et lui pouvez chacun faire une action à chaque tour à partir de votre liste
+   totale d'options. Il bénéficie d'une sauvegarde à chaque tour pour entreprendre une action de sa propre volonté. Cet effet prend
+   fin si vous passez 10 minutes à méditer.
+79 Vous invoquez une créature d'alignement opposé à celui de votre cible.
+80 Vous invoquez un doppleganger sous votre forme qui tente de s'échapper immédiatement.
+81 Vous invoquez une créature sylvestre inoffensive - 50 % de chances qu'elle vous aime et veuille rester dans les parages.
+82 Vous invoquez une série de parties de corps démembrées qui atterrissent comme quelqu'un qui fait un flop dans une piscine.
+83 Vous invoquez une immense nuée de papillons iridescents - tout le monde à l'intérieur est aveuglé par les reflets.
+84 Vous invoquez une guêpe invincible qui vous pique. Elle inflige 1 dégât sur un test de DEX6 raté, et disparaît après 1d4 heures.
+85 Vous invoquez ce que vous attendiez, mais une vargouille y est attachée, puis elle s'envole.
+86 Vous appelez ce que vous attendiez, mais ça ne peut pas parler.
+87 Tu as invoqué une Catherine à la place : http://goblinpunch.blogspot.com/2013/06/a-spell-called-catherine.html
+88 Vous avez invoqué une version du Chaos extérieur de ce que vous vouliez : il a des tentacules supplémentaires, un visage
+   supplémentaire quelque part sur son corps, et deux dés de coups supplémentaires. Il a droit à une sauvegarde à chaque round pour
+   briser le contrôle et faire ses propres affaires.
+89 Votre invocation apparaît 2d6 × 10 ft. au-dessus de l'endroit où vous vouliez vous rendre et, à la place, elle convoque (d6) : 1.
+   ce que vous vouliez, qui passe un round à se faire plumer ; 2. un pétunia en pot ; 3. une baleine bleue (100 ft×30 ft, 10d6 points
+   de dégâts sur tout ce sur quoi elle atterrit qui n'a pas une sorte de couverture comme un fossé ou un mur pour lui donner de
+   l'espace) ; 4. un cube gélatineux ; 5. 1 000 pieds cubes de grenouilles ; 6. 3d6 chats domestiques et 3d6 chiens.
+90 Ta convocation a marché, mais un autre s'est faufilé et s'enfuit. Qui sait ce qu'il va faire.
+91 Votre sommation a fonctionné, mais il semble avoir la forme d'une femme à la place.
+92 Votre invocation a fonctionné, mais elle ressemble à un hybride de ce que vous aviez prévu et d'un (d6) : 1. humain ; 2. mante
+   religieuse ; 3. gorille ; 4. requin ; 5. calmar ; 6. taureau.
+93 Ton invocation a marché, mais elle est difficile à contrôler. Chaque round après le premier, la créature doit effectuer un jet de
+   sauvegarde pour perdre le contrôle. Une fois qu'elle l'a fait, elle est libre d'esprit. Vous pouvez dépenser une action pour la
+   bannir, mais elle peut également sauver contre cela.
+94 Ton invocation a marché, mais l'échelle est fausse : (d6) : 1. demi-taille ; 2-5. 50% plus grand ; 6. taille double, et relancez.
+   Redoublez et relancez pour chaque 6 obtenu. Il vous attaquera juste avant que l'invocation ne se termine.
+95 Ton invocation a marché, en quelque sorte. La créature est grosse et gonflée comme le bonhomme marshmallow de Stay-Puff. Elle a -4
+   à l'initiative. Sur un score naturel de 1-3 (d20) à son initiative, elle explose, infligeant (dé de réussite÷3, arrondi au
+   supérieur) d6 points de dégâts à tout ce qui se trouve dans un rayon de 45 pieds.
+96 Votre tentative d'invocation attire l'attention d'un archidémon qui vous fait une offre.
+97 Votre invocation est permanente, la ou les créatures ne disparaissent pas à la mort ou à la fin du sort.
+98 Votre invocation réussit mais la gravité est orientée différemment pour la créature invoquée. Lancez un 1d10 pour déterminer la
+   direction de la gravité, dans le sens des aiguilles d'une montre (1 au nord, 2 au nord-est, etc.) avec 9 et 10 représentant le
+   haut et le bas. La gravité pour la ou les créatures double si un 10 est obtenu.
+99 Votre invocation réussit mais laisse vos connexions avec les autres plans affaiblies. Vous ne pouvez pas lancer un autre sort
+   d'invocation pendant (1d4) 1)un nombre de rounds égal au niveau du sort, 2) un nombre de minutes égal au niveau du sort, 3) un
+   nombre d'heures égal au niveau du sort, 4) un nombre de jours égal au niveau du sort.
+00 Vos protections échouent et la créature invoquée est libre d'agir indépendamment.

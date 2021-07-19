@@ -1,0 +1,163 @@
+                                                  activities at the local faire                                                   
+
+ 1 Chaque année, un Minotaure particulièrement habile fabrique un labyrinthe de haies. Elle est jardinière et passe la saison à
+   fabriquer des labyrinthes pour le festival des habitants de la ville. Il y a une assiette de biscuits au centre, et son veau
+   (jeune fils) patrouille à l'intérieur pour aider les gens qui se perdent. Le Minotaure fait payer l'entrée 1 cuivre et donne
+   l'argent à des œuvres de charité.
+ 2 Un "Fungeon" plein de "Funsters" et de "Treasure". Attention aux "pièges" et aux pickpockets.
+ 3 Un concours de déguisements. Les tailleurs peuvent montrer ce sur quoi ils ont travaillé l'année dernière.
+ 4 Un stand de voyance.
+ 5 Un spectacle de monstres. Venez voir certains des spectacles les plus horribles des royaumes ! (Ce ne sont que des sorts
+   d'illusion, ne vous inquiétez pas !)
+ 6 Un stand "Devinez votre poids".
+ 7 Un stand de tressage de cheveux. Toutes les tresses que vous voulez, même celles des Elfes !
+ 8 Un concours d'équilibrage de bûches. Les gagnants du concours s'affrontent dans une piscine remplie d'élémentaires d'eau. (Test de
+   dextérité)
+ 9 Un magicien. (Pas de magie réelle, juste de la fumée et des miroirs)
+10 Un concours pour les fabricants d'hydromel. Il leur manque quelques juges, et ils proposent le poste à toute personne qui semble
+   avoir une forte constitution.
+11 Un défi de pickpocket. Tous les participants à la foire reçoivent un morceau de tissu brillant à mettre dans leur ceinture/poche.
+   Si vous gardez le vôtre, vous gagnerez un prix à la fin de la journée. Si vous réussissez à voler le tissu d'autres personnes,
+   vous pouvez gagner le grand prix. (Vérification du tour de main)
+12 Un stand de Popcorn/Kettlecorn. Ne le laissez pas se coincer dans vos dents !
+13 Un ring d'entraînement. Les habitants peuvent se défouler sur les autres pendant l'année écoulée !
+14 Un stand déguisé en étal de tarte qui achète et vend des produits illégaux (drogues, symboles religieux interdits, etc.).
+15 Un stand est tenu par des étudiants d'une académie de magie locale. Ils acceptent les demandes d'assistance magique mais ne
+   peuvent pas vraiment faire quelque chose eux-mêmes. Un mage de niveau approprié rendra visite à chaque client dans les jours qui
+   suivent. Les étudiants reçoivent une partie des revenus pour leurs frais de scolarité, ils peuvent donc être très insistants.
+16 Un stand vendant des potions de désaltération (eau).
+17 Un diable à l'air ennuyeux assis à un stand avec une pancarte disant "Tout ce que vous voulez : $Votre âme". Soyez très prudent
+   ici, car ce qu'il propose semble génial au début, mais finit par être terrible.
+18 Un poulet qui joue aux échecs. 5 argent pour jouer, battez le poulet et doublez votre argent. (Vérification de l'intelligence)
+19 Un stand de divination avec une vieille dame avec une boule de cristal... Ou elle lit les lignes dans vos mains... Dans tous les
+   cas, c'est au DM de décider si c'est une vraie divination.
+20 Un maître gnome fabrique des bibelots en forme d'horloge pour les habitants de la ville.
+21 Une grande lutte acharnée sur une fosse de boue. (Test de force)
+22 Un groupe de Yuan-Ti a ouvert une boutique d'amulettes exotiques (légèrement maudites).
+23 Un groupe d'arbres vivants locaux distribue des pommes et donne des conseils de leur voix grave, comme "veillez à planter les
+   graines" et "ne jouez pas avec le feu".
+24 Un tiefling à la peau lavande lit les lignes de la main pendant que son ami nain polit les armes et les armures des personnes qui
+   se font lire les lignes de la main.
+25 Une maison littéralement hantée par d'anciens travailleurs de carnaval, pour qu'ils ne tuent personne.
+26 Un prestidigitateur demi-orque, un chasseur de monstres tiefling et un dresseur de bêtes elfe sont tous des habitants de la ville.
+   Chaque année, ils se retrouvent pour boire un verre à la foire, avant de s'affronter dans un jeu qui leur est propre : Ooze
+   Cruise. Chaque participant doit apporter un ooze à l'événement. Trois tours de pierre préfabriquées sont érigées aux abords de la
+   foire. Les participants grimpent sur des échafaudages pour placer leur ooze au sommet. Le premier qui parvient à manger jusqu'au
+   bas de la tour gagne. Au cours des dernières années, cette compétition autodidacte a attiré l'attention des habitants de la ville
+   qui aiment parier sur cette compétition.
+27 Un homme vêtu d'un costume de bouffon est assis au-dessus d'un bassin de trempage. Pouvez-vous atteindre la cible ?
+28 Un concours de musique entre des interprètes individuels ou des "groupes". (Vérification des performances)
+29 Une tente voisine expose diverses œuvres d'art. Les artistes sont là pour répondre aux questions sur leurs œuvres.
+30 Un favori des voyous ; compétition de cache-cache. (Test de furtivité)
+31 Une chasse au trésor. Une pièce d'or spéciale a été cachée quelque part sur le champ de foire. Pourrez-vous la trouver ? (Test de
+   perception)
+32 Un simple tissu est étalé devant un célèbre ermite local. Il répare magiquement des objets et exécute des sorts de bas niveau à un
+   prix très réduit. Il utilise l'argent pour acheter des fournitures afin de pouvoir éviter la ville le reste de l'année.
+33 Un petit nombre de gobelins peut occasionnellement être vu en train de se faufiler dans la foire, parfois ils seront aperçus en
+   train de regarder les attractions. Si on les interroge, ils s'enfuient. S'ils sont retrouvés plus tard et interrogés, ils font des
+   recherches pour leur propre carnaval.
+34 Une échoppe qui vend des bijoux légèrement enchantés qui peuvent changer de couleur à volonté.
+35 Une table avec des gardes qui s'ennuient et cherchent des recrues, les gens marchent clairement autour.
+36 Une équipe de 3 à 5 personnes est autorisée à participer à un concours alimentaire contre un géant des collines local. Le géant
+   des collines lance 2d100. Chaque joueur lance 1d20+Con. L'équipe dont le total est le plus élevé remporte le concours. Le groupe
+   est fatigué pendant 24 heures s'il participe au concours.
+37 Un jeu "Devinez la mimique". Les joueurs sont amenés dans une fausse maison et doivent déterminer quel objet est la mimique. Peut-
+   être que la mimique est la maison elle-même ? (Test de perception)
+38 Une compétition de tir à l'arc. Les concurrents tentent de tirer une pomme sur la tête d'un gnome. (Test de dextérité)
+39 Un concours de lancer de hache (ou de projectile similaire). (Test de dextérité)
+40 Un concours de consommation de bière. (Vérification de la Constitution)
+41 Courses d'animaux. Sur lequel pariez-vous pour qu'il gagne la course ?
+42 Concours de bras de fer. (Test de force)
+43 Vente de gâteaux pour l'orphelinat local.
+44 Bobbing for apples. Certaines pommes sont injectées avec une potion polymorphe.
+45 Concours de monte de taureaux. Restez le plus longtemps sur le taureau pour gagner ! (Test d'athlétisme ou de force)
+46 Promenades en calèche (pour les enfants)
+47 Promenades en calèche (romantique pour les couples)
+48 Concours de cuisine - le ou les joueurs doivent préparer un plat exotique dont ils ne connaissent que le nom. (Test de cuisine -
+   et peut-être d'histoire, pour voir s'ils reconnaissent le plat).
+49 Linguistes rusés ; remplacement d'une langue au hasard (choisissez une langue aléatoire, non commune, que le joueur connaît ;
+   remplacez-la au hasard dans une liste aussi longue que vous le souhaitez, s'il obtient un résultat positif, il conserve sa langue
+   d'origine, s'il échoue, il perd sa langue d'origine et ne gagne rien).
+50 Concours de danse. (Vérification de la performance)
+51 Des aliments frits sur un bâton.
+52 Exposition des œuvres d'art des enfants de la région.
+53 Spectacle d'animaux exotiques. Venez voir des animaux fantastiques venus de tout le royaume !
+54 Étalage de fruits à coque et de fruits exotiques.
+55 Marchand de pierres pour animaux exotiques. (1 roche sur D8 est un animal de compagnie élémentaire !)
+56 Un exploit pour une malédiction ? (Votre joueur peut acheter un exploit supplémentaire, mais il est frappé d'une malédiction. Cela
+   peut être une forte malédiction ou aussi simple qu'un nouveau défaut de caractère).
+57 Escrime avec des épées en bois. Trois coups, et vous êtes éliminé ! (Règles de combat standard)
+58 Filthy-Filch'N : Le stand secret de la branche locale de la Guilde des Voleurs. Les gendarmes locaux ont eu des objets volés à
+   l'envers dans leurs poches. Ramenez-les tous pour gagner un prix ! (Vérification du tour de main)
+59 Jeux de hasard/jeux de cartes/dés. Ces jeux étant très probablement illégaux, ils ont lieu dans une tente fermée à l'arrière de la
+   foire.
+60 Concours de lancer de gnome - un gnome convenablement vêtu d'un rembourrage et d'un casque peut être lancé. Le but est de lancer
+   le gnome le plus loin ou vers une cible. Divers bonus ou pénalités peuvent être appliqués au lanceur. Le gnome coopère-t-il ou non
+   ? Il existe des règles dans d'autres subreddits sur le lancer de gnome.
+61 Les poissons rouges. Certains disent que les poissons rouges sont en fait des fêtards polymorphes qui ont été surpris en train de
+   tricher à d'autres jeux.
+62 Concours d'escalade de poteau graissé - il y a un tronc d'arbre généreusement enduit de graisse et la première personne à
+   atteindre le sommet est le gagnant. Tout le monde essaie de grimper en même temps.
+63 Concours d'escalade de poteau graissé - il y a un tronc d'arbre généreusement enduit de graisse et la première personne à
+   atteindre le sommet est le gagnant. Tout le monde essaie de grimper en même temps. (Vérification de l'athlétisme)
+64 Concours de baratin. (Sérieusement, c'est une chose réelle. Concourez pour tirer le visage le plus ridicule.) (Contrôle de
+   performance)
+65 Course de chevaux. Mesurez-vous à certains des cavaliers les plus expérimentés du royaume ! (Contrôle du maniement des animaux)
+66 La maison des miroirs. Pouvez-vous vous échapper ? (Test de Perception)
+67 Joutes à cheval. Pouvez-vous faire tomber votre adversaire de son cheval ? (Contrôle de maniabilité et de dextérité des animaux)
+68 Concours de menteurs : racontez l'histoire la plus folle à laquelle vous pouvez penser et la foule vote pour la meilleure en
+   fonction de sa crédibilité, de sa complexité et de son caractère incroyable. (Test de bluff/de tromperie)
+69 Tour vivante - des équipes de (taille de votre groupe) doivent construire la plus haute tour à partir de leur corps. (Test
+   d'athlétisme)
+70 Concours de lockpicking - les yeux bandés ! (Test d'outils de voleurs)
+71 Attraper du bétail en liberté (cochon mazouté, poulets, etc.) (test de Force, de Dextérité ou de Maniement des animaux)
+72 Jeux de bûcheron. Qui est le plus rapide à couper ces énormes troncs d'arbres ? (Test de force)
+73 Le Maypole de Midsommar : Tiens, bois ça. De mauvaises choses commencent à se produire.
+74 Mimic ou argent. 10gp par jeu. Les joueurs sont assis devant 3 coffres et doivent en choisir un à ouvrir. En choisissant l'un
+   d'eux, le maître de jeu révèle une mimique et demande si le joueur veut changer sa réponse pour l'autre coffre. Si le joueur
+   choisit correctement, il obtient ce qu'il a misé plus 10. S'il choisit mal, le joueur doit combattre une mimique, le combat dure
+   jusqu'à ce que la mimique meure ou que le joueur soit vaincu, cependant, le joueur ne doit pas mourir.
+75 Concours de pâtisserie. (Cooking Check)
+76 Le concours du plus beau bébé.
+77 Concours de légumes (citrouille la plus grosse, chou le plus lourd, tomate la plus savoureuse, poivron le plus chaud, maïs le plus
+   sucré, pêche la plus juteuse, etc.)
+78 Spectacle de marionnettes utilisant l'illusion mineure et la main de mage.
+79 Loterie du tirage au sort. 1gp pour participer !
+80 Compétition de grimper à la corde. (Test de dextérité ou de force)
+81 Compétition "S'asseoir au sommet d'un poteau en bois de 3 mètres". (Vérification athlétique)
+82 Des lutins et des pixies laissent les gens voler en échange d'équipement de chasse. Ils ont un grand fourneau avec un bébé renard
+   à l'intérieur où ils se débarrassent de l'équipement de chasse.
+83 Taguer un garde - vous devez botter un garde et ne pas vous faire prendre.
+84 Testez votre stand de force ; les challengers doivent soulever un rocher incroyablement lourd pour 1G, si vous y arrivez le prix
+   est de 50g. (Test de force)
+85 Le grand concours du marteau et de la cloche. (Contrôle de la force)
+86 La course aux fromages : dépassez les vieux fromages qui dévalent la colline.
+87 La guilde locale des voleurs fait de la contrebande de bière bon marché à l'arrière d'un chariot et paiera le groupe pour l'aider
+   à transporter les objets avant que le garde ne revienne avec un mandat.
+88 Le maire laisse le gagnant de la course à pied des enfants le frapper avec une tarte à la crème.
+89 La tente des " longs repos " en 20 minutes !
+90 La garde municipale donne des cours de combat gratuits pour les citoyens valides. Il y a une liste où les festivaliers inscrivent
+   leurs coordonnées pour la milice de la ville.
+91 Le garde municipal organise un stand de fabrication de bannières. Un enchanteur peut être engagé pour enchanter la bannière.
+92 Il y a des sanctuaires temporaires de nombreux dieux et déesses différents. On peut les prier pour obtenir de petites
+   bénédictions.
+93 Il y a un stand "Slap-a-Guard". Une fois par an, les citoyens peuvent payer 50gp pour gifler un garde qu'ils n'aiment pas. Les
+   joueurs peuvent choisir n'importe quel garde qu'ils ont rencontré. Il y a un petit registre où les citoyens peuvent écrire leur
+   nom et devenir un garde. Les gardes ont pour consigne de dire : "Si vous pensez être meilleur que moi, vous pouvez le prouver en
+   signant le registre".
+94 Il y a un chef demi-orque costaud qui vend de l'eau de feu à 2gp, une bière qui donne +1 force pendant 1d8 heures à toute personne
+   ayant un modificateur de con de +3 ou plus.
+95 Il y a un stand où l'on peut trouver les officiels de la ville. Le stand est composé d'un poste de garde, d'un poste d'eau, d'un
+   poste de premiers secours, d'un poste d'objets perdus et trouvés (un objet aléatoire de la fête peut être trouvé ici) et d'un
+   poste de gestion de la foire. Il y a un bocal à dons. Les officiels ont quelques courses à faire pour la fête, comme collecter les
+   cotisations en retard de certains commerçants de la foire.
+96 Il y a un stand de costumes où un maître tailleur, un sosie, un illusionniste et un voleur travaillent ensemble pour offrir à
+   chacun un relooking, une coupe de cheveux ou le costume de son choix.
+97 Il y a un ermite kenku des collines voisines qui a un grand chariot rempli de noix et de baies. Il en vend une poignée pour 1
+   cuivre chacune.
+98 Il y a un magicien qui tient un stand de fabrication de potions. Le magicien aidera les joueurs à fabriquer la potion de leur
+   choix à moitié prix.
+99 Lutte sous-marine. Les concurrents se rencontrent dans un grand réservoir en verre. Ils doivent lutter sous l'eau. Le premier qui
+   remonte à la surface perd. Dans certaines villes, le champion est une pieuvre géante, ce qui ajoute une touche d'originalité.
+   (Test de force et de dextérité)
+00 Race d'épouse/porteuse de mari. (Test de dextérité/force)

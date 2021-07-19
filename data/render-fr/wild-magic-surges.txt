@@ -1,0 +1,171 @@
+                                                        wild magic surges                                                         
+
+ 1 1d8 tentacules violets de taille moyenne s'élèvent du sol. Ils sont semi-sentinelles et ne sont alignés ni au lanceur de sorts ni
+   à l'ennemi. Ils tentent d'agripper tout ce qui se trouve à portée (DC 14).
+ 2 2d8 gp s'envolent des mains du lanceur. 2d8 d'entre eux touchent (si le second jet est supérieur au premier, ils touchent tous),
+   infligeant 1d4-1 dégâts de matraquage chacun.
+ 3 Un Couatl, sentant qu'un sort est en train d'être lancé, passe à moins de 3 mètres des têtes du groupe et s'envole après avoir
+   examiné la magie lancée.
+ 4 Le lanceur de sorts se téléporte à 25 pieds à gauche de sa position. Une traînée de feu apparaît de sa position de départ à sa
+   position téléportée.
+ 5 Un chœur de voix éthérées félicite le lanceur de sort pour avoir jeté le sort et complimente la qualité de l'incantation et du
+   sort lui-même. Chaque fois que le lanceur utilise la magie dans l'heure qui suit le lancement du sort original, il reçoit
+   l'approbation murmurée et les commentaires des voix.
+ 6 Une force explose dans un anneau autour du lanceur de sorts, faisant reculer tout le monde de 5 pieds (sauvegarde Fort DC14,
+   portée 25ft).
+ 7 Un génie offre au lanceur un souhait, mais refuse de l'exaucer et disparaît.
+ 8 Une bougie d'anniversaire allumée apparaît devant le lanceur de sorts. Devant la bougie se trouve une note. La note dit :
+   "Soufflez la bougie pour faire un vœu.
+ 9 Un gouffre, de 6 mètres de profondeur et de 3 mètres de diamètre, apparaît à un endroit aléatoire dans un rayon de 30 mètres
+   autour du lanceur.
+10 Une petite figurine en plomb du lanceur de sorts, dans la pose exacte où il se trouvait, apparaît en l'air et tombe au sol. Malgré
+   sa taille, elle pèse exactement le même poids que le lanceur de sorts.
+11 Un petit oiseau chanteur apparaît en plein vol à 3 mètres au-dessus du lanceur de sorts. Lancez un d20. Sur un 1, l'oiseau fait
+   caca et atterrit sur le lanceur. Sur un 20, l'oiseau fait caca et atterrit sur la cible du sort.
+12 Un petit élémentaire au choix du lanceur de sorts apparaît comme un familier.
+13 Une arme dans un rayon de 30 pieds du lanceur de sorts devient sensible, elle se plaint toujours d'être sale et accorde un
+   désavantage à l'utilisateur s'il ne passe pas une heure par jour à la nettoyer.
+14 Après 1d4 rounds de lancement du sort, un ours qui a l'intention de faire preuve de violence envers le groupe, et qui sait où il
+   se trouve, est invoqué à 200 pieds de distance.
+15 Après avoir lancé ce sort, le lanceur entend d'étranges chuchotements dans une langue inconnue pendant 1d20 minutes. De temps en
+   temps, les chuchotements semblent se taire, comme s'ils savaient que quelqu'un les écoute.
+16 Tous les bruits que le lanceur fait pendant la minute suivante sont x100 fois plus forts.
+17 Tous les PCs et PNJs, y compris les monstres, changent de place, pivotent de 1d4 places dans le sens des aiguilles d'une montre.
+18 Tous les joueurs changent de corps au hasard pendant 1d4 rounds.
+19 Toute l'eau dans un rayon de 15 mètres s'évapore instantanément.
+20 Toute kératine sur le corps du lanceur de sorts (cheveux, ongles, plumes, certaines peaux, cornes, sabots, etc...) prend une
+   teinte vibrante.
+21 Tous les objets libres se rapprochent de 3 mètres du lanceur de sorts.
+22 Tous les sacs ou récipients non magiques sur la personne du lanceur de sorts se déchirent et déversent leur contenu sur le sol.
+23 Tout objet ou être que le lanceur de sorts touche pendant 1d10 rounds ( 1 minute hors combat) se transforme en feuilles pendant
+   1d10 minutes.
+24 Autour du lanceur de sorts, 10 grenouilles apparaissent, toutes passives.
+25 Autour du casteur apparaissent 10 rats, tous hostiles.
+26 Les deux lanceurs de sorts doivent faire une sauvegarde DC 15 Wis. En cas d'échec, ils laissent tomber ce qu'ils tiennent.
+27 Des bulles jaillissent de la bouche du lanceur à chaque fois qu'il expire, durée 1 heure.
+28 Le Caster connaît une nouvelle langue, choisie par le DM.
+29 Le Caster se transforme en chêne massif.
+30 Les cheveux de Caster changent de couleur.
+31 La race de Caster change tous les jours pendant la semaine prochaine.
+32 Tous les écrits situés dans un rayon de 3 mètres autour du lanceur de sorts se transforment immédiatement en critiques
+   incroyablement mesquines à son égard. Si le lanceur de sorts en lit une partie, il doit effectuer un jet de sauvegarde de Sagesse
+   DC 10 ou croire la critique mineure décrite dans l'écriture.
+33 Toute personne se trouvant dans un rayon de 3d6 pieds doit faire une sauvegarde Con DC 15 ou s'endormir pendant 1d4 rounds.
+34 Plumes - Les follicules pileux du lanceur de sorts font pousser des plumes d'un certain type et au tour suivant, celles-ci tombent
+   ou s'envolent et un tour après, elles font pousser des plumes différentes. Cet effet dure un nombre de tours = d6+niveau du sort.
+   Ainsi, le lanceur de sorts a lancé Foudre en chaîne, un sort de 6e niveau. 6d6 tours.
+35 Cinq champignons violets sortent du sol et commencent à attaquer le groupe lorsque le sort est lancé.
+36 Un brouillard s'échappe du sol, obscurcissant tout ce qui se trouve dans un rayon de 20' autour de la cible, ou du lanceur de
+   sorts, pendant 1d4 rounds.
+37 Pendant les 24 heures qui suivent, le nez du lanceur de sorts grandit d'un pouce vers l'extérieur chaque fois qu'il dit sciemment
+   un mensonge. Le nez reprend sa taille initiale une fois la durée écoulée.
+38 Pendant l'heure qui suit, le lanceur de sorts éclate d'un rire diabolique et maniaque chaque fois qu'il ouvre la bouche. Chaque
+   fois qu'il le fait, il doit effectuer un jet de sauvegarde de Sagesse DC 13 ou être contraint de faire une farce mineure. La
+   nature de la farce est à la discrétion du joueur, tant qu'elle est suffisamment malicieuse et inoffensive.
+39 Si le lanceur de sorts utilise un point de focalisation, il devient 100 fois plus lourd pendant une minute.
+40 Devant le lanceur de sorts, un portail, pas plus grand qu'un poing, s'ouvre sur le royaume de l'infini (insérer le liquide désiré
+   ici). Ce liquide commence à se déverser de manière incontrôlée pendant 1 rnd / niveau de lanceur de sorts.
+41 Au cours des 1d6 heures suivantes, le lanceur de sorts grandit de 1d6 pieds, mais ne gagne pas de masse, ainsi un halfling
+   deviendra une créature extrêmement grande et mince. Aucun effet négatif, purement cosmétique, peut être inversé en retirant la
+   malédiction.
+42 Au lieu d'infliger des dégâts, les points de dégâts complets soignent la personne.
+43 Au lieu du cornet de glace que vous vouliez, un lutin mécontent de 2,5 cm apparaît, vole vers vous, vous frappe au front, vous
+   asperge d'une poussière qui vous fait éternuer violemment, puis disparaît dans une bouffée de paillettes rose fluo et orange.
+44 Au lieu de l'effet prévu, il y a une explosion de feux d'artifice silencieux et illusoires dans un rayon de 100 pieds autour de
+   vous, et toutes les créatures affectées par ces feux sont étourdies jusqu'à leur prochain tour.
+45 Au lieu de la boule de feu que vous attendiez, vous commencez à invoquer d'innombrables choux, qui se déversent en un cône devant
+   vous.
+46 Au lieu de l'effet escompté, 10d10 arbres de la région se dotent d'une bouche et se mettent à chanter pendant 1d8 rounds.  Si le
+   sort original était censé être un sort de guérison, la chanson est un refrain entraînant qui chasse la fatigue et met fin à tout
+   effet émotionnel (peur, charme, etc.) qui affecte actuellement ceux qui l'entendent.  Si le sort original était censé être un sort
+   d'attaque, la chanson est un air irrésistible qui entraîne tous ceux qui l'entendent à le chanter avec les arbres, et toutes les
+   attitudes des combattants sont changées en neutres les uns envers les autres lorsque la chanson se termine.  Si le sort était
+   censé être autre chose, la chanson est une chanson apaisante qui endort les auditeurs, rendant difficile les attaques
+   réactionnelles jusqu'à la fin de la chanson.
+47 Indépendamment du temps qui s'écoule dans le jeu, le lanceur de ce sort peut voir et entendre tout ce qui se passe dans le monde
+   réel qui entoure le joueur dudit personnage pendant les 1d6 minutes suivantes par niveau du sort lancé.
+48 Il pleut des chats et des chiens littéraux pendant un round, causant 1d4 points de dégâts de matraque à toute créature touchée par
+   un chien et 1d6 points de dégâts de cisaillement à toute créature touchée par un chat.
+49 Un silence magique s'installe dans un rayon de 15 mètres et dure 10 minutes.
+50 Le prochain livre que le lanceur de sorts lit a pour protagoniste le lanceur de sorts.
+51 Quelque chose de poissonneux : le lanceur de sorts se retrouve avec une odeur de poisson. La cible du sort sent également le
+   poisson. Si le sort affecte une zone, celle-ci sent le poisson. Si le sort produit un projectile, le projectile devient un poisson
+   (pas de changement dans le type de dégâts).
+52 La cible se transforme en une figurine d'elle-même en marbre. Lorsque la figurine est activée (en la jetant dans un espace
+   inoccupé), elle reprend sa forme vivante et est hostile envers toutes les créatures.
+53 Le lanceur vomit une énorme limace après avoir lancé le sort.
+54 Le lanceur de sorts et la cible changent de classe mais conservent leur niveau respectif. Si la cible n'a pas de classe, le
+   lanceur de sorts change de classe avec l'humanoïde le plus proche qui en a une.
+55 Le lanceur de sorts et la cible ressentent tous deux un intense sentiment de parenté et refusent de se battre l'un contre l'autre
+   pendant 1d4 rounds.
+56 Le lanceur de sorts devient une plante en pot jusqu'au début du prochain tour.
+57 Le lanceur de sorts se met à briller. (Comme le sort Lumière, pas de sauvegarde)
+58 Le lanceur de sorts peut voir un round dans le futur.
+59 Le lanceur de sorts lance la graisse centrée sur lui-même.
+60 Le lanceur de sorts développe une claustrophobie sévère pendant 1d4 heures.
+61 Le lanceur de sorts ressent une gêne extrême au niveau de l'estomac pendant 1d4 tours, avant de relâcher un roter monstrueux
+   pendant 1d4 tours supplémentaires. Ce renvoi fonctionne selon la description du sort Rafale de vent, la direction du vent étant
+   celle à laquelle le lanceur fait face.
+62 Le lanceur de sorts gagne 50 livres.
+63 Le lanceur de sorts a le hoquet, qui dure 1d6 minutes.
+64 Le lanceur de sorts fait pousser un doigt supplémentaire sur l'une de ses mains. Un sort de suppression de malédiction ou un test
+   de médecine DC20 réussi peut enlever le doigt.
+65 Le lanceur de sorts subit les dégâts maximums du sort qu'il lançait.
+66 Le lanceur de sorts est projeté à trois mètres dans les airs et retombe.
+67 Le lanceur de sorts est piégé dans une boule de verre géante. Il doit être brisé pour être libéré.
+68 Le lanceur de sorts perd le contrôle de sa puissance magique, qui se déverse sur la créature la plus proche. Le lanceur de sorts
+   dépense tous ses emplacements de sorts et ses points de sorcellerie restants, en additionnant tous les niveaux de sorts (chaque
+   point de sorcellerie comptant pour 1 niveau). La cible subit 1d6 dégâts de force pour chaque niveau de sort dépensé de cette
+   façon. Si ces dégâts tuent la cible, les dégâts restants continuent à être infligés à la créature la plus proche, et ainsi de
+   suite jusqu'à ce que tous les dégâts aient été appliqués.
+69 Le lanceur de sorts perd le contrôle de sa vessie. Sauvegarde de constitution DC18 ou ils urinent sur place.
+70 Le lanceur de sorts lance 1d2. 1 = ils vieillissent de 1d10 ans. 2 = ils perdent 1d10 ans.
+71 Le lanceur de sorts voit tout le monde comme un cadavre en décomposition pendant 24h.
+72 Le casteur crache des paillettes quand il parle. Elles se répandent partout. L'effet se termine après 1 minute mais les paillettes
+   ne disparaissent jamais.
+73 Le lanceur de sorts s'enflamme spontanément.
+74 Le lanceur de sorts est soudainement témoin d'un souvenir d'un de ses ancêtres.
+75 Les bras du lanceur disparaissent et sont remplacés par des nageoires. Ils ne peuvent soulever que trois kilos, mais peuvent
+   passer sous les portes, ouvrir des serrures non-magiques, et même refroidir des métaux chauds. Durée de vie : 1d10 minutes.
+76 Les yeux du lanceur de sorts brillent et ils sont capables de voir dans l'obscurité, mais la lueur permet à tout ce qui se trouve
+   dans l'obscurité de les voir.
+77 Les cheveux du lanceur de sorts poussent très rapidement, et s'il est un homme, sa barbe aussi. Ils atteignent environ 2 mètres de
+   long, et deviennent violets, verts ou bleus.
+78 Les yeux et les veines du lanceur brillent dans le noir pendant 1d6 jours.
+79 Les yeux du lanceur de sorts s'enflamment et ses mains sont couvertes de cristaux de glace. Toute attaque sans arme inflige 1d4
+   dégâts de froid supplémentaires pendant 1d4 rounds.
+80 Les yeux du lanceur de sorts clignotent d'une couleur étrange. Pour le lanceur, la peau et les muscles de tout le monde sont
+   transparents, révélant leurs organes. Cela dure 1 minute.
+81 Les cheveux du rouletteux disparaissent, réapparaissant 1d6 jours plus tard, lavés, tressés et décorés de fleurs.
+82 La première personne qui prononce le nom du lanceur a alors un contrôle mental total sur lui pendant 1d4 rounds.
+83 La prochaine personne que le lanceur de sorts touche physiquement subit 1d6 dégâts de foudre.
+84 La prochaine pièce de métal que le lanceur de sorts touche se transforme en or.
+85 L'odeur de cannelle emplit la zone dans un rayon de 30 pieds autour du lanceur de sorts.
+86 Les composantes somatiques de la chanson sont remplacées par la chanson thème des amis, et les gestes des mains sont les
+   applaudissements.
+87 Le sort s'accumule dans l'outil magique de l'utilisateur et se charge. Le sort n'est pas lancé à ce tour, mais au prochain, et
+   inflige des dégâts doubles à ceux qui sont touchés.
+88 Le sort ne fait pas effet... jusqu'à 1d4 rounds plus tard.
+89 Le sort est étonnamment fort et toutes les personnes se trouvant à 3 mètres de vous (y compris vous) subissent 1d6 dégâts de
+   tonnerre et le sort peut être entendu à 600 pieds de distance.
+90 La cible du sort est immobilisée pendant 1 round, et jusqu'à ce qu'elle réussisse un jet de sauvegarde contre les attaques (DC
+   10).
+91 La cible est affectée par le même sort deux fois. Le lanceur de sorts utilise toujours un emplacement de sort. Si le premier effet
+   est sous le contrôle du lanceur de sorts (stratagème de morphologie, altération de soi), le second effet est totalement aléatoire.
+92 L'utilisateur est rendu fou par le sort, ce qui le fait entrer dans une rage barbare pendant une minute.
+93 Le monde semble s'assombrir et les plantes semblent se faner autour de vous. Toute personne se trouvant dans un rayon de 20 pieds
+   subit des dégâts nécrotiques doubles et prend un point d'épuisement sur tout échec critique pendant les 10 tours suivants (une
+   minute hors combat).
+94 Le monde semble ralentir autour de vous. Vous pouvez faire une action supplémentaire.
+95 Il leur pousse des oreilles de lapin qui leur donnent un avantage sur tous les jets de perception pendant 1 heure.
+96 Vous sentez que vous avez vraiment besoin d'éternuer. Faites un jet de sauvegarde de constitution avec un DC de 10+votre
+   modificateur d'incantation. En cas d'échec, vous éternuez et lancez involontairement un jet prismatique (sans consommer
+   d'emplacement de sort) dans la direction à laquelle vous faites face. En cas de sauvegarde réussie, vous éternuez normalement,
+   sans effets secondaires.
+97 Vous vous sentez très attirant... Tous les objets et créatures non sécurisés dans un rayon de 100 pieds se déplacent vers vous de
+   5 pieds.
+98 Vous vous illuminez d'une lumière dorée qui semble être suspendue dans l'air autour de vous. Toute personne prise dans cette
+   lumière (dans un rayon de 20 pieds) reçoit une double guérison et ne peut pas mentir pendant les 10 tours suivants (une minute
+   hors combat).
+99 Il vous pousse immédiatement un tas de poils qui tombent au bout d'un jour.
+00 Votre ombre se détache de vous et devient une ombre (la créature).

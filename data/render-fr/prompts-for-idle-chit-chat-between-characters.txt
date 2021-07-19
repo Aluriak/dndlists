@@ -1,0 +1,109 @@
+                                          prompts for idle chit chat between characters                                           
+
+ 1 En étant dans un espace aussi confiné, vous commencez à remarquer que x a une odeur. Essayez discrètement de les informer sans
+   alerter les autres.
+ 2 Décrivez la dernière fois que vous avez été ivre. X décrit ce qui se passe réellement.
+ 3 Faites de votre mieux x imitation
+ 4 Tout le monde joue un tour de Malédiction/Mariage/Shag : choisissez 3 monstres humanoïdes au hasard.
+ 5 Tout le monde joue deux vérités et un mensonge.
+ 6 Si un barde devait chanter une chanson, qu'espérez-vous qu'il dise ?
+ 7 Si tu pouvais avoir un animal de compagnie, lequel prendrais-tu ?
+ 8 Si vous possédiez une Taverne, comment l'appelleriez-vous ?
+ 9 N'est-ce pas de cette région que vient (personnage important) ? Dites-nous qui ils sont.
+10 Rappelez à x qu'ils vous en doivent une. Qu'est-ce qu'ils vous doivent et pour quoi faire ?
+11 Quelqu'un a mangé ton déjeuner. Que vas-tu faire ?
+12 Quelqu'un a pété. Déterminez qui a fait l'acte.
+13 La barmaid de la dernière ville a attiré votre attention, elle vous taquine à ce sujet.
+14 Il y a une compétition à (ville), vous et x faites un pari.
+15 Il y a un panneau le long de la route qui dit "DIEU EST RÉEL". Vous et x discutez du Dieu auquel vous pensez qu'il fait référence.
+16 Une chanson vous trotte dans la tête. Vous demandez à X de vous aider à l'identifier.
+17 Il y avait un sale type à la dernière taverne qui ne voulait pas vous laisser tranquille. Partagez l'expérience
+18 Vous avez vu une pièce de théâtre récemment. Racontez-la. X peut ne pas être d'accord.
+19 Il y a une légende locale par ici. Quelle est-elle ?
+20 Il y a une récente tendance à la mode parmi les aventuriers. Quelle est cette tendance ? Vous et x en discutez.
+21 Il y a un panneau pour la prochaine taverne qui prétend avoir le "meilleur du royaume" pour votre nourriture préférée. Convainquez
+   le reste du groupe d'aller voir
+22 Il y a un panneau pour votre groupe préféré le long de la route. Ils sont en tournée ! Partagez votre enthousiasme !
+23 Il y a un temple dans cette région qui aurait un étrange rituel. Qu'est-ce que c'est ?
+24 Il y a une vente aux enchères dans une ville voisine ! La rumeur dit qu'ils ont un objet qui t'intéresse. Qu'est-ce que c'est ?
+25 Il y a un vieux dicton parmi votre peuple...
+26 Il y a une vieille histoire que vous avez entendue sur les bois voisins. Quelle est cette histoire ?
+27 Cette région est célèbre pour sa (nourriture/boisson). Qu'est-ce que c'est ?
+28 Cette route vous rappelle le temps...
+29 Ce temps vous rappelle le temps...
+30 Quelle créature souhaiteriez-vous chevaucher ?
+31 Qu'est-ce que la plupart des gens que vous rencontrez supposent immédiatement à votre sujet ?
+32 Qu'est-ce que vous espérez trouver dans la prochaine ville ?
+33 Quel nom donnez-vous au Wagon ?
+34 Quel repère avez-vous le plus envie de voir ?
+35 Quelle est la pire taverne dans laquelle vous avez séjourné ?
+36 Que feriez-vous si vous étiez roi ?
+37 La ville suivante est célèbre pour quoi ?
+38 Quel est l'aliment ou la boisson que vous aimez le moins ?
+39 Qui, dans votre groupe, respectez-vous le plus ?
+40 Qui, dans votre groupe, voudriez-vous le moins combattre ?
+41 Embrasserais-tu un gobelin ?
+42 X vous a convaincu d'essayer quelque chose de nouveau, quelle était cette chose et qu'en avez-vous pensé ?
+43 X a eu un incident gênant à votre dernier arrêt et vous l'avez vu. Qu'est-ce que c'était ?
+44 X vous a sauvé la vie une fois, quels ont été les événements qui l'ont entouré ?
+45 X t'a insulté pendant le dîner. Qu'ont-ils fait ?
+46 X te raconte une histoire, tu dis des conneries.
+47 Vous et X êtes en pleine guerre des farces. Quelle est la prochaine farce que tu prépares pour eux ?
+48 Vous et x comparez vos goûts romantiques et discutez de ce qui est le mieux chez un partenaire potentiel.
+49 Vous et X avez décidé de jouer à un jeu de roadtrip pour passer le temps. Cela s'est maintenant transformé en un débat animé.
+50 Vous et x discutez de vos boissons alcoolisées préférées
+51 Vous et x discutez de philosophie. La chance existe-t-elle ? Manipuler la chance ?
+52 Vous et X discutez de philosophie. Peut-on naître mauvais ? Une personne mauvaise peut-elle devenir bonne ?
+53 Vous et x discutez de philosophie. Que signifie pour vous une vie épanouie ?
+54 Vous et X discutez de philosophie. Quelle est la meilleure façon de mourir ?
+55 Vous et X discutez de philosophie. Quel est le plus grand mal ?
+56 Vous et X discutez de philosophie. Quel est le plus grand bien ?
+57 Vous et X discutez de philosophie. Quel est le sens de la vie ?
+58 Vous et x discutez de philosophie. Sur quoi utiliseriez-vous un souhait ?
+59 Vous et X discutez de philosophie. Où vas-tu quand tu meurs ?
+60 Vous et X discutez de philosophie : Les dieux pourraient-ils créer quelque chose qu'ils ne pourraient pas détruire ?
+61 Vous et X discutez de philosophie : Est-il préférable d'être un esclave vivant en sécurité ou d'être libre vivant sous un risque
+   constant ?
+62 Vous et X discutez de philosophie : Que se passe-t-il après la mort ?
+63 Vous et X discutez de philosophie : Quelle est la différence entre les personnes, les monstres et les animaux ? S'agit-il
+   uniquement de leur nature ou peut-on transformer un monstre en une personne ?
+64 Vous et x discutez de la valeur de l'honneur dans l'aventure.
+65 Vous et x discutez des pires aspects de la vie d'aventurier.
+66 Vous et x discutez de vos plus grandes peurs.
+67 Vous et X discutez de votre animal préféré... et de celui qui gagnerait dans un combat.
+68 Vous et x discutez : si vous n'étiez pas un Aventurier, qu'aimeriez-vous faire à la place ?
+69 Vous et X avez un petit désaccord. La seule résolution est une guerre des pouces.
+70 Vous vous êtes disputés avec X, c'était à quel sujet ?
+71 Vous et X faites un pari. Sur quoi porte le pari et pour combien ?
+72 Vous et X planifiez votre prochaine soirée en ville.
+73 Vous et X jouez à "Préférez-vous ?".
+74 Vous et X jouez aux vaches et aux cimetières pour passer le temps. Un débat animé sur le fait de savoir si un Minotaure compte
+   éclate
+75 Vous et X jouez au jeu de l'alphabet pour passer le temps. Un débat animé sur la question de savoir si les lettres non communes
+   peuvent être comptées éclate.
+76 Vous et x vous rappelez la première fois que vous vous êtes rencontrés.
+77 Vous et x racontez différemment une aventure antérieure et vous vous disputez. Chacun donne sa version des faits.
+78 Vous et x vous souvenez d'un ancien compagnon. Qui étaient-ils ?
+79 Vous et X vous remémorez vos précédentes aventures et échangez des histoires de guerre.
+80 Vous et X vous remémorez vos anciens amants et échangez des histoires d'amour.
+81 Vous et x spéculent sur ce qui pourrait se trouver dans la nature au-delà de la route.
+82 Vous et x établissez une stratégie : vous présentez un scénario hypothétique et x réfléchit à une solution.
+83 Vous écrivez une lettre, x vous presse de révéler les détails.
+84 Vous vous considérez comme un amoureux de la nature... sauf pour ces satanés (animaux).
+85 Vous décidez d'embêter X avec une fausse histoire.
+86 Vous décidez d'apprendre à x à jurer dans votre langue (ou à faire un geste grossier dans votre culture).
+87 Vous avez fait un rêve et vous voulez vraiment le partager avec x.
+88 Tu as fait un cauchemar et tu t'es confiée à x, c'était quoi ?
+89 Vous avez un vieil ami qui s'est retiré de la vie d'aventurier et a ouvert une boutique dans la région. Comment s'appelait-il déjà
+   ?
+90 Tu as remarqué qu'il y a quelque chose de différent chez x. Devine quel changement ils ont fait.
+91 Vous avez ramassé un petit souvenir dans la dernière ville et vous voulez le montrer à x. Qu'est-ce que c'est ?
+92 Vous avez partagé un secret avec X, c'était quoi ?
+93 Tu racontes au groupe une véritable histoire de fantômes.
+94 Vous êtes déjà venu à (ville), comment était-ce ?
+95 Vous avez entendu parler d'un étrange festival dans cette région. Qu'est-ce que c'est ?
+96 Vous avez entendu des rumeurs sur (ville). Qu'est-ce que c'était ?
+97 Vous avez entendu des rumeurs sur le maire de (ville). Qu'est-ce que c'était ?
+98 Votre personnage ne peut pas prononcer un certain mot, x décide de l'aider.
+99 Vous avez envie de vous dégourdir les jambes, quelle est la première chose que vous voulez faire quand ce wagon s'arrête ?
+00 Votre siège est inconfortable, voyez si vous pouvez convaincre x de changer.

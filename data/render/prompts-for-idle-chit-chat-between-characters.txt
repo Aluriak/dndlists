@@ -1,0 +1,104 @@
+                                          prompts for idle chit chat between characters                                           
+
+ 1 Being in such a confined space you begin to notice that x has an odor. Descretely try to inform them without alerting the others
+ 2 Describe the last time you got drunk. X describes what really happens.
+ 3 Do your best x imitation
+ 4 Everyone plays a round of Curse/Marry/Shag: pick 3 random Humanoid Monsters
+ 5 Everyone plays two truths and a lie.
+ 6 If a Bard were to sing a song, what would you hope they would say?
+ 7 If you could have a pet, what would you get?
+ 8 If you owned a Tavern, what would you call it?
+ 9 Isn't this the region (important figure) comes from? Tell us who they are.
+10 Remind x that they owe you one. What do they owe you and what for?
+11 Someone ate your lunch. What are you going to do about it?
+12 Someone farted. Determine who did the deed.
+13 The barmaid in the last town caught your eye, x teases you about it.
+14 There is a competition in (town), you and x make a bet.
+15 There is a sign along the road that reads 'GOD IS REAL'. You and x discuss which God you think it's referring to
+16 There is a song stuck in your head. You ask X to help you identify it.
+17 There was a creep at the last tavern who wouldn't leave you alone. Share the experience
+18 There was a play you recently saw. Recount it. X may disagree.
+19 There's a local legend around these parts. What is it?
+20 There's a recent fashion trend among adventurers. What is it? You and x discuss.
+21 There's a sign for the next tavern that claims to have the 'Best in the Realm' for your favorite food. Convince the rest of the
+   party to investigate
+22 There's a sign for your favorite band along the road. They're on tour! Share your excitement!
+23 There's a temple in this region that is rumored to have an odd ritual. What is it?
+24 There's an auction in a nearby town! Rumor has it they have an item you're interested in. What is it?
+25 There's an old saying among your people...
+26 There's an old story you've heard about the nearby woods. What is it?
+27 This area is famous for its (food/drink). What is it?
+28 This road reminds you of the time...
+29 This weather reminds you of the time...
+30 What creature would you most want to ride?
+31 What do most people you encounter immediately assume about you?
+32 What do you hope is in the next town?
+33 What do you name the Wagon?
+34 What landmark do you most want to see?
+35 What was the worst tavern you ever stayed in?
+36 What would you do if you were king?
+37 What's the next town famous for?
+38 What's your least favorite food/drink?
+39 Who in your group do you respect the most?
+40 Who in your group would you want to fight the least?
+41 Would you kiss a goblin?
+42 X convinced you to try something new, what was it and what did you think of it?
+43 X had an awkward incident at your last stop and you saw it. What was it?
+44 X saved your life once, what were the events surrounding it?
+45 X slighted you over dinner. What did they do?
+46 X tells you a story, you call bullshit.
+47 You and x are in a pranking war. What is the next prank you're plotting for them?
+48 You and x compare romantic tastes and discuss what's best in a potential partner.
+49 You and x decided to play a roadtrip game to pass the time. It has now devolved into a heated debate.
+50 You and x discuss favorite alcoholic drinks
+51 You and x discuss philosophy. Does luck exist? Manipulate luck?
+52 You and x discuss philosophy. Is someone born evil? Can an evil person ever be made good?
+53 You and x discuss philosophy. What does a fulfilled life mean to you?
+54 You and x discuss philosophy. What is the best way to die?
+55 You and x discuss philosophy. What is the greatest evil?
+56 You and x discuss philosophy. What is the greatest good?
+57 You and x discuss philosophy. What is the meaning of life?
+58 You and x discuss philosophy. What would you use a Wish on?
+59 You and x discuss philosophy. Where do you go when you die?
+60 You and x discuss philosophy: Could the Gods create something they could not destroy?
+61 You and x discuss philosophy: Is it better to be a slave living safely, or to be free living under constant risk?
+62 You and x discuss philosophy: What happens after Death?
+63 You and x discuss philosophy: What is the difference between People, Monsters and Animals? Is it strictly their nature or can you
+   turn a Monster into a Person?
+64 You and x discuss the value of honor in Adventuring.
+65 You and x discuss the worst parts of Adventuring Life
+66 You and x discuss your biggest fears.
+67 You and x discuss your favorite animal...and which would win in a fight.
+68 You and x discuss: if you weren't an Adventurer, what would you like to do instead?
+69 You and x get into a petty disagreement. The only resolution is a thumbwar.
+70 You and x got into an argument, what was it about?
+71 You and x make a bet. Whats' the wager over and for how much?
+72 You and x plan your next night on the town.
+73 You and x play 'Would You Rather?'
+74 You and x play Cows and Graveyards to pass the time. A heated debate over whether a Minotaur counts erupts
+75 You and x play The Alphabet Game to pass the time. A heated debate over whether non-Common letters can be counted erupts
+76 You and x recall the first time you met.
+77 You and x recount a prior adventure differently and get into an argument. Each gives their version of events.
+78 You and x reminisce about a former companion. Who were they?
+79 You and x reminisce about previous adventures and swap war stories
+80 You and x reminisce about previous lovers and swap love stories
+81 You and x speculate about what might be out in the wilderness beyond the road.
+82 You and x strategize: You give a hypothetical scenario and x thinks of a way out.
+83 You are writing a letter, x is bugging you to reveal the details.
+84 You consider your a lover of nature...except for those damn (animal)
+85 You decide to mess with x with a fake story.
+86 You decide to teach x how to swear in your language (or a rude gesture in your culture)
+87 You had a dream and really want to share with x.
+88 You had a nightmare and confided in x, what was it?
+89 You have an old friend who retired from the Adventuring Life and set up a shop in the region. What was it called again?
+90 You notice there's something different about x. Guess what change they did.
+91 You picked up a small souvenir in the last town and want to show it off to x. What is it?
+92 You shared a secret with x, what was it?
+93 You tell the group a true ghost story.
+94 You've been to (town) before, what was it like?
+95 You've heard of a strange festival in this area. What is it?
+96 You've heard rumors about (town). What was it?
+97 You've heard rumors about the mayor of (town). What was it?
+98 Your character cannot pronounce a certain word, x decides to help
+99 Your desperate to stretch your legs, what's the first thing you want to do when this wagon stops?
+00 Your seat is uncomfortable, see if you can convince x to switch.

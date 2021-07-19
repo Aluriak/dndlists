@@ -1,0 +1,164 @@
+                                                         zero hp injuries                                                         
+
+ 1 Un coup à la nuque a affecté la coordination entre votre gauche et votre droite, ce qui rend difficile de les utiliser à nouveau
+   efficacement. Désavantage aux jets d'attaque avec les armes à deux mains (et les armes " polyvalentes " utilisées à deux mains).
+ 2 Une grande et profonde cicatrice sur le dos du joueur.
+ 3 Un esprit malveillant vous attrape alors que vous tombez. Vous êtes possédé.
+ 4 Une ecchymose permanente se trouve au centre de la poitrine du joueur.
+ 5 Une voix riche, profonde et veloutée commence à s'infiltrer dans votre esprit comme l'eau dans une éponge, vous offrant réconfort
+   et bons conseils. Elle finit par vous suggérer de vous faire suivre par des femmes, dont vous pourriez offrir les services en
+   échange d'argent. La voix fait ces suggestions de la manière la plus raisonnable possible au début, mais devient de plus en plus
+   pressante au fur et à mesure que vous n'avez pas "maqué" une femme, bien qu'elle ne suggérera jamais de faire quelque chose qui
+   soit moins efficace pour réaliser ses désirs.
+ 6 Une blessure apaisante qui menace d'empoisonner votre sang pendant 5 jours si elle n'est pas soignée quotidiennement avec un dc de
+   15 en médecine. Si vous êtes empoisonné (après deux échecs à stériliser la blessure), vous tombez malade et perdez 1d4 pv max
+   chaque jour jusqu'à ce que la blessure soit guérie.
+ 7 Une ancienne prophétie est révélée. En tombant, vous voyez ses machinations en action. Pendant que tu dors, d'autres choses
+   peuvent être révélées.
+ 8 Anawn, le dieu de la mort, est venu réclamer votre âme. Tu réussis à le soudoyer avec un chaton et tu vis pour raconter
+   l'histoire. La prochaine fois qu'un personnage meurt, tu verras la Mort te faire signe en souriant avec un chaton au bras.
+ 9 Alors que vous tombez inconscient, un étrange symbole noir et eldritch clignote au-dessus de votre poitrine, mais vous ne le voyez
+   pas.
+10 Spasmes du dos. Str -1.
+11 Coup à la tête - se réveiller en parlant une autre langue, devoir réapprendre le commun.
+12 Les deux bras sont gravement cassés.
+13 Par un hasard très faible et improbable, une créature volant au-dessus de votre tête défèque dans votre bouche alors que vous êtes
+   inconscient. Tout a un goût amer et terrible pour les 2d8 jours suivants.
+14 Le personnage développe une phobie de l'arme ou du type de dommage qui l'a mis à terre.
+15 Le fait d'avoir frôlé la mort a affecté votre capacité à rester concentré en combat. Vous devez effectuer un jet de sauvegarde de
+   Con DC 10 avant de lancer un sort. Un échec peut provoquer un accès de magie sauvage. Vous revenez à la normale après un long
+   repos.
+16 Explosion de cadavre.
+17 La mort est furieuse que vous l'ayez approchée de si près et que vous ayez survécu, et elle vous avertit dans une vision que la
+   prochaine fois que vous l'approcherez, elle prendra votre âme.
+18 Elfe, Demi-Elfe, Gnome - Le sommet de vos oreilles a été perdu et est arrondi comme un humain. . Nain - Votre barbe a été perdue
+   et la peau a été endommagée de telle sorte qu'elle ne peut pas repousser. . Demi-Orque - Vous avez perdu vos crocs inférieurs. .
+   Dragonborn - Vous avez perdu tout ou partie de votre queue. . Tiefling - Vous avez perdu tout ou partie de votre queue ~ou~ tout
+   ou partie d'une de vos cornes s'est cassée ou brisée. . Halfling, Human - Vous vous en tirez à bon compte et commentez que si vous
+   étiez X, vous auriez perdu votre X.
+19 Pendant 1d4 jours, vous combattez votre blessure due à une infection gangreneuse avec des tests de Médecine effectués par vous ou
+   un allié. Si un test échoue, vous devez retirer une partie du membre où se trouve l'infection.
+20 Avoir la vie hors de vous a provoqué une défécation. Vous sentez mauvais, votre pantalon est horriblement souillé et vous obtenez
+   un -3 à toutes vos sauvegardes CHA jusqu'à ce que vous soyez correctement nettoyé.
+21 Jambes ou pieds touchés - vitesse de déplacement réduite après s'être relevé.
+22 À l'article de la mort et dans le feu de la bataille, vous découvrez plus tard que vous avez perdu votre arme sur le lieu de la
+   bataille. Le MJ ne doit pas informer le PC de cet effet avant la prochaine fois qu'il essaie d'utiliser l'arme.
+23 Perdre tout sens de la moralité. Si le joueur ou le groupe le préfère, le personnage peut toujours prendre ce qu'il pense être des
+   décisions morales. Essentiellement en se basant sur ce dont ils se souviennent de la moralité.
+24 Amnésie mineure. Vous oubliez un cantrip que vous connaissez, ou une langue si vous n'avez pas de cantrips.
+25 Amnésie mineure. Vous oubliez qui sont les autres membres de votre groupe et pourquoi vous êtes dans cette quête.
+26 Expérience de mort imminente - votre personnage obtient l'alignement opposé à celui qu'il avait auparavant, se tenir à la porte
+   des morts vous a profondément changé.
+27 Blessure nécrotique - si elle n'est pas soignée par une puissante magie sacrée, votre blessure commence à endommager vos nerfs, la
+   peau commence à pourrir, des asticots commencent à ramper à l'intérieur, cela empire avec le temps.
+28 Pas d'effets secondaires physiques, mais vous acquérez une obsession émotionnelle malsaine pour la personne qui vous a sauvé.
+29 Un œil perd la vue et tombe.
+30 Un de vos poumons s'effondre. Vous prenez 1 point d'épuisement et ne pouvez pas faire de jet d'athlétisme sans en prendre un
+   autre.
+31 Le joueur porte une cicatrice permanente au point de la blessure.
+32 Le joueur perd un pouce. Désavantage sur les attaques de mêlée à une main avec cette main.
+33 Vengeance de l'au-delà - le personnage n'attaquera que le méchant qui l'a fait tomber (s'il est encore debout).
+34 Bourdonnements d'oreilles, vous êtes sourd pendant 1d4 rounds.
+35 Des dommages sévères dans les régions inférieures. Pas de perte d'état, on se sent juste triste.
+36 Shrapnel in the heart - Un éclat de métal s'est détaché de la lame qui vous a assommé. -1 aux jets de sauvegarde contre la mort.
+37 La peau commence à se détacher de vous avec une fréquence alarmante, ce qui fait que vous avez une peau perpétuellement lâche et
+   sensible. Vous ressentez désormais plus fortement les changements de température et vous perdez votre peau à une vitesse anormale
+   lorsque vous êtes proche de 0 HP.
+38 Fracture du crâne - en cas de mouvement trop rapide, le monde se met à tourner et vous aurez -2 à tous les jets de sauvegarde ou
+   tests de compétences qui impliquent un mouvement au point de vomir. Ce modificateur dure 1d10 jours à moins d'être complètement
+   guéri par une potion ou une magie. Pas avec un repos normal cependant.
+39 Déchirer votre ischio-jambier . -1 à l'initiative
+40 L'attaque a fondu/brisé 4d20% de la pièce que vous aviez sur vous.
+41 La lame a tranché votre visage en laissant une vilaine cicatrice. -1 charisme.
+42 Le coup envoie une onde de choc à travers votre côté droit, ruinant votre foie. Vous subissez un test de CON de -4 pour résister
+   au poison, et lorsque vous consommez de l'alcool, le test de CON est traité comme si vous en aviez bu deux fois plus.
+43 Les dommages causés par les brûlures, les poux, le poison et les acides sur votre peau ont entraîné une décoloration permanente de
+   votre teint. -2 CHA
+44 Le coup final a fait un trou dans ton armure. Elle a maintenant -1 AC.
+45 La lueur dans tes yeux a disparu. Vous n'avez plus la vision dans le noir si elle était accordée à votre race.
+46 Le joueur subit 1d4+1 niveaux d'épuisement.
+47 Les articulations du joueur sont constamment douloureuses.
+48 Le faucheur (ou une autre entité de la mort) a pitié de vous et vous permet de vivre. Cependant, elle prend votre âme comme
+   paiement.
+49 Le tissu cicatriciel vous rend plus résistant, +1 à la CA, -1 à la dextérité.
+50 La blessure sur votre tête a guéri mais a laissé une grande cicatrice circulaire sur votre cuir chevelu où aucun cheveu ne
+   poussera. Tout le monde croit maintenant que vous êtes un moine.
+51 La blessure a sérieusement perturbé quelque chose de profond en vous. Vous avez un désavantage sur les sauvegardes de mort jusqu'à
+   ce que vous soyez guéri par une puissante magie.
+52 La blessure que vous avez contractée reste douloureuse et vous êtes devenu dépendant des analgésiques. Chaque potion de soin vous
+   laisse avec -1 Dex pendant une heure.
+53 Pour atteindre vos blessures, vos alliés doivent couper vos vêtements. Vous êtes maintenant nu.
+54 En atteignant 0 HP, vous perdez 1d4 dents.
+55 Au réveil, le joueur est confus pendant 1d4 heures.
+56 Lorsqu'un camarade pc tombe à 0 hp dans votre ligne de vue, lancez 1d4. 1 et 2 : aucun effet. 3 : le joueur entre dans une rage
+   barbare, quelle que soit sa classe, pendant 1d4 rounds. 4 : le joueur entre dans une transe mémorielle et ne réagit plus pendant
+   1d4 rounds.
+57 Lorsque vous ouvrez à nouveau les yeux, ils vous piquent et votre vision est fausse. Vous prenez -5 à tous les jets d'attaque à
+   distance.
+58 Chaque fois que vous vous endormez, lancez un D8. Si vous obtenez un 1, vous faites des cauchemars traumatisants et ne bénéficiez
+   pas des avantages du sommeil. (Pour rendre cela encore plus méchant : lancez à nouveau un D8. S'il tombe sur 1 la deuxième fois,
+   gagnez un niveau d'épuisement, à moins que le nouveau niveau d'épuisement ne vous tue).
+59 Vous êtes lié à la créature qui vous a amené à 0 HP. La douleur qu'elle subit est partagée entre vous deux pendant 1d4 rounds.
+60 Vous êtes possédé jusqu'à ce qu'une cérémonie spéciale ait lieu.
+61 Vous vous êtes arraché une partie de la langue en tombant, ce qui rend la parole plus difficile et vous donne un zézaiement.
+   Désavantage aux tests de compétence Cha (Tromperie, Intimidation, Performance et Persuasion) impliquant la parole.
+62 Vous vous cassez la jambe gauche.
+63 Vous en sortez pratiquement indemne, mais vous avez perdu la capacité d'utiliser vos organes génitaux à des fins sexuelles.
+64 Vous subissez une inversion mineure du fonctionnement de votre cerveau, ce qui vous amène à changer de main dominante. Si vous
+   êtes ambidextre, lancez un 1d3 pour déterminer quelle est votre main dominante : 1 : Votre main droite. 2 : Votre main gauche. 3 :
+   Aucune des deux mains, vous n'avez pas de main dominante et êtes aussi maladroit avec les deux.
+65 Vous gagnez un nouveau défaut : "Je suis devenu dépendant du frisson du danger, être proche de la mort est la seule chose qui me
+   fait me sentir vivant".
+66 Vous gagnez une faiblesse de la créature qui vous a amené à 0 HP.
+67 Vous gagnez le tatouage de celui/celle qui vous a amené à 0 hp.
+68 Vous avez été décapité. Mort instantanée.
+69 Vous avez perdu une caractéristique d'identification de votre race :
+70 Vous avez perdu la syntonisation avec votre arme/armure/etc. (choisissez-en une).
+71 Vous vous êtes cogné la tête en descendant, -1 INT.
+72 Vous ne vous sentez pas à votre place, comme si vous deviez réapprendre à votre corps usé à se remettre dans le bain. Vous avez
+   perdu (Niveau*500) XP.
+73 Vous perdez 1d4 doigts.
+74 Vous perdez BEAUCOUP de sang. Vos HP maximum sont réduits de moitié, mais sont restaurés de 10% à chaque long repos.
+75 Vous parvenez à cautériser la plaie sur votre pied mais perdez un orteil. Vous avez maintenant pour toujours une démangeaison
+   fantôme insistante à l'endroit où se trouvait votre orteil, mais pas d'orteil à gratter. Vous vous demandez si l'enfer n'aurait
+   pas été pire.
+76 Tu parviens à esquiver un coup/sort qui aurait dû te tuer, mais il s'abat sur ton sac à dos et détruit un objet aléatoire (lance
+   un dé).
+77 Vous parvenez à survivre mais votre colonne vertébrale reste raide et douloureuse. Vous devez maintenant traîner un matelas
+   moelleux ou payer pour une auberge décente afin d'avoir un long repos.
+78 Votre tissu musculaire est endommagé de façon permanente. -2 à la force.
+79 Vous perdez partiellement votre sens du goût et de l'odorat, ce qui fait que chaque saveur ressemble à de la pourriture et que
+   chaque parfum sent la décomposition. C'est le cas de toutes les odeurs et de tous les goûts, à l'exception de tout ce qui est
+   pourri et putride, qui a l'odeur d'un repas frais et le goût d'un mets gastronomique.
+80 Vous avez une blessure permanente à la jambe droite. Vous marchez avec un boitement à partir de maintenant. Vitesse de marche de
+   -5 pieds, vitesse de course de -10 pieds. (Ou les deux sont divisés par deux ? À vous de voir).
+81 Vous recevez un acouphène léger, et bénéficiez d'un désavantage pendant 1d4 heures sur les tests de perception auditive.
+82 Vous vous mettez à boiter. Votre vitesse de marche est réduite de façon permanente de 5 ft.
+83 Vous arrêtez de respirer et ne pouvez pas faire de jet de sauvegarde. Vous devez être stabilisé avant 1d4+1 rounds.
+84 Vous avez ensuite des flashbacks vifs/intrusifs de ce moment.
+85 Vous souffrez de flashbacks.
+86 Vous souffrez d'une immense culpabilité jusqu'à ce que vous fassiez amende honorable auprès de quelqu'un que vous avez lésé.
+87 Vous souffrez de vertiges intenses et devez effectuer un jet de sauvegarde DC 10 ou tomber à plat ventre.
+88 Vous souffrez d'un dommage auditif permanent à l'oreille gauche en raison d'un traumatisme crânien.
+89 Vous avez subi des dommages nerveux qui affectent votre capacité à vous déplacer. Se déplacer sur un terrain difficile de 1 pied
+   coûte maintenant 3 pieds de mouvement.
+90 Vous ne serez plus jamais capable de bien dormir, lancez un d4 à chaque long repos - si le résultat est 4, vous ne récupérez pas
+   de pv.
+91 Vous avez déjà frôlé la mort, mais cette fois-ci, c'était la fois de trop. La prochaine fois que vous faites un jet d'initiative
+   en combat, vous devez réussir un jet de sauvegarde de Sagesse DC 14 ou lâcher ce que vous tenez et être effrayé pendant une
+   minute.
+92 Votre armure est très endommagée, mais récupérable. Elle ne peut être portée à nouveau avant d'être réparée.
+93 Vos mains sont écrasées. Vous perdez toute compétence en matière de maniement de la main et d'instruments à cordes.
+94 Votre vie épargnée a fait de vous une personne croyante... ou bien votre confrontation avec la mort vous a rendu amer et vous avez
+   tourné le dos à votre dieu.
+95 Vous vous êtes vidé de votre énergie magique. Vous avez maintenant un -1 à votre sauvegarde contre les sorts dc jusqu'à ce que
+   vous puissiez passer >8 heures de méditation dans un lieu saint.
+96 Vos nerfs sont touchés, pendant 1d4+ 3 jours, vous ne ressentez aucune douleur et le DM suit votre état de santé à votre insu.
+97 Votre colonne vertébrale prend un coup écrasant. Vous êtes paralysé à partir de la taille. Votre vitesse chute à 5 et vous êtes
+   considéré comme couché.
+98 Tout votre corps est en souffrance, ce qui rend le sommeil difficile. Traitez le prochain repos long que vous prenez comme s'il
+   s'agissait d'un repos court.
+99 Vos blessures vous font cracher du sang alors que vous êtes inconscient. Vous perdez automatiquement 1 sauvegarde de mort alors
+   que vous luttez pour respirer.
+00 Vous avez subi un coup à la tête et avez eu une commotion cérébrale. Vous avez des accès de folie qui vous laissent temporairement
+   et de manière imprévisible dans l'incapacité d'agir (1d4 tours) jusqu'à ce que vous ayez bénéficié d'un long repos.

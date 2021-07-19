@@ -1,0 +1,251 @@
+                                             items for sale in a fantasy black market                                             
+
+ 1 8 pierres dans une petite pochette en cuir. Rouge, orange, jaune, vert, bleu, indigo, violet, noir. Chacune lance un sort à son
+   niveau de base. Les pierres ont des qualités qui indiquent le nombre de fois qu'elles peuvent être utilisées : " parfait " = 3
+   utilisations, " fêlé " = 2 utilisations, " fissuré " = 1 utilisation. Une fois la dernière utilisation terminée, la pierre se
+   brise en une fine poussière. Pour utiliser une pierre, lancez-la vers la cible. (Rouge (fêlé), boule de feu ; Orange (parfait),
+   cône de vérité ; Jaune (parfait), lumière du jour ; Vert (parfait), croissance des plantes ; Bleu (parfait), créer/détruire l'eau
+   ; Indigo (fêlé), commandement ; Violet (fêlé), animer les morts ; Noir (fêlé), mot de pouvoir annihiler).
+ 2 Un chat de race Calinic. De couleur violacée, il peut sentir le poison, et préfère manger de la nourriture empoisonnée, même s'il
+   est rassasié. Heureusement, le chat semble être immunisé contre les poisons, les toxines, les acides et les venins. Il peut
+   également manger des suintants et des baveux. Malheureusement, il se comporte autrement comme un chat normal ; il y a très peu de
+   gens qui veulent s'occuper d'un chat et en même temps trouver les capacités d'un Calinic utiles sur ce marché, donc le vendeur
+   offre probablement le chat à un prix réduit.
+ 3 A Clockwork Thing you Don't Know what it does - It's sort of a kind of brassy part and a springy part, and a glass tube, and the
+   merchant is very insistent you keep it on the hush-hush that he's selling it.
+ 4 A Hand of Glory - Toute créature non alignée sur le mal, autre que le porteur, se trouvant à moins de 30 pieds de la bougie
+   allumée est soumise à un sort de blocage de personne DC 18. Une créature paralysée de cette manière perd 3d6 points de vie maximum
+   et au début de chacun de ses tours.
+ 5 Un humain doté d'un bras mécanique prétend pouvoir percer n'importe quel coffre-fort que vous lui apportez, pour le bon prix et
+   une part des biens.
+ 6 Une boîte à puzzle sphérique - Elle dégage une aura malveillante et ne passe certainement pas un test de 'Détection du Mal'. Le
+   marchand vous assure qu'elle peut être ouverte, mais vous demande de ne pas essayer avant de vous être éloigné d'eux.
+ 7 Un bébé grimlock. Aveugle, miaulant, et sans défense. Il pourrait être élevé pour être une sorte de serviteur.
+ 8 Un savon censé avoir été fabriqué à partir de l'estomac d'un Basilic.
+ 9 Une babiole qui donne l'impression de contenir un univers miniature. Regarder la boule pendant trop longtemps peut provoquer une
+   folie passagère, bien que les tieflings soient étrangement immunisés.
+10 Un orbe noir en bouleau dont personne ne s'approchera car les deux derniers propriétaires sont morts mystérieusement (il n'y a
+   aucun problème, c'est juste une coïncidence).
+11 Un livre plein de marques étranges qui aurait été pris sur la tête morte d'un culte. En réalité, il s'agissait d'un livre
+   griffonné par un enfant en bas âge.
+12 Un chat noir en cage, qui possède une aura d'énergie sombre ; toutes les créatures qui s'approchent du chat voient leur force
+   vitale sapée par l'aura du chat.
+13 Une fée en cage. Secouez la cage pour obtenir de la poussière magique. La poussière accorde un bonus/avantage de chance sur un jet
+   dans l'heure qui suit. Chaque fois que tu secoues la cage, il y a 5% de chances que la fée meure de commotions cérébrales.
+14 Une boussole qui pointe vers la personne qui a le plus d'argent sur elle dans une pièce. Ça ne marche pas à l'extérieur.
+15 Une combinaison maudite ; la combinaison ne peut pas être enlevée et si la personne qui la porte tente de commettre un crime
+   quelconque, elle se fait elle-même commettre ce crime. Par exemple, si quelqu'un qui porte la combinaison essaie de commettre un
+   incendie criminel, ses cheveux seront enflammés ; s'il essaie de voler quelqu'un, un de ses objets disparaîtra et réapparaîtra en
+   possession de quelqu'un d'autre, et ainsi de suite.
+16 Une dague qui rate toujours sa cible. Excellent pour tromper une personne spéciale.
+17 Un verre de scrutation sombre - Il ne vous montre que des choses que vous feriez mieux de ne pas voir. Celui-ci est arrivé chez le
+   marchand après que le propriétaire précédent l'ait examiné et soit tombé dans une dépression suicidaire.
+18 Un nain recouvert de ce qui ressemble à une décennie de saleté promet de pouvoir accéder à n'importe quel bâtiment de la ville, en
+   supposant que l'argent et la propreté ne sont pas un problème.
+19 Un coeur de nain sur la glace. Idéal pour les potions de santé !
+20 Un faux-lactère (alias - un phylactère de fou). Si vous avez l'objet sur vous (qui a la taille de votre poing) et que vous tombez
+   à 0 hp, votre âme entre dans l'appareil et y reste pendant un long repos. Puis vous retournez dans votre corps avec 1 hp et 2
+   niveaux d'épuisement. L'objet se brise après.
+21 Un chapeau de fermier qui, lorsqu'il est posé sur un épouvantail, lui donne vie sous les ordres du propriétaire du chapeau. Il
+   suivra toutes les instructions mais aime être violent.
+22 Une faveur d'un oni.
+23 Un gant qui vous permet de réécrire un document entier en un instant lorsque vous le touchez avec le gant.
+24 Un crâne de gobelin, qui porte une muselière en cuir. Lorsqu'il est retiré, il raconte l'histoire de sa mort d'une voix insolente
+   et aiguë. Chaque fois qu'il commence, il change quelques détails pour s'adapter au mieux à ses auditeurs (s'il a un elfe devant
+   lui, les marchands de son histoire seront des elfes, etc.)
+25 Un masque de démon de style kabuki. Il donne à son utilisateur un avantage sur les tests d'intimidation, mais un désavantage sur
+   les tests de persuasion, et sur tout test d'investigation ou de perception qui repose sur la vision, car les fentes des yeux sont
+   trop petites (cela pourrait être résolu en passant du temps à limer les trous des yeux plus grands). Vous pouvez soit le maudire,
+   soit demander à un illusionniste de tapisser l'intérieur du masque avec de la colle souveraine.
+26 Un crâne de kobold qui vous donne de la chance (1 relance d'un d20 une fois par jour). Si vous êtes en présence de kobolds, ils
+   vous attaqueront en masse et avec une grande rage.
+27 Un gros globe oculaire suspendu dans un bocal. Il regarde les changeurs de forme et les créatures invisibles, sinon il ne fait
+   rien.
+28 Un gant de cuir. On dit qu'il provient d'un voleur assez célèbre et qu'il a apporté ses pouvoirs avec lui - chaque fois que
+   l'utilisateur l'enlève, il y a 10 % de chances qu'un de ses doigts disparaisse, volé à jamais par l'esprit de ce voleur.
+29 Un parchemin vélin magique qui peut être enroulé autour d'un membre pour le faire ressembler à une prothèse en bois, ou autour
+   d'une arme pour la faire ressembler à un objet inoffensif de taille et de proportions similaires.
+30 Un miroir ou une lentille qui peut être utilisé pour voir des choses invisibles mais qui présente un éblouissement horrible
+   lorsqu'il est exposé à la plupart des sources de lumière.
+31 Un miroir qui, lorsqu'il est accroché dans une pièce, vous permet de voir à travers la porte et les murs dans le reflet.
+32 Un voleur nerveux essaie de vendre un faux œil en ivoire avec un iris en opale qu'il a volé à un vieux capitaine de mer. Il dit
+   qu'il lui apporte de mauvais rêves et lui murmure dans le noir.
+33 Une pomme parfaitement ordinaire. C'est la seule chose qu'il y a sur l'étal de cette vieille femme, mais vous ne lui faites pas
+   vraiment confiance.
+34 Un crapaud pétrifié. Lorsqu'on le tient au creux de la main pendant une minute, le corps du crapaud se réchauffe et revient à la
+   vie. Celui qui l'a fait peut lui ordonner de se rendre à un endroit et d'y rester jusqu'à 12 heures. Ensuite, il tente de
+   retourner auprès de son utilisateur. Ce dernier le tient à nouveau en main pendant une minute jusqu'à ce qu'il se pétrifie et
+   qu'il ait accès aux souvenirs récents du crapaud.
+35 Une fiole de mucus d'aboleth.
+36 Un judas portable en forme de cercle d'acier, à peu près deux fois moins grand qu'un poing humain. L'extrémité ondulée est placée
+   sur la surface d'un objet solide, puis tournée dans le sens des aiguilles d'une montre, ce qui l'enfonce dans la surface. Cela
+   crée un trou purement visuel (il s'agit d'une illusion visuelle plutôt que d'une ouverture réelle) jusqu'à l'autre extrémité de
+   l'objet. Pour le retirer, il faut saisir les dents émoussées de l'extrémité tournée vers l'extérieur et les faire tourner dans le
+   sens inverse des aiguilles d'une montre.
+37 Une pochette contenant une poudre bleue qui, lorsqu'elle est saupoudrée sur un objet, fait en sorte qu'aucun sort ou objet magique
+   ne puisse sentir la magie ou l'alignement de l'objet. L'objet conserve ses capacités magiques. La poudre doit être réappliquée
+   toutes les 6 heures pour maintenir son effet.
+38 Un puissant seigneur démon nommé Eas'thi'kaula qui a été piégé dans un minuscule dôme de verre incassable. Il plaidera pour être
+   libéré et pour être autorisé à faire des choses maléfiques.
+39 Un trousseau de clés, chacune clonée d'une pièce différente dans un manoir voisin.
+40 Une bague qui, lorsqu'on la met au doigt de quelqu'un, sa peau se transforme en acier et se propage rapidement ; pour l'arrêter,
+   il faut amputer le doigt, la main ou le bras.
+41 Un parchemin contenant les secrets pour trouver et exploiter une base de caverne magiquement cachée dans les montagnes.
+42 Une bille apparemment ordinaire. Lorsqu'une créature touche la bille avec sa peau nue, elle ressent une vive douleur, mais la
+   bille ne lui fait aucun mal physique.
+43 Un pack de six Potions de Grande Guérison. Trois d'entre elles sont en fait des potions de poison déguisées. Une chance sur deux
+   de boire l'une ou l'autre.
+44 Un pack de six potions attachées ensemble. Une note sur l'une des potions indique : "Celle-ci n'est pas empoisonnée !". La note se
+   déplace magiquement entre les bouteilles lorsqu'elle n'est pas examinée. Les potions se remplissent chaque soir au crépuscule.
+45 Un crâne qui produit un flux constant de cendres à partir de ses cavités ; produit une livre de cendres par minute.
+46 Une petite réplique en ivoire de la couronne d'un roi. Son propriétaire peut participer à un jeu d'échecs fractal, une version du
+   célèbre jeu de société sans nombre fixe de joueurs et avec un plateau de jeu d'une taille incompréhensible. Les joueurs peuvent
+   communiquer entre eux, quelle que soit la distance physique ou planaire, mais ils ne peuvent le faire que lorsqu'ils effectuent un
+   tour, de sorte que les messages par le biais des échecs fractals sont lents. Il n'y a qu'un seul jeu en cours, qui a commencé avec
+   son invention. Il n'y a pas eu de gagnant depuis des milliers d'années, mais il y a beaucoup de perdants.
+47 Un petit orbe que vous gardez dans votre poche. Il émet un léger bourdonnement lorsque quelqu'un parle de vous avec haine ou avec
+   des intentions malveillantes (à condition que vous vous trouviez à moins de 250 pieds de lui).
+48 Une petite fiole qui contient les cheveux d'une princesse. On dit qu'ils portent chance aux jeunes mariées.
+49 Une étrange barre brune, à peu près aussi épaisse qu'un pain de savon. Le vendeur prétend qu'elle vient d'un pays lointain et que
+   sa création nécessite un rituel très obscur. Elle dégage une odeur légèrement sucrée ; en la croquant, vous découvrez qu'elle a un
+   goût incroyablement sucré. Tous les autres aliments et desserts pâlissent en comparaison après avoir goûté à la gloire de la barre
+   de chocolat.
+50 Un Ranger Tabaxi en peluche, j'appelle ça de la Tabaxidermie.
+51 Un Quasit ou un Lutin dressé dans une petite cage.
+52 Un imitateur entraîné.
+53 Une fiole de sang de dragon de cuivre - Du sang, encore chaud, prélevé et conservé au moment où il a été tué. On dit de ceux qui
+   le consomment qu'ils sont capables de détecter les mensonges ; lancez Zone de vérité une fois. L'utilisateur est marqué par les
+   effets de la magie, et obtient une marque sur sa peau.
+54 Une baguette qui peut faire un vœu à la personne visée, mais elle a été mélangée à 20 autres baguettes, dont certaines peuvent
+   être mortelles.
+55 Une ordonnance accordant une faveur, dans la limite du raisonnable, à un syndicat du crime. Votre paiement les aide à rester en
+   affaires. L'écriture peut être magiquement suivie par eux.
+56 Une innovation avancée dans le nouveau domaine de l'armurerie - le Revolver Apache. Il s'agit d'un revolver (si vous utilisez 5e,
+   les règles se trouvent à la page 268 du Guide du maître du donjon) avec un couteau et un poing américain intégrés. Il ne s'agit
+   probablement pas du revolver "Apache", à moins qu'il n'ait sa place dans votre environnement. Et oui, ce n'est pas une arme très
+   pratique, mais elle semble se vendre rapidement.
+57 Un vieux gnome qui parle dans un murmure rauque. Il vend des parchemins de sorts nécromantiques et offre des réductions si
+   l'acheteur peut fournir du sang.
+58 Une bougie de prière d'apparence banale. Une technique précise de façonnage de la cire a été utilisée pour cacher des sigils
+   magiques à l'intérieur du corps de la bougie, de sorte que lorsque la mèche est brûlée, elle génère un champ dont aucun son ne
+   peut s'échapper dans un rayon de 12 pieds. La bougie se consume cependant plus vite que la normale, généralement en 10 minutes
+   environ. Vous aurez simplement l'impression que vous et la personne que vous rencontrez priez en silence, à condition que vous ne
+   gesticuliez pas.
+59 Une arme instable, fabriquée à partir de la fusion de plusieurs objets enchantés. L'arme est puissante, mais a 1d8 chances de se
+   briser sous l'effet d'un sort aléatoire lancé sur le manieur (les sorts AOE affectent le manieur et tous les amis/hostiles à
+   portée).
+60 Ancienne monnaie oubliée - de précieuses pièces de collection que l'on croyait perdues depuis des millénaires. En vente
+   aujourd'hui seulement !
+61 Potions d'amour de l'eau de fond - Très efficaces (sauvegarde de sagesse DC 15) et durent 1 semaine. Le buveur tombe éperdument
+   amoureux de la personne qui lui a donné le breuvage (ou des talons au-dessus de la tête, si vous préférez). Mais il y a 10% de
+   chance que le buveur devienne obsessionnel, harceleur, voire violent envers les autres prétendants potentiels. Si cela se produit,
+   le buveur restera dans cet état pendant un mois au lieu d'une semaine.
+62 Poisons binaires. Chacun est vendu sous la forme d'une paire de pots à compte-gouttes. Toute personne qui consomme une dose
+   efficace du contenu du premier et du second bocal dans un délai de 36 heures subit les effets de la totalité du poison ou de la
+   drogue d'origine. De nombreux poisons et drogues différents sont vendus de cette manière.
+63 Les livres qui ont été interdits dans la région.
+64 Salive d'ours - lorsqu'elle est appliquée sur la peau, elle inflige à l'utilisateur 2d4 points de dégâts mais le rend résistant
+   aux dégâts de feu, de tonnerre ou d'acide pendant 1d6 heures.
+65 Clod l'Immortel - Une grande table grossièrement taillée avec " CLOD WUZ HERE " gravé dans un coin. La table est absolument et
+   totalement ignifugée ; même sur le plan élémentaire du feu, elle est fraîche et ferme. C'est aussi une table lourde.
+66 Des contrats d'une guilde locale d'assassins.
+67 Des contrefaçons de vins, spiritueux, fromages et autres produits prestigieux. Ce sont sûrement des contrefaçons, sinon il n'y en
+   aurait pas autant, vendues à des prix aussi bas.
+68 Coupe de plantes vivantes carnivores - Pensez-y, plantée dans le bon sol, vous pourriez avoir votre propre vigne assassine dans
+   votre jardin. Ça chassera les corbeaux.
+69 Lame en diamant (+1) - Une lame faite de diamants. La soie de la lame est en argent, son pommeau en diamant également. Elle
+   reflète et réfracte la lumière et la magie de façon mystérieuse. Si, lors d'une attaque, vous ajoutez des dégâts d'acide, de
+   froid, de feu, de foudre, de poison, de tonnerre, de nécrose ou de rayonnement à vos dés de dégâts d'arme, lancez un 1d8, le type
+   de dégâts d'arme ajouté est changé en (1- Acide, 2- Froid, 3- Feu, 4- Foudre, 5- Poison, 6- Tonnerre, 7- nécrose, 8- rayonnement).
+70 Doses de "Juiblex" - Ampoules d'un liquide noir visqueux qui provoque une euphorie catatonique et est extrêmement dangereux pour
+   la santé.
+71 Dossiers de chantage sur les fonctionnaires de la ville qui sont mis à jour magiquement au fur et à mesure que le monde criminel
+   est informé du chantage. Les organisations qui vendent ces enveloppes magiques censurent les informations sur les pots-de-vin
+   qu'elles effectuent.
+72 Sphères élémentaires - Sphères de verre tenues à la main, conçues pour être lancées et brisées afin de libérer l'élémentaire piégé
+   (et assez contrarié) qui s'y trouve. Leur fabrication a été officiellement interdite après un certain nombre d'accidents macabres,
+   mais il existe toujours un marché pour un objet destructeur facile à dissimuler.
+73 Œil d'espion - un œil momifié. Une fois accordé, l'œil peut être placé à un endroit et l'utilisateur peut voir ce qu'un œil voit.
+74 Services de falsification - scellés (fouille, mise en fourrière, arrêt du porteur ou de cette cargaison à vos risques et périls) /
+   taxes payées / titre de passage.
+75 Les œufs Griffin pour un repas de grande classe. Ils vous laisseront rassasié toute la journée.
+76 Boissons alcoolisées illégales mélangées à du sang illithid. On dit qu'elle a un fort effet hallucinogène lorsqu'elle est
+   consommée.
+77 Paradis infernal - Une peinture représentant les royaumes infernaux. Si vous l'éclaboussez de sang, cela ouvre un portail vers
+   lesdits royaumes. Si vous êtes vraiment malchanceux, certains des habitants profiteront de l'occasion pour traverser le portail.
+78 Touche de mimétisme - si la touche touche touche une autre touche, elle peut prendre la forme de cette touche.
+79 Lanterne du voleur furtif - la lumière de la lanterne ne peut être vue au-delà de la portée "x" par quiconque se trouve en dehors
+   de cette portée, la zone semble ne pas être éclairée.
+80 Pain à la Lembas - Une pâtisserie elfique sans marque fabriquée par des elfes sans marque. En fait, ce sont peut-être des
+   gobelins. Assez nourrissant, mais son goût est infect, comme si c'était principalement du suif rance.
+81 Des cartes de passages secrets dans les bas-fonds des vieilles villes ou des châteaux, vendues à côté des cartes de passages
+   enregistrés entre l'Underdark et le monde de la surface. Elles comportent des symboles d'avertissement, mais elles ne tiennent
+   probablement pas compte de tous les dangers. Les cartes sont illisibles pour ceux qui ne les ont pas achetées.
+82 Poudre de myconide - myconides littéralement pulvérisés, parfaits pour renforcer les sorts liés au sommeil. Effet secondaire : la
+   cible de ces sorts fera pousser des champignons sur son corps pendant quelques jours.
+83 Periapt of Porcine Attraction - Cette amulette rend le porteur adorable aux cochons, sangliers et autres bêtes similaires. Les
+   animaux ne feront pas de mal au porteur, et ne sont pas non plus intéressés par la romance ; au lieu de cela, ils se contentent de
+   se blottir contre le porteur et de le regarder avec amour.
+84 Sable (dimensionnel) de poche - un petit sac de sable enchanté pour ouvrir une porte vers une dimension de poche. Pour l'utiliser,
+   éparpillez le sable sur une surface de votre choix, et prononcez le mot de commande (shashasha !). Une porte égale à l'espace
+   couvert par le sable (pas plus de 10x10 pieds) s'ouvre pendant 1d6 minutes. Le sable tombe dans la dimension de poche lors de son
+   utilisation et est consommé. Il y a assez de sable pour couvrir un espace de 10x10 pieds, ou 4 espaces séparés de 5x5 pieds. Si
+   elle est utilisée plusieurs fois, chaque porte mène à la même dimension de poche.
+85 Des poisons dérivés des yeux des détenteurs, prétendant avoir les effets des yeux avec lesquels ils ont été brassés.
+86 Bec de roc en poudre. A consommer pour se transformer en aigle géant.
+87 L'or du farceur, un liquide qui se transforme en 100gp de pièces d'or récemment frappées pendant 24 heures après avoir été versé
+   de la fiole, avant de se transformer en un gaz inodore. Les fioles sont vendues à la fois individuellement et en vrac, et en
+   différentes tailles. Il est compréhensible que personne sur ce marché n'accepte les pièces d'or comme moyen de paiement.
+88 Les objets religieux qui ont été interdits dans la région.
+89 Anneau à dix-sept clés - Chaque clé a 5 % de chances d'ouvrir une serrure que vous trouvez. Une fois qu'une clé a ouvert quelque
+   chose, elle ne s'adapte à aucune autre serrure.
+90 Clé squelette - la clé s'insère dans presque toutes les serrures normales et peut les déverrouiller ou les verrouiller.
+91 Sphère de grande divination - Une sphère de cristal d'obsidienne noire remplie d'un fluide sombre et encré. A l'intérieur de la
+   sphère se trouve un petit dodécaèdre blanc avec un texte noir sur chacune de ses faces. La sphère dégage une faible aura de
+   divination. Comme action, elle peut être secouée et le texte sur le dodécaèdre peut être lu alors qu'il flotte au sommet de la
+   sphère. Traite comme le sort 'Augure', mais ne peut être utilisé qu'une fois par jour, et a 1d4 chances de donner un résultat
+   aléatoire ou un résultat choisi par le MD.
+92 Des lunettes de soleil qui vous permettent de voir tous ceux qui sont susceptibles de s'intéresser à vous.
+93 La cloche de la fortune bien-aimée - Elle est censée apporter le véritable amour à vos meilleurs amis lorsqu'elle sonne. Ne
+   procure en fait aucun avantage romantique à son propriétaire.
+94 La clé eldritch - Vendue par un ancien voleur à l'air plutôt hagard et nerveux. Elle prétend que la clé peut ouvrir n'importe
+   quelle serrure, même celles qui sont protégées par la magie. Cependant, ce qu'elle ne vous dit pas, c'est que plus vous
+   l'utilisez, plus vous voyez une abomination ambulante, rampant dans l'obscurité, dans le coin de votre œil. Naturellement, rien
+   n'est là quand vous regardez. Peut-être.
+95 La main gauche de Maaug - Un grand gantelet couvert de lames. Il pèse 25 livres, ce qui le rend pratiquement impossible à porter.
+96 La pièce de monnaie forte - Cette pièce de cuivre crasseuse, lorsqu'elle est jetée au sol, commente bruyamment tout ce qui se
+   trouve dans un rayon de 60 pieds autour d'elle, donnant une description précise (bien que peu flatteuse) de la pièce et de tous
+   ses occupants.
+97 La vieille flûte - Une flûte en bois étrange, mais magnifiquement sculptée. Lorsqu'on en joue, elle réveille le sang des alliés et
+   fait naître une peur primitive dans le cœur des ennemis. Lorsqu'elle est jouée sous la Lune du chasseur, elle invoque la Chasse
+   sauvage.
+98 Le collier de l'amour contaminé - Un collier en argent avec une gemme violette dessus. Mettez une goutte de votre sang sur la
+   gemme. Toute personne qui porte ce collier sera charmée en permanence par toi jusqu'à ce qu'elle l'enlève. En portant le collier à
+   long terme, la personne qui le porte devient fortement dépendante du charme (du donneur en particulier, mais aussi des sorts de
+   charme en général). TRÈS illégal ; la peine est la prison à vie à Neverwinter.
+99 Le champignon parlant - un champignon qui, lorsqu'il est mangé, vous permet de parler et de comprendre toutes les langues pendant
+   une heure. Lorsque l'effet se termine, vous oubliez comment parler pendant 1 jour.
+00 Le bouclier à deux visages - Un grand bouclier en métal avec l'image de deux visages hurlants s'opposant l'un à l'autre. Lorsqu'il
+   est équipé, lorsque les dégâts sont bloqués, le bouclier lance des mots tranchants à l'attaquant. Lorsqu'il est équipé, lorsque
+   l'utilisateur subit des dégâts, le bouclier lance des mots tranchants sur l'utilisateur.
+101 Les os de l'animal mascotte d'une nation (par exemple, tous les cygnes d'Angleterre appartiennent à la reine, ou les aigles à tête
+   blanche représentent les États-Unis). On dit qu'ils ont des pouvoirs magiques (soyez précis ! Divination, amélioration,
+   invocation, etc.), aphrodisiaques ou d'amélioration de la "puissance" masculine.
+102 Le livre de prières d'un prêtre violemment tué. On dit qu'il éloigne les fantômes, mais il pue de plus en plus chaque jour qui
+   passe.
+103 L'acte de propriété d'une taverne, d'une auberge ou d'un autre bâtiment inoffensif de la ville ; il possède un grand sous-sol
+   propre avec des pièces latérales cachées, parfait pour un laboratoire secret, une salle de réunion, une chambre forte, une chambre
+   de torture ou autre.
+104 Le pied gauche d'un homme pendu qui était innocent. Si on le met dans un chaudron rempli d'eau chaude, le contenu se transformera
+   en une superbe soupe - ceux qui mangent cette soupe n'auront plus besoin de nourriture pour la journée et ne souffriront pas de
+   l'effet du milieu froid.
+105 Les souvenirs d'un garde mort. L'objet lui-même est la poignée d'une dague (sans lame). Lorsqu'il est saisi fermement, le
+   détenteur voit apparaître un souvenir aléatoire de la vie du défunt. La poignée est accompagnée de la garantie excessivement
+   sincère du vendeur qu'elle a été obtenue de la manière la plus éthique qui soit.
+106 Les services d'une bande d'orcs mercenaires.
+107 Le crâne d'un humain qui est mort après avoir été frappé par la foudre deux fois. Ses yeux brillent dans un cône de lumière de 60
+   pieds.
+108 Torture Wine - A le goût d'un délicieux vin fin. Après un long repos, l'utilisateur est submergé par la douleur et est incapable
+   de bouger ou de faire quoi que ce soit pendant 24 heures. Pendant ce temps, il doit faire une sauvegarde de sagesse (DC 15) ou il
+   sera émotionnellement marqué par cette horrible expérience (-1 au charisme de façon permanente).
+109 La corne de licorne. On dit que c'est un remède universel, mais il faut être un vrai salaud pour l'utiliser.
